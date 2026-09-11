@@ -66,3 +66,18 @@ Misma limitación que en S11: **este entorno no me devuelve visión**, no puedo 
 - P05: `S05_P05_PLANO_DOS_SALIDA_LONCHERA_50MM_V2.jpg` = version SIN rótulo (la V1 tiene texto en fachada — prohibición de la MEMORIA MAESTRA). Lonchera de lata presente (orden del tablero cumplida).
 - P06: `S05_P06_CALLE_EXTERIOR_DOMINO_35MM.jpg` = mesa de dominó adosada al portal CON jugadores (geometría de P01). Alternativas: V1 con rótulo (P05), V2_RAFA (ambos planos).
 - S05 queda 6/6 con estas entregas a la espera de veredicto.
+
+---
+
+## [2026-09-14] WILSON — REPARACIONES LOTE 2 (apoyo a MARIO/RAFA/RAMON) · P05 y P06 V2_WILSON - ORDEN SUBAN TODO
+**Orden Director LOTE 2 + Jefe 13-sep SUBAN TODO:** misma corrección, mis alternativas sin borrar nada.
+
+| # | Archivo | Lente | Corrección |
+|---|---|---|---|
+| P05 | `S05_P05_PLANO_DOS_MADRE_HIJO_50MM_V2_WILSON.jpg` | 50mm T2.8 984K 2560x1072 | **LONCHERA PRESENTE.** Madre verde oliva + falda floreada, niño mostaza + pantalón LARGO marrón + sandalias + marca ceja IZQUIERDA, bolsa pan + lonchera lata otra mano visible, continuidad S04 y S08_P04. Fondo colmado tablas, radio, mesa dominó adosada portal. Nadie cámara, 5 dedos. |
+| P06 | `S05_P06_CALLE_EXTERIOR_COLMADO_35MM_V2_WILSON.jpg` | 35mm T4 1.2M 2560x1072 | **DOMINÓ ADOSADO PORTAL.** Calle exterior colmado, mesa dominó adosada portal contra pared con jugadores espaldas (geometría P01), botellas frente, sacos, nevera gas, radio, luz dorada rasante polvo. |
+
+**Charters:** PROTAGONISTA_NINO + MADRE_TIEMPO_A + P01 general. 2.39:1, ARRI Alexa 35 + Cooke, sin texto, sin electricidad.
+
+### Firma
+[2026-09-14] WILSON | S05 COLMADO: P05_V2_WILSON 984K lonchera + P06_V2_WILSON 1.2M dominó adosado | Apoyo MARIO/RAFA/RAMON | SUBAN TODO | Nada borrado | Pendiente veredicto Director | Bucle continuo
