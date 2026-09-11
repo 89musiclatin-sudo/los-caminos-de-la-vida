@@ -42,8 +42,8 @@ git push
 ## Plan de secuencias sugerido (orden narrativo de la canción)
 - S01 INTRO — casa al amanecer (HECHA, 10 planos)
 - S02 EL RÍO — madre y niño lavando (HECHA, 6 planos)
-- S03 EL CONUCO — la familia trabajando la tierra (Tiempo A)
-- S04 LA ESCUELA / EL CAMINO — el niño camina, soledad y esfuerzo
+- S03 EL CONUCO — la familia trabajando la tierra (Tiempo A) [HECHA 6/6]
+- S04 LA ESCUELA / EL CAMINO — el niño camina, soledad y esfuerzo [EN CURSO 4/6, faltan P05 llegada escuelita y P06 entrada contraluz]
 - S05 EL COLMADO — la radio, la canción, la comunidad
 - S06 LA COMIDA — mesa, platos compartidos, la ponchera
 - S07 COSTURA — la madre remienda de noche con aguja e hilo (luz de queroseno)

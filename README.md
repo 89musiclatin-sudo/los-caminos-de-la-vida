@@ -30,4 +30,8 @@ si un chat se vence o se pierde, cualquier agente puede continuar desde aquí si
 - [x] Charters creados en producción: Hermano Tiempo A (adolescente) y Tiempo B (joven adulto).
 - [x] SECUENCIA_01_INTRO — 10 planos (heredada).
 - [x] SECUENCIA_02_EL_RIO — 6 planos (madre y niño lavando en el río).
+- [x] SECUENCIA_03_CONUCO — 6 planos (madre, niño y hermano en la tierra).
+- [~] SECUENCIA_04_CAMINO_ESCUELA — 4/6 planos HECHOS (faltan P05 y P06, ver SECUENCIA_04_PLANOS.md).
+- [ ] S05 COLMADO · S06 COMIDA · S07 COSTURA NOCHE · S08 PRESENTE (hijo cuida madre 80) · S09 PERFORMANCE LUIS · S10 CIERRE ABRAZO.
+- Límite de generación: 10 imágenes por turno — planificar 1-2 secuencias por turno.
 - [ ] Secuencias siguientes: ver `AGENTE_CONTINUIDAD.md` para el plan sugerido.
