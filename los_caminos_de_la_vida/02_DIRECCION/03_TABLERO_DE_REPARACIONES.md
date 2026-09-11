@@ -143,3 +143,15 @@ El Jefe subió la foto real del rostro de Luis: `uploads/LUIS_ROSTRO_REAL_FUENTE
 | S08_P04 macro fardo + lonchera | ✅ APROBADA | Inserto simbólico potente: la lonchera de la niñez y el fardo del viaje. Manos correctas. En FOTOGRAFIA_FINAL. |
 | S08_P05 hijo se aleja 35mm | 🔍 REVISAR | Misma orden de edad (15-16). Madre con canas ✓, escuelita ✓. |
 | S08_P06 madre sola (versión WILSON) | ✅ APROBADA — OFICIAL | Cierre de la secuencia: ella sola en el camino, canas, puño al pecho. En FOTOGRAFIA_FINAL. |
+
+---
+
+## 🔴 ORDEN CRÍTICA DEL DIRECTOR (12-seb, noche) — EL ESLABÓN PERDIDO
+**CAUSA RAÍZ detectada en S08:** el proyecto no tiene CHARTER DEL PROTAGONISTA ADOLESCENTE. Existe el niño (9-10) y el adulto (31-34), pero no el de 15-16 — por eso todas las versiones de la partida se ven de ~11 años: ningún agente tiene referencia para envejecerlo correctamente.
+
+**ORDEN a WILSON:** crear `00_continuidad/03B_PROTAGONISTA_ADOLESCENTE/PROTAGONISTA_ADOLESCENTE_CHARTER_OFICIAL.jpg` (pliego 7 vistas como los demás):
+- EL MISMO protagonista con 15-16 años: rostro del niño estirado hacia el adulto (mismos ojos, nariz, boca), **marca en la CEJA IZQUIERDA** (derecha del espectador en frontal), cabello negro rizado.
+- Complexión de adolescente del campo: más alto, hombros anchos, manos grandes.
+- Vestuario de la partida: camisa azul de trabajo + pantalón marrón.
+- Referencias obligatorias: charters del NIÑO y del ADULTO (es el puente entre ambos) + foto del hermano adolescente solo como guía de EDAD (no de rostro).
+**Cuando el charter esté aprobado, regenerar S08_P01, P02 y P05 con él. Veredicto sobre P02_V2 actual: 🔍 sigue leyéndose ~12 años — queda en reparación hasta que exista el charter.**
