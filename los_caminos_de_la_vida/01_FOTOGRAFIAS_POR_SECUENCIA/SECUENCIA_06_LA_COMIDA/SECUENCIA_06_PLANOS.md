@@ -1,70 +1,47 @@
-# SECUENCIA 06 — LA COMIDA · NOCHE EN CASA · EQUIPO COMPLETO
-**Director General: LEVI - Guion de 06_EQUIPO_DE_FOTOGRAFIA.md + 05_SET_CASA_BLOQUEADO.md + 07_INVENTARIO_LOCACIONES_Y_OBJETOS.md**
-**Fotógrafos:** WILSON (P01 + master hijos) · JUANA (P02-P04) · YUDERKA (P05) · MARIO (P06)
-**Fecha:** 2026-09-11
+# SECUENCIA 06 — LA COMIDA · NOCHE EN CASA · REPARACIONES LOTE 3 - BUCLE CONTINUO
+**Director: LEVI - Veredicto LOTE 3: P01/P04/P05 REVISAR, P06 REHACER + 05_SET_CASA_BLOQUEADO + 08_ORDEN_PERMANENTE_DE_BUCLE**
+**Fotógrafos:** WILSON (master 10 aprobado) + JUANA (P01/P04/P06) + YUDERKA (P05) + MARIO (P06 apoyo) - Reparaciones 13-sep
+**Fecha:** 2026-09-13 - Bucle sin parar
 
-**Set:** sala/comedor de la casa de NOCHE - MISMA sala del master 07_INTERIOR_SALA_COMEDOR_MASTER_4K.jpg - AÑADIENDO: ponchera grande metal al centro de la mesa, platos de metal, velador con lámpara de queroseno (sin mover lo existente del master 07). Piso de tablas gastadas (no tierra), paredes tablas horizontales con rendijas, techo zinc con vigas visibles, puerta central doble azul-grisácea y dos vanos oscuros a dormitorios al fondo, estante derecho con radio antiguo, farol verde queroseno, fotos enmarcadas, toalla colgada, banco bajo, ventana rústica izquierda. Luz: solo queroseno + brasa leve del fogón (anexo oeste, no en sala). Vestuario fijo S06: madre vestido casero azul de flores pequeñas + delantal beige · niño camiseta blanca limpia + pantalón largo marrón · hermano camiseta beige + pantalón caqui.
+**Set:** sala/comedor master 07 exacto: mesa gruesa izquierda con 2 bancos trenzado, banco bajo derecha, estante derecha con radio antiguo + farol VERDE queroseno + fotos enmarcadas + toalla colgada, puerta central doble azul-gris + vanos oscuros dormitorios (pared fondo EXACTA de P02), ventana rústica izquierda, piso tablas gastadas, techo zinc vigas. Añadidos: ponchera metal centro, platos metal, velador lámpara queroseno verde DOMINANDO encuadre. Luz: SOLO queroseno verde, noche profunda. Vestuario fijo S06: madre vestido azul flores + delantal + moño bajo (no afro) · niño blanco + pantalón LARGO marrón · hermano beige + caqui SIN marca.
 
-## Planos entregados - 6/6 - 2.39:1, 2560x1072, ARRI Alexa 35 + Cooke
+## Reparaciones ejecutadas - VEREDICTO LOTE 3
 
-1. **S06_P01_MESA_GENERAL_24MM.jpg** - WILSON - General mesa 24mm T4.5
-   - Acción: general de la mesa familiar, la lámpara domina encuadre, madre de pie sirviendo desde ponchera, niños sentados, mesa gruesa lado izquierdo con 2 bancos trenzado, banco bajo pared derecha, estante derecho con radio+farol+fotos+toalla, puerta doble azul-gris al fondo + 2 vanos dormitorios, piso tablas, ventana izquierda
-   - Luz: queroseno cálida, noche profunda fuera
-   - Eyeline: madre mira ponchera, niños miran plato, nunca a cámara
-   - Cumple: set bloqueado 05, inventario 07, 5 dedos, sin electricidad
+1. **S06_P01_MESA_GENERAL_24MM.jpg** - JUANA/WILSON - REVISAR -> CORREGIDO 13-sep - General 24mm T4.5
+   - Orden Director: pared fondo no coincide P02 (dos puertas azules vs puerta tablas + vano oscuro + puerta azul). Rehacer clonando EXACTAMENTE pared fondo P02.
+   - Corrección: pared fondo ahora idéntica a P02 aprobada: izq a der vano abierto cocina con luz -> puerta tablas azul-gris con Z -> vano oscuro dorm hijos -> puerta azul-gris con Z. Resto set = P02 sin cambios: mesa izq 2 sillas guano, estante der radio+farol VERDE+fotos+toalla+banco bajo, farol verde sobre mesa DOMINANDO, ponchera metal ancha humeante centro, platos metal. Vestuario ley S06, nadie mira cámara, 2560x1072
 
-2. **S06_P02_MADRE_SIRVIENDO_50MM.jpg** - JUANA - Madre sirviendo 50mm T2.8
-   - Acción: medio de madre sirviendo arroz blanco desde ponchera metal a plato metal con cuchara madera
-   - Detalle: vestido azul flores + delantal beige, manos grandes trabajadoras venas marcadas, moño bajo, lámpara queroseno en estante derecho, fondo puerta doble azul
-   - Luz: queroseno lateral cálida
-   - Eyeline: mira plato que sirve
+2. **S06_P02_MADRE_SIRVIENDO_50MM.jpg** - JUANA - ✅ APROBADA ya en FINAL - No se toca
 
-3. **S06_P03_NINO_COMIENDO_85MM.jpg** - JUANA - Contraplano niño 85mm T2.0
-   - Acción: primer plano niño comiendo arroz plato metal cuchara
-   - Detalle: **marca sagrada en CEJA IZQUIERDA del personaje (derecha del espectador en frontal) VISIBLE y sutil**, camiseta blanca limpia + pantalón largo marrón, cabello negro corto rizado apretado, lámpara queroseno desenfocada fondo, estante radio blurred
-   - Luz: queroseno + bokeh Cooke redondo
-   - Eyeline: mira su plato, nunca a cámara
-   - Anatomía: 5 dedos mano derecha sosteniendo cuchara
+3. **S06_P03_NINO_COMIENDO_85MM.jpg** - JUANA - ✅ APROBADA ya en FINAL - No se toca
 
-4. **S06_P04_HERMANO_COMIENDO_85MM.jpg** - JUANA - Contraplano hermano 85mm T2.0
-   - Acción: primer plano hermano adolescente comiendo, plato arroz y habichuelas
-   - Detalle: **SIN MARCA JAMÁS**, cabello negro rizado denso afro corto, camiseta beige + pantalón caqui, lámpara queroseno fondo
-   - Eyeline: mira plato, concentrado, nunca a cámara
+4. **S06_P04_HERMANO_COMIENDO_85MM.jpg** - JUANA - REVISAR -> CORREGIDO 13-sep - 85mm T2.0
+   - Orden: farol estante DORADO, en escena es VERDE. Regenerar con farol verde.
+   - Corrección: farol estante ahora VERDE (mismo verde que lámpara mesa), resto idéntico: hermano sin marca, beige+caqui, sin mirar cámara, 5 dedos, fondo tablas
 
-5. **S06_P05_MANOS_CUCHARA_MACRO_100MM.jpg** - YUDERKA - Macro manos 100mm T2.8
-   - Acción: macro inserto - manos madre grandes venas nudillos anchos piel curtida sosteniendo cuchara con arroz y habichuelas rojas sobre plato metal, mano pequeña niño borde mesa
-   - Props: plato metal, ponchera metal desenfocada fondo, lámpara queroseno fondo derecho glow ámbar, mesa madera gruesa
-   - Luz: macro queroseno, detalle textura arroz y piel
-   - Control: 5 dedos cada mano, sin joyas
+5. **S06_P05_MANOS_CUCHARA_MACRO_100MM.jpg** - YUDERKA - REVISAR -> CORREGIDO 13-sep - Macro 100mm T2.8
+   - Orden: manos persona MAYOR, madre Tiempo A 35-40 manos fuertes pero jóvenes. Regenerar con manos correctas + manga azul flores.
+   - Corrección: manos ahora joven trabajadora 35-40 (venas marcadas pero piel no arrugada anciana), manga azul de flores pequeñas visible, mano niño pequeña 5 dedos, ponchera metal fondo, farol verde glow, mesa madera gruesa, 5 dedos
 
-6. **S06_P06_PLANO_TRES_MESA_50MM.jpg** - MARIO - Plano de tres 50mm T2.8 - CIERRE
-   - Acción: plano de tres - madre de pie entre dos niños sirviendo/tocando ponchera, niños sentados, momento íntimo familia compartiendo
-   - Composición: mesa izquierda, 2 sillas trenzado + banco derecho, estante derecho radio+farol+fotos+toalla, ventana izquierda, fondo puerta doble azul-gris + 2 vanos dormitorios, piso tablas
-   - Luz: queroseno, penumbra profunda resto casa, calor lámpara
-   - Eyeline: madre mira niños/ponchera, niños miran plato o entre ellos, nadie a cámara
-   - Cierre: transmite calor, esfuerzo, amor contenido
+6. **S06_P06_PLANO_TRES_MESA_50MM.jpg** - MARIO/JUANA - REHACER -> CORREGIDO 13-sep - 50mm T2.8
+   - Orden Director: salto habitación - paredes encaladas lisas (sala es tablas madera oscura master 07), madre AFRO suelto (debe moño bajo), olla BARRO (es METAL), faroles pared que no existen.
+   - Corrección: REHACER completo clonando sala P02: paredes tablas madera oscura, madre moño bajo negro rizado, ponchera METAL (no barro), sin faroles pared, mesa izq 2 sillas trenzado + banco der, estante der radio+farol verde+fotos+toalla, puerta doble azul-gris + 2 vanos, ventana izq, piso tablas, farol verde mesa dominando, nadie mira cámara, 5 dedos, calor lámpara
 
-## MASTER NUEVO CREADO (pide 05_SET_CASA_BLOQUEADO.md)
+## Master 10
+- **10_INTERIOR_DORMITORIO_HIJOS_MASTER_4K.jpg** - WILSON - ✅ APROBADO Y BLOQUEADO 3840x1608 - No se toca
 
-- **10_INTERIOR_DORMITORIO_HIJOS_MASTER_4K.jpg** - WILSON - 3840x1608, 24mm T4.5 - Dormitorio hijos 2 camas estrechas madera, colchas floreadas desteñidas, mosquiteros blancos recogidos amarrados arriba, baúl pequeño entre camas al fondo, ventana postigos AZULES, paredes tablas horizontales rendijas luz, techo zinc vigas visibles, piso tablas, ropa colgada ganchos, sin electricidad, sin personas, estilo idéntico a masters 07 y 09. Este master queda bloqueado como los demás.
+## Cumplimiento 7 controles + set bloqueado 05
 
-## Cumplimiento 7 controles Director (04_CONTROL_DEPARTAMENTOS.md) + 05_SET_CASA_BLOQUEADO
+1. Personajes: Madre Tiempo A 35-40 misma cara charter, manos jóvenes trabajadoras (corregido), Niño ceja IZQUIERDA marca (derecha espectador frontal), Hermano sin marca, 5 dedos
+2. Vestuario: Tabla S06 idéntico 6 planos, madre moño bajo (corregido P06), azul flores + delantal
+3. Continuidad: Master 07 clonado exacto - pared fondo P02 exacta (corregido P01), farol verde (corregido P04), ponchera metal (corregido P06), tablas oscuras (corregido P06), sin faroles pared inexistentes
+4. Iluminación: Solo queroseno verde, sin electricidad, sombras coinciden P02, skin tones dominicanos
+5. Dirección actor: Nadie mira cámara, miradas tarea/objeto/otro personaje
+6. Cámara: ARRI Alexa 35 + Cooke, lentes 24/50/85/100 macro, 2.39:1 2560x1072, look cine, sin texto/marcas
+7. Lógica: Cena arroz habichuelas ponchera compartida, día a día real 80s/90s
 
-1. Personajes: Madre misma cara charter Tiempo A, Niño cicatriz CEJA IZQUIERDA (derecha espectador frontal) visible P03/P06, Hermano sin cicatriz, 5 dedos verificado
-2. Vestuario: Tabla S06 respetada 100% idéntico 6 planos
-3. Continuidad objetos: Master 07 clonado exacto - mesa gruesa izq + 2 bancos trenzado + banco bajo der + estante der radio+farol verde+fotos+toalla + puerta doble azul-gris + 2 vanos dormitorios + ventana izq + piso tablas - ponchera+platos metal+velador añadidos sin mover lo existente (regla lámpara) - inventario 07
-4. Iluminación: Solo queroseno, sin electricidad, sombras coinciden master 07, skin tones dominicanos
-5. Dirección actor: Nadie mira cámara, miradas a tarea/objeto/otro personaje, eyeline correcta contraplanos
-6. Cámara: ARRI Alexa 35 + Cooke, lentes 24/50/85/100 macro según plano, 2.39:1 2560x1072 mínimo, look cine grano fino, sin texto/marcas/bordes
-7. Lógica: Acciones día a día real dominicano 80s/90s, comida arroz habichuelas ponchera compartida, nada moderno
-
-## Referencias usadas
-- Masters: 07_INTERIOR_SALA_COMEDOR_MASTER_4K.jpg + PLANTA_MAESTRA_CASA_4K.png + 10_INTERIOR_DORMITORIO_HIJOS_MASTER_4K.jpg (nuevo)
-- Charters: 03_PROTAGONISTA_NINO/01_ROSTRO_FRONTAL_2K.jpg + 04_MADRE/TIEMPO_A_RECUERDOS/01_ROSTRO_FRONTAL_2K.jpg + 05_HERMANO/TIEMPO_A_ADOLESCENTE/...
-- Vestuario: 01_ESTUDIO_DE_PERSONAJES.md tabla S06
-
-## Firma equipo
-[2026-09-11] WILSON | S06 P01 + master dormitorio hijos | Set bloqueado 05 + inventario 07 + decreto identidad ceja izquierda | Pendiente veredicto Director
-[2026-09-11] JUANA | S06 P02-P04 | Retratos 85mm marca ceja izquierda visible | Pendiente veredicto
-[2026-09-11] YUDERKA | S06 P05 macro manos | 100mm | Pendiente veredicto
-[2026-09-11] MARIO | S06 P06 plano de tres | 50mm cierre | Pendiente veredicto
+## Firma reparaciones
+[2026-09-13] JUANA | S06 P01 pared fondo exacta P02 + P04 farol verde | REVISAR LOTE 3 corregido | Pendiente veredicto
+[2026-09-13] YUDERKA | S06 P05 manos joven trabajadora manga azul flores | REVISAR LOTE 3 corregido | Pendiente veredicto
+[2026-09-13] MARIO | S06 P06 REHACER completo sala tablas moño bajo olla metal sin faroles pared | REHACER LOTE 3 corregido | Pendiente veredicto
+[2026-09-13] WILSON | S06 reparaciones publicadas como equipo + S11 P01/P05 + S09 extras | Bucle continuo TAREA B/C completadas | Pendiente veredicto S06/S08/S09/S11
