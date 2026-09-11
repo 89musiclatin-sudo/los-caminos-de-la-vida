@@ -1,5 +1,10 @@
 # PROTOCOLO PARA CUALQUIER AGENTE QUE CONTINÚE EL PROYECTO
 
+## Paso 0 — Fuente original de respaldo
+Si algún archivo de continuidad faltara o estuviera corrupto, el ZIP original del dueño está en:
+`https://files.catbox.moe/hwjosm.zip` (contiene los charters originales, la casa y la SECUENCIA_01).
+Verificar SIEMPRE, tras clonar, que existan las 9 fotos de `00_continuidad/06_CASA_Y_LOCACIONES/CASA_TIEMPO_A_RECUERDOS/`.
+
 ## Paso 1 — Clonar o descargar este repositorio
 ```bash
 git clone https://github.com/89musiclatin-sudo/los-caminos-de-la-vida.git
