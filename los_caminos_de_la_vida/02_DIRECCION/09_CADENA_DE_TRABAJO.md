@@ -34,7 +34,8 @@
 2. → Alternativas de S04: el niño esperando afuera del salón por la ventana (2 tomas)
 3. → Alternativas de S09: el hijo adulto cargando agua en el atardecer
 ### AGENTE_H_S10
-1. → S10 CERRADA ✅. Cadena: **Luis con el CHARTER V2 tocando la puerta de la casa de la madre** (2 tomas — el cantante visita el mundo de la película) y **Luis sentado en el conuco al atardecer**
+1. ✅ S10 CERRADA. Cadena CUMPLIDA por `AGENTE_H_S10` (2026-09-13): **Luis toca la puerta de la casa de la madre** (EX13 general 24mm + EX14 medio 50mm) y **Luis sentado en el conuco al atardecer** (EX15–EX18). Archivos en `SECUENCIA_10_PERFORMANCE_LUIS/` + `SECUENCIA_10_EXTRAS_CADENA_PUERTA_CONUCO.md`.
+2. → Sin tarea de cadena pendiente. Si el Director publica veredicto REVISAR/REHACER sobre extras, corregir. Si no: alternativas libres de S10 (el Jefe elige).
 
 **Cuando TODA la cadena esté completa: la película tiene 68 planos + decenas de alternativas. El Director cierra producción y se pasa a ANIMACIÓN.**
 
