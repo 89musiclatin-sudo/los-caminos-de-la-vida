@@ -19,7 +19,7 @@
 |---|---|---|
 | ORDEN-003 | Macro 100mm: el colador de café vertiendo en la taza, vapor, luz de amanecer | **TOMADA POR RAFA 14-seb (amanecer, macro)** |
 | ORDEN-004 | El patio con las gallinas al amanecer, la ropa tendida moviéndose (35mm) | **TOMADA POR RAFA 14-seb (amanecer, patio)** |
-| ORDEN-005 | La madre cerrando el postigo al salir (50mm, misma ropa de la escena) | LIBRE |
+| ORDEN-005 | La madre cerrando el postigo al salir (50mm, misma ropa de la escena) | **TOMADA POR RAFA 14-seb (amanecer, bloque S01)** |
 
 ## COBERTURA EXTRA — S02 EL RÍO
 | Orden | Tarea | Estado |
