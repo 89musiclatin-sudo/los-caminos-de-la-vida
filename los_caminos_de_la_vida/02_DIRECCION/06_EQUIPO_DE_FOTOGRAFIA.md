@@ -38,3 +38,18 @@ Regla: todas las épocas avanzan A LA VEZ. Prohibido estancarse en Tiempo A.
 | **TOÑO** | Fotógrafo de noche (interiores, luz de queroseno) | **SECUENCIA_07 COSTURA DE NOCHE completa** (5 planos, guion en `02_ORDENES_NUEVAS_SECUENCIAS.md`): madre sola con bata crema + pañuelo de noche, farol de keroseno como ÚNICA luz, canasta de costura, prenda remendada, niños dormidos al fondo. Set: dormitorio/sala de la casa (masters 07/09/10 obligatorios). |
 | **RAFA** | Fotógrafo de amaneceres y cierres | **SECUENCIA_11 CIERRE completa** (5 planos): el abrazo final, madre Tiempo B + hijo adulto (charters Tiempo B), camino de tierra, la casa al fondo, luz de oro del amanecer. Nadie mira a cámara; el abrazo es el clímax. |
 Regla para los dos: presentarse con su nombre → leer los documentos 00–08 → publicar cada lote inmediatamente → seguir el bucle de `08_ORDEN_PERMANENTE_DE_BUCLE.md`.
+
+## 📋 COLA DE TAREAS POR FOTÓGRAFO (12-seb, noche) — TERMINA UNA, ARRANCA LA OTRA, SIN PARAR
+**Regla del bucle: al terminar tu tarea A, NO esperes a nadie: pasa a la B. Si algo se bloquea (falta un charter, falta un veredicto), salta a la siguiente de tu cola y vuelves después.**
+
+| Fotógrafo | TAREA A (ahora) | TAREA B (al terminar A) | TAREA C (respaldo) |
+|---|---|---|---|
+| **WILSON** | Crear el CHARTER 03B del PROTAGONISTA ADOLESCENTE (orden crítica en el tablero) y regenerar S08_P01, P02, P05 con él | Apoyar a RAFA en S11: los planos generales del amanecer (P01, P05) | Planos extra de S09: el hijo adulto trabajando el conuco (2 alternativas) |
+| **JUANA** | Reparar S06_P06 (sala de tablas + moño + olla metal) y S06_P04 (farol VERDE) | Reparar S05_P05 (lonchera en el plano de dos) si MARIO no la ha publicado | Arrancar S11: retratos del abrazo final (P03, P04) si RAFA no ha publicado |
+| **YUDERKA** | Reparar S06_P05 (manos de madre joven trabajadora, manga azul flores) | Tres fotos EXTRA de S10 con el CHARTER V2 nuevo de Luis (Luis en el conuco, Luis en la puerta de la casa vieja, Luis mirando el río de S02) | Macros de apoyo para S07 (aguja, hilo, manos) si TOÑO los pide |
+| **RAMÓN** | Sus 5 reparaciones pendientes: S01_P01, S01_P05, S03_P05, S04_P03, S04_P04 | Reparar S05_P06 (mesa de dominó en posición de P01) | Si TOÑO no ha publicado S07: hacer S07_P02 (madre remendando 50mm) él mismo |
+| **MARIO** | Reparar S05_P05 (lonchera) y S05_P06 (dominó) — coordinar con JUANA/RAMÓN para no duplicar (quien publique primero gana) | Cuatro fotos EXTRA de S04: la mañana completa del niño (desayuno en la cocina con la madre, anudándose las sandalias, la madre despidiéndolo en la puerta, primer vistazo a la escuelita) | Apoyar S08 con alternativas cuando WILSON publique el charter 03B |
+| **TOÑO** | **S07 COSTURA DE NOCHE completa** (5 planos, orden creativa lista) | Tres fotos EXTRA de la misma noche: la mecha del farol en macro, el rostro de la madre a la luz del queroseno, los niños dormidos | Apoyar S06: las reparaciones de noche si JUANA está saturada |
+| **RAFA** | **S11 CIERRE completa** (5 planos, orden creativa lista; charters Tiempo B) | Tres fotos EXTRA del abrazo: desde atrás de la madre, con la casa al fondo, y el sol saliendo entre los dos | Apoyar S08: el camino al amanecer cuando el charter 03B exista |
+
+**Con esta cola hay trabajo para todos hasta terminar las 68 fotos. Nadie pregunta, nadie espera: publica y sigue.**

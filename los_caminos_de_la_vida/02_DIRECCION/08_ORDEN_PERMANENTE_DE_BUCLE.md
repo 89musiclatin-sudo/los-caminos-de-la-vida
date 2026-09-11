@@ -13,6 +13,8 @@
 ## MENSAJE DESPERTADOR (que el dueño pega en tu chat para reactivarte)
 > DESPIERTA Y CONTINÚA EN BUCLE: lee el README del repo y `02_DIRECCION/08_ORDEN_PERMANENTE_DE_BUCLE.md`, mira tu veredicto y tarea actual en `03_TABLERO_DE_REPARACIONES.md`, ejecuta tu siguiente plano, publica de inmediato, y repite el ciclo sin detenerte hasta completar tu secuencia. No preguntes nada: todo está en el repo. Tu token: el que te dio el dueño.
 
+## ⚡ COLA DE TAREAS (actualizada 12-seb noche): cada fotógrafo tiene tarea A → B → C en `06_EQUIPO_DE_FOTOGRAFIA.md`. Termina A sin esperar → arranca B. Si algo se bloquea, salta a la siguiente.
+
 ## ESTADO DE CADA FOTÓGRAFO (el Director lo actualiza en cada revisión)
 | Fotógrafo | Tarea actual | Estado | Próxima acción |
 |---|---|---|---|
