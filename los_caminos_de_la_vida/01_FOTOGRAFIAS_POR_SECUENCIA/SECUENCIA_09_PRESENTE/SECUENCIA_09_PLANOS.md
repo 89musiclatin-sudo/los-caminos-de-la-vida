@@ -1,14 +1,14 @@
-# SECUENCIA_09 — PRESENTE / TIEMPO B (EL HIJO CUIDA A SU MADRE)
-**Fotógrafo:** WILSON (generales) — secuencia completa por reasignación del Director (12-sep)
-**Narrativa:** el hijo adulto trabaja y cuida a su madre de 80 para que ella ya no pase trabajo. Hoy, día, golden hour.
-**Vestuario fijo de la escena (tabla del ESTUDIO_DE_PERSONAJES):** madre = charter Madre B completo (blusa azul flores + delantal beige + falda oscura) · hijo adulto = charter (camisa verde oliva sobre crema, jeans índigo, botas marrones).
-**Set:** LA MISMA casa, 25 años más envejecida: zinc más oxidado con parches, madera más gris, postigos con azul descascarado, mismo corredor con postes, mango crecido. Sin electricidad.
-**DECRETO DE IDENTIDAD aplicado:** cicatriz del adulto en su CEJA IZQUIERDA (derecha del espectador en frontal).
-**Objeto nuevo añadido (regla de la lámpara):** balde galvanizado de agua + plato con tela (P05, P06).
+# SECUENCIA_09 — PRESENTE / TIEMPO B · PLANOS (documento unificado)
+**Situación de set:** dos sesiones del fotógrafo WILSON publicaron esta secuencia en paralelo. La sesión A cubrió P01-P03 (con P02 auto-denunciado con defecto). La sesión B (este chat, autorizada por el Jefe) completó la secuencia entera P01-P06 — incluyendo los P04-P06 que la sesión A dejó pendientes. Ambos lotes quedan publicados SIN borrar nada; el Director (LEVI) decide qué versión de cada plano pasa a FINAL.
 
-1. S09_P01 — General casa presente, 24 mm. Casa envejecida, madre en el corredor, hijo subiendo zinc con escalera.
-2. S09_P02 — Hijo repara el techo, 35 mm. Martillo y zinc nuevo sobre lo viejo. Mirada al trabajo.
-3. S09_P03 — Madre sentada en el corredor, 85 mm. Manos sobre las regazos, dignidad serena.
-4. S09_P04 — Manos del hijo sosteniendo las de ella, 100 mm macro. Juventud y vejez.
-5. S09_P05 — Hijo trae agua y comida, 50 mm. Balde galvanizado + plato tapado con tela.
-6. S09_P06 — Plano de dos, 50 mm. Ella lo mira con orgullo; él agachado sonríe. Cierre.
+| Plano | Versión sesión A (WILSON chat 1) | Versión sesión B (WILSON chat 2, completa) |
+|---|---|---|
+| P01 general casa 24mm | S09_P01_CASA_PRESENTE_GENERAL_24MM.jpg | S09_P01_CASA_PRESENTE_24MM.jpg |
+| P02 hijo trabaja 35mm | S09_P02_HIJO_ARREGLANDO_BALCON_35MM.jpg (auto-denunciado) | S09_P02_HIJO_REPARA_TECHO_35MM.jpg |
+| P03 madre corredor 85mm | S09_P03_MADRE_BALCON_85MM.jpg | S09_P03_MADRE_CORREDOR_85MM.jpg |
+| P04 macro manos 100mm | (pendiente en A) | S09_P04_MANOS_HIJO_MADRE_MACRO_100MM.jpg |
+| P05 hijo trae agua/comida 50mm | (pendiente en A) | S09_P05_HIJO_AGUA_COMIDA_50MM.jpg |
+| P06 plano de dos orgullo 50mm | (pendiente en A) | S09_P06_PLANO_DOS_ORGULLO_50MM.jpg |
+
+**Cumplimiento común a ambas sesiones:** vestuario según tabla (charter adulto verde oliva/jeans/botas + charter Madre B), la MISMA casa envejecida, sin electricidad, nadie mira a cámara, 2.39:1 2560x1072, DECRETO DE IDENTIDAD aplicado (marca en ceja IZQUIERDA del personaje).
+**Objeto nuevo (regla de la lámpara):** balde galvanizado + plato con tela en P05/P06 de la sesión B.
