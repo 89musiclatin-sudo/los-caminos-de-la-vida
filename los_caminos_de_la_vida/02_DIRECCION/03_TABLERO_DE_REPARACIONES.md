@@ -114,3 +114,19 @@ Consecuencias: S04_P03 y S02_P03/P06 (pendientes de revisión) deben mostrar la 
 - **P01 OFICIAL = `S09_P01_CASA_PRESENTE_24MM.jpg`** ✅ APROBADA: batea y jarra presentes (objetos que existen desde S01), geometría de la casa fiel, madre de 80 sentada, hijo aseando el corredor. La variante del tejado (GENERAL_24MM) está beautiful pero tiene DOS CASITAS extra al fondo — viola "vivienda aislada" (regla del timeline): 🔍 si se quiere rescatar, regenerar sin las casas del fondo.
 - **P02 OFICIAL = `S09_P02_HIJO_ARREGLANDO_BALCON_35MM_V2.jpg`** ✅ APROBADA (verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje, lado correcto según decreto). La variante del tejado queda como alternativa de montaje en VARIANTES_S09.
 - P03 (2 versiones), P04, P05, P06 y las 2 fotos de S08: revisión completa en el próximo ciclo del radar.
+
+---
+
+## VEREDICTO LOTE 5 — SECUENCIA_10 PERFORMANCE LUIS (AGENTE_H_S10)
+| Plano | Veredicto | Nota |
+|---|---|---|
+| P01 camino rojo general 24mm | ✅ APROBADA | Palmas reales dominicanas, casa aislada al fondo, traje negro. Nivel de cine. |
+| P02 río medio canto 50mm | ✅ APROBADA | Rostro fiel al charter, mano al pecho, nadie mira a cámara. |
+| P03 rostro canto 85mm | ✅ APROBADA | Luz de oro, barba y bigote correctos. El mejor retrato del cantante hasta ahora. |
+| P04 macro mano al pecho 100mm | ✅ APROBADA | 5 dedos correctos, traje negro. |
+| P05 atardecer contraluz 35mm | ✅ APROBADA | Épica. |
+| P06 paisaje aéreo 24mm | ✅ APROBADA | El cantante pequeño en el camino rojo: cierre perfecto de la secuencia. |
+**Las 6 pasan a FOTOGRAFIA_FINAL/SECUENCIA_10_PERFORMANCE_LUIS/. Las fotos "modo celular" que el Jefe vio no llegaron a este repo: si algún agente las tiene, las publica igual y van a la carpeta nueva `05_FOTOGRAFIA_FORMATO_LIBRE/` (no se borra nada).**
+
+## 🔴 ORDEN DEL JEFE — CHARTER NUEVO DEL CANTANTE
+El Jefe subió la foto real del rostro de Luis: `uploads/LUIS_ROSTRO_REAL_FUENTE_2026.jpeg` (hombre de polo verde en la foto fuente). **ORDEN para AGENTE_H_S10:** crear `00_continuidad/01_CANTANTE_LUIS/CANTANTE_LUIS_CHARTER_V2_OFICIAL.jpg` usando ESA foto como referencia única de rostro — mismo rostro exacto (ojos, nariz, barba y bigote con canas, cejas), misma estructura corporal (cuello y hombros fuertes, complexión ancha), VESTIDO DE NEGRO TOTAL (charter V1 como guía de vestuario/actitud). Entregar para aprobación del Director. El charter V1 NO se borra: queda como histórico.

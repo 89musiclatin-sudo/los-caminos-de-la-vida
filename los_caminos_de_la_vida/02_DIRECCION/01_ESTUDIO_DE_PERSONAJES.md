@@ -49,8 +49,9 @@
 - **Vestuario charter:** camisa azul clara de trabajo, jeans oscuros, zapatos marrones.
 
 ## 7. EL CANTANTE LUIS (performance)
-*Charter: `.../01_CANTANTE_LUIS/CANTANTE_LUIS_CHARTER_OFICIAL_6K.jpg`*
-- Hombre latino claro, cabello corto oscuro rizado, barba y bigote definidos, ojos marrones mirada definida.
+*Charter V1: `.../01_CANTANTE_LUIS/CANTANTE_LUIS_CHARTER_OFICIAL_6K.jpg` · FUENTE REAL NUEVA (12-sep, orden del Jefe): `uploads/LUIS_ROSTRO_REAL_FUENTE_2026.jpeg`*
+- Hombre latino claro, cabello corto oscuro rizado, barba y bigote definidos con canas, ojos marrones mirada definida, cuello y hombros fuertes, complexión ancha.
+- **El rostro de REFERENCIA MANDATARIA es la FOTO REAL del Jefe** (`uploads/LUIS_ROSTRO_REAL_FUENTE_2026.jpeg`). AGENTE_H_S10 construye el CHARTER V2 (negro total) desde esa foto; V1 queda como histórico de vestuario/actitud.
 - **Traje negro TOTAL** (chaqueta + camisa + pantalón + zapatos negros). Sin corbata, sin gafas, sin joyas, sin reloj.
 - **Nunca interpreta al protagonista.** Solo canta/actúa en la SECUENCIA_10.
 
