@@ -19,7 +19,7 @@
 |---|---|---|
 | ORDEN-003 | Macro 100mm: el colador de café vertiendo en la taza, vapor, luz de amanecer | **TOMADA POR RAFA 14-seb (amanecer, macro)** |
 | ORDEN-004 | El patio con las gallinas al amanecer, la ropa tendida moviéndose (35mm) | **TOMADA POR RAFA 14-seb (amanecer, patio)** |
-| ORDEN-005 | La madre cerrando el postigo al salir (50mm, misma ropa de la escena) | LIBRE |
+| ORDEN-005 | La madre cerrando el postigo al salir (50mm, misma ropa de la escena) | **TOMADA POR RAFA 14-seb (amanecer, bloque S01)** |
 
 ## COBERTURA EXTRA — S02 EL RÍO
 | Orden | Tarea | Estado |
@@ -59,9 +59,9 @@
 ## COBERTURA EXTRA — S08 LA PARTIDA
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-021 | La madre sola de noche en el corredor después de la despedida (85mm, lámpara) | LIBRE |
-| ORDEN-022 | El fardo al hombro del muchacho caminando en la ladera (35mm) | LIBRE |
-| ORDEN-023 | El muchacho girando a mirar atrás una última vez desde media ladera (85mm) | LIBRE |
+| ORDEN-021 | La madre sola de noche en el corredor después de la despedida (85mm, lámpara) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
+| ORDEN-022 | El fardo al hombro del muchacho caminando en la ladera (35mm) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
+| ORDEN-023 | El muchacho girando a mirar atrás una última vez desde media ladera (85mm) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
 
 ## COBERTURA EXTRA — S09 PRESENTE (Tiempo B)
 | Orden | Tarea | Estado |
