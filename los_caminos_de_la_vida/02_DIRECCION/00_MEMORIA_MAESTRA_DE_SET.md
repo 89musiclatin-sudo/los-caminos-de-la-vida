@@ -51,7 +51,7 @@
 
 ## 6. CONTINUIDAD DE PERSONAJES
 
-- Los rostros se clonan de los charters oficiales en `00_continuidad/`. La cicatriz del protagonista (ceja derecha) está en TODO plano donde se vea su cara (niño y adulto). **El hermano NO tiene cicatriz jamás.**
+- Los rostros se clonan de los charters oficiales en `00_continuidad/`. La marca del protagonista (cicatriz que corta la CEJA IZQUIERDA del personaje; en vista frontal se ve a la derecha del espectador) está en TODO plano donde se vea su cara (niño y adulto). **El hermano NO tiene cicatriz jamás.**
 - La madre Tiempo A y Tiempo B son LA MISMA mujer envejecida: mismos ojos, nariz, labios, pómulos, orejas. Solo cambian edad, canas, arrugas.
 - Ver `01_ESTUDIO_DE_PERSONAJES.md` para el estudio pieza por pieza (ojos, manos, dedos, cejas, nariz) que el Director hizo de cada charter.
 

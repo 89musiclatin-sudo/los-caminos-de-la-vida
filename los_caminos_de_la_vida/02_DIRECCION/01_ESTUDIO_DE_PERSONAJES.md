@@ -21,7 +21,7 @@
 
 ## 3. EL PROTAGONISTA NIÑO (9–10 años)
 *Charter: `.../03_PROTAGONISTA_NINO/PROTAGONISTA_NINO_CHARTER_OFICIAL_6K.jpg`*
-- **Marca sagrada: cicatriz pequeña en la ceja DERECHA** (en vista frontal queda a la IZQUIERDA del espectador). Visible en TODO primer plano de su rostro.
+- **Marca sagrada — LEER DOS VECES: la cicatriz/notch está en la CEJA IZQUIERDA del niño**, la que en una foto FRONTAL se ve a la DERECHA del espectador. Es un corte pequeño que interrumpe el arco de la ceja (ver el ROSTRO FRONTAL del charter con zoom). Los textos antiguos del repo decían "ceja derecha" refiriéndose al lado derecho de la IMAGEN: queda corregido por el Director. La IMAGEN del charter es la ley. Visible en TODO primer plano de su rostro; el hermano NO la tiene.
 - **Rostro:** redondo-ovalado todavía infantil, mejillas llenas, barbilla pequeña. Piel morena clara.
 - **Ojos:** marrón, grandes, expresivos, pestañas marcadas. Mirada viva, siempre a su tarea o al otro personaje.
 - **Cabello:** negro, corto, rizado (rizo apretado), línea de nacimiento recta.
@@ -33,7 +33,7 @@
 
 ## 4. EL PROTAGONISTA ADULTO (31–34 años)
 *Charter: `.../02_PROTAGONISTA_ADULTO/PROTAGONISTA_ADULTO_CHARTER_OFICIAL_6K.jpg`*
-- **Misma cicatriz en ceja derecha.** Barba incipiente MUY corta, cabello negro corto y rizado.
+- **Misma marca del niño: cicatriz en la CEJA IZQUIERDA (a la derecha del espectador en frontal).** Barba incipiente MUY corta, cabello negro corto y rizado.
 - **Rostro adulto del niño:** misma estructura, mandíbula definida, mismo tono de piel.
 - **Vestuario del charter:** camiseta verde oliva sobre camiseta crema, jeans índigo gastados, botas de trabajo marrones. Trabajador rural dominicano.
 

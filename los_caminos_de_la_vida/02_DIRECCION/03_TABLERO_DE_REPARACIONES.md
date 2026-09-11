@@ -86,3 +86,10 @@ Leyenda: ✅ APROBADA (ya está en FOTOGRAFIA_FINAL) · 🔍 REVISAR (defecto me
 1. **S01_P03 queda REHABILITADA a ✅ APROBADA.** La PLANTA MAESTRA (`PLANTA_MAESTRA_CASA_4K.png`) marca puertas y postigos en AZUL: el postigo azul de P03 es el correcto. Mi orden anterior de rehacerlo queda anulada. Nueva orden: **P02 y P04 pasan a 🔍 REVISAR** — sus postigos se ven de madera natural; deben ser AZULES según la planta.
 2. **ORDEN GENERAL NUEVA:** todo interior de la casa se genera clonando los masters de `00_continuidad/06_CASA_Y_LOCACIONES/CASA_TIEMPO_A_RECUERDOS/` y respetando la nueva hoja de set bloqueado `02_DIRECCION/05_SET_CASA_BLOQUEADO.md` (sala, cocina-fogón, dormitorio de la madre, dormitorio de los hijos). Cualquier interior que no coincida = REHACER automático. Reportado por el Jefe: había interiores de la casa con geografías distintas entre agentes — eso se acaba hoy.
 3. Verificado por el Director: los interiores de S01 (P06, P07, P08, P10) SÍ coinciden con el master de la cocina. Esa cocina es LA cocina de la película.
+
+---
+
+## DECRETO DE IDENTIDAD (11-sep) — EL LADO DE LA MARCA, CORREGIDO POR EL JEFE
+**Verificado con zoom sobre el charter oficial: la cicatriz corta la CEJA IZQUIERDA del protagonista (niño y adulto), que en vista FRONTAL aparece a la DERECHA del espectador.**
+Los textos antiguos que decían "ceja derecha" se referían al lado derecho de la imagen — fuente de errores en espejo. Desde hoy rige: **marca en ceja izquierda del personaje = derecha del espectador en frontal**. El hermano NUNCA la tiene.
+Consecuencias: S04_P03 y S02_P03/P06 (pendientes de revisión) deben mostrar la marca EN ESE lado exacto. Toda foto del niño o del adulto con la marca al lado opuesto = ❌ REHACER.
