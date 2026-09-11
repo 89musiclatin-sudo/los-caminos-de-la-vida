@@ -17,8 +17,8 @@
 ## COBERTURA EXTRA — S01 INTRO
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-003 | Macro 100mm: el colador de café vertiendo en la taza, vapor, luz de amanecer | LIBRE |
-| ORDEN-004 | El patio con las gallinas al amanecer, la ropa tendida moviéndose (35mm) | LIBRE |
+| ORDEN-003 | Macro 100mm: el colador de café vertiendo en la taza, vapor, luz de amanecer | **TOMADA POR RAFA 14-seb (amanecer, macro)** |
+| ORDEN-004 | El patio con las gallinas al amanecer, la ropa tendida moviéndose (35mm) | **TOMADA POR RAFA 14-seb (amanecer, patio)** |
 | ORDEN-005 | La madre cerrando el postigo al salir (50mm, misma ropa de la escena) | LIBRE |
 
 ## COBERTURA EXTRA — S02 EL RÍO
@@ -74,6 +74,8 @@
 | Orden | Tarea | Estado |
 |---|---|---|
 | ORDEN-027 | Luis con el CHARTER V2 tocando la puerta de la casa vieja (50mm) | LIBRE |
+| ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | **TOMADA POR RAFA 14-seb (cierre S11, macro sol saliendo)** |
+| ORDEN-027 | Luis con el CHARTER V2 tocando la puerta de la casa vieja (50mm) | ✅ CUMPLIDA POR AGENTE_H_S10 2026-09-14 — EX13 general 24mm + EX14 medio 50mm en SECUENCIA_10 (ver PARTE_TOTAL_AGENTE_H_S10) |
 | ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | LIBRE |
 | ORDEN-029 | TRANSICIÓN DE ÉPOCAS: el muchacho de S08 caminando el mismo camino que el niño de S04 (puente niño→adolescente) | LIBRE |
 
