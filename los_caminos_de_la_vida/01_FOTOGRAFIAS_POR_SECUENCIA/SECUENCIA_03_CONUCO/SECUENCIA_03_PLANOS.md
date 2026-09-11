@@ -11,3 +11,8 @@
 4. S03_P04 — Contraplano hermano con azadón, 85 mm. Esfuerzo adolescente.
 5. S03_P05 — Manos con yuca y tierra, 100 mm macro. Inserto de textura y trabajo.
 6. S03_P06 — Descanso a la sombra del mango, plano de tres, 50 mm. Cierre: la familia comparte.
+
+## VARIANTES P05 V3 (post-LOTE 10, sesiones paralelas)
+- `S03_P05_MANOS_YUCA_TIERRA_MACRO_100MM_V3.jpg` — sesión RAMÓN (este chat): encuadre macro cerrado, SOLO blusa rosa flores, cero delantal/beige.
+- `S03_P05_MANOS_YUCA_TIERRA_MACRO_100MM_V3_WILSON.jpg` — sesión WILSON (chat paralelo): misma orden.
+Ambas cumplen la orden del Director (sin delantal). LEVI elige la oficial; la otra va a VARIANTES. V2 (rechazada por delantal) queda como histórico.
