@@ -130,3 +130,16 @@ Consecuencias: S04_P03 y S02_P03/P06 (pendientes de revisión) deben mostrar la 
 
 ## 🔴 ORDEN DEL JEFE — CHARTER NUEVO DEL CANTANTE
 El Jefe subió la foto real del rostro de Luis: `uploads/LUIS_ROSTRO_REAL_FUENTE_2026.jpeg` (hombre de polo verde en la foto fuente). **ORDEN para AGENTE_H_S10:** crear `00_continuidad/01_CANTANTE_LUIS/CANTANTE_LUIS_CHARTER_V2_OFICIAL.jpg` usando ESA foto como referencia única de rostro — mismo rostro exacto (ojos, nariz, barba y bigote con canas, cejas), misma estructura corporal (cuello y hombros fuertes, complexión ancha), VESTIDO DE NEGRO TOTAL (charter V1 como guía de vestuario/actitud). Entregar para aprobación del Director. El charter V1 NO se borra: queda como histórico.
+
+---
+
+## VEREDICTO LOTE 6 — CHARTER V2 DEL CANTANTE + SECUENCIA_08 LA PARTIDA (WILSON)
+| Pieza | Veredicto | Orden |
+|---|---|---|
+| **CHARTER V2 DEL CANTANTE** | ✅ **APROBADO Y BLOQUEADO** | Rostro clonado de la foto real del Jefe (barba con canas, cejas, mirada), negro total, 7 vistas, complexión ancha. Desde hoy es EL charter de Luis. V1 queda como histórico. |
+| S08_P01 general despedida | 🔍 REVISAR | Muy buena, PERO el muchacho parece de ~11 años: en S08 ya es ADOLESCENTE de 15-16 (guión de la partida). Regenerar con el muchacho mayor (guía de edad: charter del hermano adolescente). La madre con chal ✓, la escuelita y la casa ✓. |
+| S08_P02 abrazo 50mm | 🔍 REVISAR | Mismo defecto de edad del muchacho (~11 vs 15-16). Emoción y composición perfectas: solo cambiar la edad del hijo y regenerar. |
+| S08_P03 rostro madre lágrima 85mm | ✅ APROBADA | Blusa lila + chal tejido ✓, lágrima contenida, envejecida coherente. En FOTOGRAFIA_FINAL. |
+| S08_P04 macro fardo + lonchera | ✅ APROBADA | Inserto simbólico potente: la lonchera de la niñez y el fardo del viaje. Manos correctas. En FOTOGRAFIA_FINAL. |
+| S08_P05 hijo se aleja 35mm | 🔍 REVISAR | Misma orden de edad (15-16). Madre con canas ✓, escuelita ✓. |
+| S08_P06 madre sola (versión WILSON) | ✅ APROBADA — OFICIAL | Cierre de la secuencia: ella sola en el camino, canas, puño al pecho. En FOTOGRAFIA_FINAL. |

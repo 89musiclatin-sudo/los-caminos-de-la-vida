@@ -19,6 +19,9 @@
 | S06_P04 hermano | JUANA | Farol del estante dorado → VERDE |
 | S06_P05 macro manos | YUDERKA | Manos de mayor → manos de madre joven trabajadora + manga azul flores |
 | S06_P06 plano de tres | JUANA | Sala ENCALADA → tablas de madera master 07; afú → moño; olla de barro → metal |
+| S08_P01 general despedida | WILSON | Muchacho debe verse 15-16 (adolescente), no ~11 |
+| S08_P02 abrazo | WILSON | Misma corrección de edad |
+| S08_P05 hijo se aleja | WILSON | Misma corrección de edad |
 
 ## Contador de producción (lo actualiza el Director)
 | Secuencia | Planos totales | Aprobadas en FINAL | En reparación | Faltan por crear |
@@ -30,8 +33,8 @@
 | S05 COLMADO | 6 | 4 | 2 (P05, P06) | 0 |
 | S06 COMIDA | 6 | 2 | 4 (P01,P04,P05,P06) | 0 |
 | S07 COSTURA | 5 | 0 | 0 | 5 (RAMÓN) |
-| S08 PARTIDA | 6 | 0 | 0 | 6 (MARIO) |
+| S08 PARTIDA | 6 | 3 | 3 (edad del muchacho) | 0 |
 | S09 PRESENTE | 6 | 0 | 0 | 6 (WILSON) |
 | S10 PERFORMANCE | 6 | 0 | 0 | 6 (YUDERKA) |
 | S11 CIERRE | 5 | 0 | 0 | 5 (JUANA) |
-| **TOTAL** | **68** | **30** | **13** | **25** |
+| **TOTAL** | **68** | **39** | **16** | **10 por crear + 3 en revisión** |
