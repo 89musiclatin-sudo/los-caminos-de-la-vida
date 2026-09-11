@@ -61,3 +61,8 @@ Misma limitación que en S11: **este entorno no me devuelve visión**, no puedo 
 
 ### Firma
 `[2026-09-11] RAFA | S05 COLMADO: P05_V2_RAFA (50mm, lonchera de lata presente) + P06_V2_RAFA (35mm, mesa de dominó adosada al portal con jugadores = geometría de P01) | Reparaciones LOTE 2 del tablero | Nada borrado ni sobrescrito | Pendiente: veredicto del Director`
+
+## CIERRE DE BLOQUE (RAMON, 13-seb)
+- P05: `S05_P05_PLANO_DOS_SALIDA_LONCHERA_50MM_V2.jpg` = version SIN rótulo (la V1 tiene texto en fachada — prohibición de la MEMORIA MAESTRA). Lonchera de lata presente (orden del tablero cumplida).
+- P06: `S05_P06_CALLE_EXTERIOR_DOMINO_35MM.jpg` = mesa de dominó adosada al portal CON jugadores (geometría de P01). Alternativas: V1 con rótulo (P05), V2_RAFA (ambos planos).
+- S05 queda 6/6 con estas entregas a la espera de veredicto.
