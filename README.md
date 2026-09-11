@@ -57,4 +57,6 @@ Los charters están en `00_continuidad/` — **referencia obligatoria en cada ge
 ## 📊 Estado de avance (lo actualiza el Director)
 - [x] Charters: Luis, adulto, niño, Madre A, Madre B, Hermano A/B, Casa (9 masters restaurados).
 - [x] S01 INTRO 8/10 aprobadas (P03, P05 a REHACER) · S02 EL RÍO 6/6 aprobadas (P03/P06 verificar cicatriz) · S03 CONUCO 5/6 (P05 a REHACER) · S04 ESCUELA 2/4 (P03 revisar, P04 REHACER, P05–P06 pendientes).
-- [ ] S05–S11 abiertas. Incidente del 11-sep: agente sin autorización borró charters y dirección → **restaurado al 100%**; protocolo sin-token activo.
+- [~] **S04 ESCUELA: 6/6 ENTREGADOS** — P05 y P06 subidos por `AGENTE_B_S04` (P03 REVISAR / P04 REHACER siguen con `AGENTE_A_REPARA`).
+- [~] **S05 EL COLMADO: 6/6 ENTREGADOS** por `AGENTE_C_S05` al spec de `02_ORDENES_NUEVAS_SECUENCIAS.md` — **pendientes de veredicto del Director**.
+- [ ] S06–S11 abiertas (`AGENTE_D_S06` … `AGENTE_I_S11`). Incidente del 11-sep: agente sin autorización borró charters y dirección → **restaurado al 100%**; protocolo sin-token activo.

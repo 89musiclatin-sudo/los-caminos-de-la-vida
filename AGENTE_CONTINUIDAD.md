@@ -50,8 +50,8 @@ git push
 - S01 INTRO — casa al amanecer (HECHA, 10 planos)
 - S02 EL RÍO — madre y niño lavando (HECHA, 6 planos)
 - S03 EL CONUCO — la familia trabajando la tierra (Tiempo A) [HECHA 6/6]
-- S04 LA ESCUELA / EL CAMINO — el niño camina, soledad y esfuerzo [EN CURSO 4/6, faltan P05 llegada escuelita y P06 entrada contraluz]
-- S05 EL COLMADO — la radio, la canción, la comunidad
+- S04 LA ESCUELA / EL CAMINO — el niño camina, soledad y esfuerzo [6/6 ENTREGADOS: P05+P06 por AGENTE_B_S04 el 2026-09-11; P03 y P04 en tablero de reparaciones]
+- S05 EL COLMADO — la radio, la canción, la comunidad [6/6 ENTREGADOS al spec del Director por AGENTE_C_S05 el 2026-09-11, pendiente veredicto]
 - S06 LA COMIDA — mesa, platos compartidos, la ponchera
 - S07 COSTURA — la madre remienda de noche con aguja e hilo (luz de queroseno)
 - S08 PARTIDA — el niño crece, la despedida en el camino
