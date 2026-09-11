@@ -56,3 +56,6 @@ Ambas 2560×1072. Las V1 del lote 2 quedan publicadas para que el Director elija
 - `S08_P02_ABRAZO_MADRE_HIJO_50MM_V3.jpg` — 50mm: abrazo con el adolescente del charter y madre con canas. **AUTO-DENUNCIA:** el fardo salió ASIDO AL COSTADO del hijo en vez de EN EL SUELO (rompe el traslado fijado con P01_V3/P05). Turno cortado por el límite de 10 imágenes del entorno (7 charter + 3 planos); se regenera en el próximo ciclo si el Director lo ordena o de oficio.
 - `S08_P05_HIJO_SE_ALEJA_MADRE_LO_MIRA_35MM_V3.jpg` — 35mm: contraplano correcto — fardo en mano DERECHA, lonchera en la izquierda, madre de espaldas 3/4 con canas, foco en el que se va.
 - Las versiones anteriores (V1/V2) quedan publicadas sin borrar. Estado sugerido para el Director: P01✅V3 · P02🔍V3(fardo) · P05✅V3.
+
+## ACTUALIZACION V4 P05 (WILSON, post-LOTE 7)
+- P05 V4: madre corregida a 47 anos (identica a P01/P03 segun orden del Director). Hijo charter 03B intacto.
