@@ -27,3 +27,8 @@ Añadidos a `SECUENCIA_09_PRESENTE/` como **material extra** de Tiempo B (no sus
 
 ### ⚠️ AUTO-DENUNCIA (para que el veredicto no me agarre por sorpresa)
 **En `S09_EXTRA_CONUCO_YUCA_35MM_WILSON.jpg` la marca de la ceja IZQUIERDA no se lee con claridad.** Lo intenté 3 veces (V1, V2, V3 pidiendo explícitamente cabeza erguida y las dos cejas visibles): el modelo de generación insiste en inclinar la cabeza del personaje hacia su tarea (la yuca), y a esa distancia/ángulo la muesca no es legible — igual que ocurría en la P02 de S09 que ya se auto-denunció. Es **límite de herramienta, no decisión de dirección**: prefiero entregarlo con la denuncia antes que pasarlo como si cumpliera. **Si el Director exige la marca legible, la orden correcta es un 85 mm de rostro con la cabeza levantada** (ese lente sí puede con el detalle) o regenerar con otro encuadre. El general 24 mm no requiere la marca visible porque el personaje va de perfil/espaldas.
+
+## EXTRAS TAREA C (cola de 06_EQUIPO): el hijo adulto trabaja el conuco — 2 alternativas
+- `S09_EXTRA_CONUCO_DESYERBO_35MM_WILSON.jpg` — 35mm general de acción: el adulto (charter, marca ceja izq.) desyerba la hilera de yuca con machete, sombrero a la espalda, casa envejecida entre los plátanos al fondo; misma parcela de S03_P01 aprobado, hoy (Tiempo B) con el sembrado más alto.
+- `S09_EXTRA_CONUCO_CARGA_YUCA_50MM_WILSON.jpg` — 50mm medio: perfil 3/4 incorporándose con el hatillo de yucas en la mano derecha y el azadón al hombro, mirando el largo de la hilera (NUNCA a cámara). Tomadas B1/B2 del proceso se descartaron antes de subir (encuadre cerrado / mirada al lente) y quedan documentadas aquí.
+Ambas 2560×1072, amanecer-mañana dorada, sin electricidad, 5 dedos verificados.

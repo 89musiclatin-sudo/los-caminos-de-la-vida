@@ -59,3 +59,8 @@ Ambas 2560×1072. Las V1 del lote 2 quedan publicadas para que el Director elija
 
 ## ACTUALIZACION V4 P05 (WILSON, post-LOTE 7)
 - P05 V4: madre corregida a 47 anos (identica a P01/P03 segun orden del Director). Hijo charter 03B intacto.
+
+## LOTE 5 — REPARACIÓN P05 (veredicto LOTE 7: «madre ~70 y blanca → regenerar con la madre de 47 idéntica a P01/P03»)
+- `S08_P05_HIJO_SE_ALEJA_MADRE_LO_MIRA_35MM_V6.jpg` — 35mm: madre de 47 (canas incipientes, blusa lila + chal beige + falda azul marino) en primer plano DERECHO de espaldas 3/4, mirando el fondo del camino; el adolescente (charter 03B) de espaldas nítido con FARDO en mano DERECHA y LONCHERA en la IZQUIERDA; geografía canónica: casa+mango al fondo IZQUIERDA, escuelita con bandera a la DERECHA. Nadie a cámara. 2560×1072.
+- Proceso documentado (tomas no publicadas, se regeneraron antes de subir): V4 salió con la madre correcta PERO geografía espejada (escuelita izq/casa der); V5 corrigió la geografía PERO puso a la madre a la izquierda con eje de mirada contrario a la P06 aprobada. La V6 une ambos aciertos.
+- Estado enviado al Director: P05_V6 candidata a OFICIAL — con ella, S08 queda 6/6 sin pendientes por mi parte.
