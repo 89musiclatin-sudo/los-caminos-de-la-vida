@@ -71,3 +71,12 @@
 5. Registrar la entrega en `02_DIRECCION/REGISTRO_DE_AGENTES.md`.
 6. El Director revisa TODA foto nueva → veredicto: **APROBADA / REVISAR / REHACER** en `03_TABLERO_DE_REPARACIONES.md`.
 7. Solo las fotos con veredicto **APROBADA** pasan a `03_FOTOGRAFIA_FINAL/SECUENCIA_XX/` (carpeta final de animación).
+
+---
+
+## 🚨 REGLA DE BLOQUE DE ESCENA (decreto del Jefe, 13-seb) — LEER ANTES DE GENERAR CADA FOTO
+**PROHIBIDO saltar de escena con una sola foto.** Ejemplo de lo que NO se hace: general de la madre lavando en el río → y de golpe una foto de ella en la casa. Eso rompe la película.
+**Cada escena se genera como BLOQUE COMPLETO antes de pasar a otra:**
+1. General de la locación (24 mm) → 2. Planos medios de la acción (35/50) → 3. Contraplanos de CADA personaje (85) → 4. Macros de detalle (100) → 5. Plano de dos/grupal de cierre → 6. Opcionales: dron/aéreo del lugar, primerísimo primer plano de la emoción.
+**MÍNIMO 5 PLANOS POR ESCENA, TODOS EN EL MISMO LUGAR, MISMA HORA, MISMA ROPA, MISMOS OBJETOS.** La escena no está "entregada" hasta que su bloque esté completo (ver `02_ORDENES_NUEVAS_SECUENCIAS.md` que ya trae el listado de planos de cada una).
+**El radar del Director rechaza cualquier foto nueva que abra una escena nueva si la escena anterior del mismo fotógrafo tiene su bloque incompleto.**

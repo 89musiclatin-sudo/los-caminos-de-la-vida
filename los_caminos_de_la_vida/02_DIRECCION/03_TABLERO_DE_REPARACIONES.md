@@ -212,3 +212,6 @@ AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu p
 
 ## 📣 ORDEN DEL JEFE (13-seb): SUBAN TODO
 **Todos los fotógrafos: publiquen TODO lo que tienen generado, aunque esté repetido, aunque sea una alternativa, aunque crean que no es perfecta. El Jefe quiere VERLO TODO y decide él. Nada se descarta. El Director ya no archiva nada fuera de la escena: los duplicados buenos viven en `ALTERNATIVAS/` dentro de su escena.**
+
+## 🚨 AVISO A TODA LA CUADRILLA — BLOQUE DE ESCENA OBLIGATORIO
+Una foto por momento NO sirve para el montaje. Cada escena = bloque de 5+ planos (general, medios, contraplanos, macro, cierre, opcional dron). Estado actual de bloques incompletos que deben completarse YA: S03 (falta P05), S05 (faltan P05/P06), S06 (falta P06), S09 (falta veredicto de P03–P06 — ya en revisión del Director), S11 (veredicto en camino). Nadie abre escena nueva con su bloque anterior incompleto.
