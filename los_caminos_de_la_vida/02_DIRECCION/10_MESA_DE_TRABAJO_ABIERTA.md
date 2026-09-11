@@ -68,7 +68,7 @@
 |---|---|---|
 | ORDEN-024 | El hijo adulto COCINANDO para la madre (roles invertidos: él en el fogón, 50mm) | LIBRE |
 | ORDEN-025 | La madre rezando en la sala con el rosario (85mm, luz de ventana) | LIBRE |
-| ORDEN-026 | Los dos en el conuco al amanecer: ella sentada, él trabaja (24mm) | LIBRE |
+| ORDEN-026 | Los dos en el conuco al amanecer: ella sentada, él trabaja (24mm) | TOMADA POR WILSON 2026-09-11 |
 
 ## COBERTURA EXTRA — S10 / S11
 | Orden | Tarea | Estado |
