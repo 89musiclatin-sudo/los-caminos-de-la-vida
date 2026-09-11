@@ -38,3 +38,26 @@ Radio viejo grande en el mismo lugar del mostrador · estantes de madera llenos 
 ## Historial
 - 2026-09-11 — Primera versión por "Agente de Continuidad" (5 planos del plan propio).
 - 2026-09-11 — **Regenerada completa al spec del Director (6 planos exactos de `02_DIRECCION/02_ORDENES_NUEVAS_SECUENCIAS.md`)**: dueño sirviendo, madre look de tarde verde oliva, macro del radio, calle exterior. Versión anterior reemplazada.
+
+---
+
+## [2026-09-11] RAFA — REPARACIONES DEL TABLERO (LOTE 2) · P05 y P06
+**Orden del Director en `03_TABLERO_DE_REPARACIONES.md`:**
+- **P05 🔍 REVISAR** → *"el niño NO lleva la lonchera de lata — la trajo a la escuela (P01–P06 de S04) y no puede desaparecer; debe verse colgando de su otra mano o asomando. Regenerar este plano con la lonchera presente."*
+- **P06 🔍 REVISAR** → *"La mesa de dominó cambió de posición respecto a P01 (en P01 está adosada al portal con jugadores; en P06 está suelta en la tierra y sin jugadores). Alinear geometría con P01."*
+
+Se publican como **versiones nuevas con sufijo `_RAFA`** (no se sobrescribe ni se borra la versión anterior; la anterior queda en el historial de git y en `04_FOTOGRAFIA_EN_REPARACION/`). Precedente: `_WILSON`. Si MARIO o RAMÓN publican también su V2, el Director elige la oficial.
+
+| # | Archivo | Lente | Corrección aplicada |
+|---|---|---|---|
+| P05 | `S05_P05_PLANO_DOS_MADRE_HIJO_50MM_V2_RAFA.jpg` | 50 mm T2.8 | **LA LONCHERA REGRESA.** Plano de dos: la madre (verde oliva + falda floreada, look de tarde, sin delantal ni pañuelo) sale con el niño, una mano en su hombro; él lleva la bolsa de papel del pan en una mano y **la lonchera de lata colgando de la otra**, bien visible — continuidad directa con S04 (P01–P06) y con S08_P04 (la lonchera de la niñez). Ambos miran el camino, nunca a cámara. |
+| P06 | `S05_P06_CALLE_EXTERIOR_COLMADO_35MM_V2_RAFA.jpg` | 35 mm T4 | **GEOMETRÍA ALINEADA CON P01.** Calle exterior del colmado con la **mesa de dominó adosada al portal, contra la pared junto a la entrada, y con jugadores sentados viéndose de espaldas** (rostros no identificables) — exactamente como en el general P01 aprobado. Botellas de vidrio formadas al frente, mismos sacos y cajones, luz dorada rasante y polvo. |
+
+**Continuidad respetada:** niño con camiseta mostaza + **pantalón LARGO marrón** + sandalias + marca en la CEJA IZQUIERDA (derecha del espectador en frontal) · madre blusa verde oliva + falda floreada · props fijos en todos los planos (radio grande en el mostrador, estantes llenos, nevera de gas, botellas de vidrio) · cero electricidad · nadie mira a cámara · 2560×1072 (2.39:1) · ARRI Alexa 35 + Cooke.
+**Referencias usadas:** `S05_P01_COLMADO_GENERAL_24MM.jpg` (geometría canónica del portal y la mesa de dominó), `S05_P05` y `S05_P06` originales (composición), charters `PROTAGONISTA_NINO` + `MADRE_TIEMPO_A_RECUERDOS`.
+
+### ⚠️ AUTO-DENUNCIA
+Misma limitación que en S11: **este entorno no me devuelve visión**, no puedo verificar con zoom la lonchera, la posición exacta de la mesa de dominó ni contar los dedos en mis propias fotos. Van especificadas en el prompt y verificadas en formato. El control visual queda en el radar del Director.
+
+### Firma
+`[2026-09-11] RAFA | S05 COLMADO: P05_V2_RAFA (50mm, lonchera de lata presente) + P06_V2_RAFA (35mm, mesa de dominó adosada al portal con jugadores = geometría de P01) | Reparaciones LOTE 2 del tablero | Nada borrado ni sobrescrito | Pendiente: veredicto del Director`
