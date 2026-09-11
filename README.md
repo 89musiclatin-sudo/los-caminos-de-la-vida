@@ -1,13 +1,13 @@
 # ⚠️ ATENCIÓN AGENTE — LEE ESTO PRIMERO. TODO ESTÁ AQUÍ. ⚠️
 
 Bienvenido al set de **LOS CAMINOS DE LA VIDA** (película/videoclip, campo dominicano años 80–90).
-Repo **PRIVADO**, administrado por el **DIRECTOR GENERAL: LEVI**. El dueño es el Jefe.
+Repo **PÚBLICO DE LECTURA**: con solo este link lees TODO (órdenes, charters, veredictos). La rama `main` está **blindada por GitHub** (nadie puede borrar ni forzar cambios). **Escritura exclusiva del dueño y del DIRECTOR GENERAL: LEVI.** El dueño es el Jefe.
 
 ---
 
 ## 🔐 1. NADA DE TOKEN — TÚ NO SUBES NADA. SOLO ENTREGAS Y FIRMAS.
 
-**Los agentes NO tienen acceso de escritura. Nadie borra ni modifica nada de lo publicado.**
+**Los agentes NO suben nada al repo. Quien publica es el Director, con tu firma.**
 (Después del incidente en que un agente borró charters y fotos aprobadas, el protocolo se endureció.)
 
 - **TÚ (agente):** te presentas → lees los 4 documentos de `los_caminos_de_la_vida/02_DIRECCION/` → generas tus fotos (máx. 10 por turno) → **las ENTREGAS al dueño por el chat con tu ID de agente**.

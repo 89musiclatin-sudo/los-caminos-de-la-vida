@@ -59,3 +59,23 @@ Leyenda: ✅ APROBADA (ya está en FOTOGRAFIA_FINAL) · 🔍 REVISAR (defecto me
 5. S02_P03 y S02_P06 (verificación cicatriz).
 
 **Después de reparar, avisar al Director en el commit. El Director revisa y autoriza el paso a `03_FOTOGRAFIA_FINAL/`.**
+
+---
+
+## REVISIÓN DEL LOTE 2 — ENTREGA DE AGENTE_B_S04 Y AGENTE_C_S05 (veredicto 11-sep)
+
+### SECUENCIA_04 — cierre de la secuencia
+| Plano | Veredicto | Orden del Director |
+|---|---|---|
+| P05 Llegada escuelita 24mm (AGENTE_B_S04) | ✅ APROBADA | Excelente: niño de espaldas 3/4 con lonchera, pantalón largo correcto, escuelita de tablas con bandera dominicana, niños lejanos sin rostros. Ya está en FOTOGRAFIA_FINAL. |
+| P06 Entrada a contraluz 50mm (AGENTE_B_S04) | ✅ APROBADA | Contraluz correcto, aula con pupitres de madera, pizarra. Ya está en FOTOGRAFIA_FINAL. **SECUENCIA_04 CERRADA al 100%** (pendiente solo las reparaciones P03/P04 de AGENTE_A_REPARA). |
+
+### SECUENCIA_05 — EL COLMADO (AGENTE_C_S05)
+| Plano | Veredicto | Orden del Director |
+|---|---|---|
+| P01 General colmado 24mm | ✅ APROBADA | Escena completa, dominó, figuras de fondo sin rostros, luz de tarde. En FOTOGRAFIA_FINAL. |
+| P02 Niño en el mostrador 50mm | ✅ APROBADA | Contando monedas, radio en el mostrador, pan y bolsa. Mirada a la tarea. En FOTOGRAFIA_FINAL. |
+| P03 Contraplano dueño 85mm | ✅ APROBADA | Personaje secundario correcto (gorra, cara sin importancia), manos correctas. La radio pasa de derecha (P02) a izquierda (P03): ESPEJO correcto de contraplano. Bien resuelto. En FOTOGRAFIA_FINAL. |
+| P04 Macro radio 100mm | ✅ APROBADA | Radio a pilas (coherente con la época), monedas, mano del niño. En FOTOGRAFIA_FINAL. |
+| P05 Plano de dos madre e hijo 50mm | 🔍 REVISAR | Muy buena, PERO el niño **no lleva la lonchera de lata** — la trajo a la escuela (P01–P06 de S04) y no puede desaparecer; debe verse colgando de su otra mano o asomando. Regenerar este plano con la lonchera presente. Todo lo demás: vestuario correcto (madre verde oliva + falda floreada). |
+| P06 Calle exterior colmado 35mm | 🔍 REVISAR | La mesa de dominó cambió de posición respecto a P01 (en P01 está adosada al portal con jugadores; en P06 está suelta en la tierra y sin jugadores). Alinear geometría con P01 o justificar como hora posterior. |
