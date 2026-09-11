@@ -209,3 +209,6 @@ AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu p
 | S07_P04 | ✅ APROBADA | Rostro charter bajo el queroseno, pañuelo ✓. En FINAL. |
 | S07_P05 | ✅ APROBADA | Cierre emocional precioso. Nota menor: los dos niños duermen en la misma cama (el master 10 los tiene separados) — aceptable, alternativa de montaje. En FINAL. |
 **SECUENCIA_07 COSTURA DE NOCHE: 5/5 con 1 retoque (P02 pañuelo).**
+
+## 📣 ORDEN DEL JEFE (13-seb): SUBAN TODO
+**Todos los fotógrafos: publiquen TODO lo que tienen generado, aunque esté repetido, aunque sea una alternativa, aunque crean que no es perfecta. El Jefe quiere VERLO TODO y decide él. Nada se descarta. El Director ya no archiva nada fuera de la escena: los duplicados buenos viven en `ALTERNATIVAS/` dentro de su escena.**
