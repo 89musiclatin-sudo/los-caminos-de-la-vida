@@ -45,9 +45,9 @@
 ## COBERTURA EXTRA — S05 COLMADO
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-015 | El dueño entregando el pan al niño sobre el mostrador (85mm) | LIBRE |
-| ORDEN-016 | Macro de las manos jugando dominós sobre la mesa (100mm) | LIBRE |
-| ORDEN-017 | La radio vista desde atrás del mostrador con el niño desenfocado al fondo | LIBRE |
+| ORDEN-015 | El dueño entregando el pan al niño sobre el mostrador (85mm) | TOMADA POR ELÍAS 2026-09-11 (bloque S05 extras) |
+| ORDEN-016 | Macro de las manos jugando dominós sobre la mesa (100mm) | TOMADA POR ELÍAS 2026-09-11 (bloque S05 extras) |
+| ORDEN-017 | La radio vista desde atrás del mostrador con el niño desenfocado al fondo | TOMADA POR ELÍAS 2026-09-11 (bloque S05 extras) |
 
 ## COBERTURA EXTRA — S06 LA COMIDA
 | Orden | Tarea | Estado |
