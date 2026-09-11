@@ -24,9 +24,9 @@
 ## COBERTURA EXTRA — S02 EL RÍO
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-006 | Macro 100mm: los pies descalzos del niño en el agua clara | LIBRE |
-| ORDEN-007 | La madre tendiendo la ropa en la cuerda (50mm, misma ropa) | LIBRE |
-| ORDEN-008 | Aéreo/dron del río con madre e hijo lavando (24mm) | LIBRE |
+| ORDEN-006 | Macro 100mm: los pies descalzos del niño en el agua clara | TOMADA POR WILSON 2026-09-11 — LOTE S02 DE 5 |
+| ORDEN-007 | La madre tendiendo la ropa en la cuerda (50mm, misma ropa) | TOMADA POR WILSON 2026-09-11 — LOTE S02 DE 5 |
+| ORDEN-008 | Aéreo/dron del río con madre e hijo lavando (24mm) | TOMADA POR WILSON 2026-09-11 — LOTE S02 DE 5 |
 
 ## COBERTURA EXTRA — S03 CONUCO
 | Orden | Tarea | Estado |
