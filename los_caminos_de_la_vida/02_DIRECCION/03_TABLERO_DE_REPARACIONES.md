@@ -106,3 +106,11 @@ Consecuencias: S04_P03 y S02_P03/P06 (pendientes de revisión) deben mostrar la 
 | P05 macro manos cuchara | 🔍 REVISAR | Las manos son de persona MAYOR. La madre del Tiempo A tiene ~35-40 años: manos fuertes de trabajadora pero jóvenes (ver charter). Regenerar con manos correctas + manga azul de flores. |
 | P06 plano de tres 50mm | ❌ REHACER | ESTE es el salto de habitación que detectó el Jefe: paredes ENCALADAS lisas (la sala es de TABLAS de madera oscura, master 07), madre con AFÚ suelto (debe llevar MOÑO bajo), olla de BARRO (es de METAL), faroles de pared que no existen. Rehacer clonando la sala de P02 con sus mismos objetos. |
 | Master 10 dormitorio hijos | ✅ APROBADO Y BLOQUEADO | Dos camas con mosquiteros, postigos azules, baúl, ropa colgada, foto familiar. Añadido a los masters oficiales de la casa. Bien hecho. |
+
+---
+
+## VEREDICTO PARCIAL LOTE 4 — S09 PRESENTE (WILSON, sesiones paralelas) y S08
+**Resolución de variantes (mismo plano, dos versiones): el Director elige la oficial y manda las demás a `04_FOTOGRAFIA_EN_REPARACION/VARIANTES_S09/`:**
+- **P01 OFICIAL = `S09_P01_CASA_PRESENTE_24MM.jpg`** ✅ APROBADA: batea y jarra presentes (objetos que existen desde S01), geometría de la casa fiel, madre de 80 sentada, hijo aseando el corredor. La variante del tejado (GENERAL_24MM) está beautiful pero tiene DOS CASITAS extra al fondo — viola "vivienda aislada" (regla del timeline): 🔍 si se quiere rescatar, regenerar sin las casas del fondo.
+- **P02 OFICIAL = `S09_P02_HIJO_ARREGLANDO_BALCON_35MM_V2.jpg`** ✅ APROBADA (verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje, lado correcto según decreto). La variante del tejado queda como alternativa de montaje en VARIANTES_S09.
+- P03 (2 versiones), P04, P05, P06 y las 2 fotos de S08: revisión completa en el próximo ciclo del radar.
