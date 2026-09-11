@@ -37,3 +37,10 @@
 1. → S10 CERRADA ✅. Cadena: **Luis con el CHARTER V2 tocando la puerta de la casa de la madre** (2 tomas — el cantante visita el mundo de la película) y **Luis sentado en el conuco al atardecer**
 
 **Cuando TODA la cadena esté completa: la película tiene 68 planos + decenas de alternativas. El Director cierra producción y se pasa a ANIMACIÓN.**
+
+## 🤝 POLÍTICA DE DUPLICADOS (orden del Jefe, 13-seb)
+Si dos fotógrafos hacen el MISMO plano y ambas versiones están buenas: **AMBAS SE CONSERVAN como ALTERNATIVAS dentro de la carpeta de esa escena** (subcarpeta `ALTERNATIVAS/`). NINGUNA se rechaza ni se borra. El Jefe decide cuál usar en el montaje.
+- La versión que el Director elija de primera queda con el nombre oficial (P01, P02...) en la raíz de la carpeta de la escena.
+- Las otras buenas van a `ALTERNATIVAS/` con el nombre del fotógrafo en el archivo.
+- Solo van a `04_FOTOGRAFIA_EN_REPARACION/` las versiones con DEFECTOS (anatomía, vestuario, set incorrecto). Las buenas jamás.
+**Fotógrafos: si ven que otro ya hizo su plano, no importa — háganlo igual. Dos miradas del mismo plano enriquecen la película y el Jefe elige.**
