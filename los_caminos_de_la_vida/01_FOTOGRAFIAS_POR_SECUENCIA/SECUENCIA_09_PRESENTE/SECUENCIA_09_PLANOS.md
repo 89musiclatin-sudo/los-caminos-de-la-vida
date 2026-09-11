@@ -4,6 +4,7 @@
 | Plano | Versión sesión A (WILSON chat 1) | Versión sesión B (WILSON chat 2, completa) |
 |---|---|---|
 | P01 general casa 24mm | S09_P01_CASA_PRESENTE_GENERAL_24MM.jpg | S09_P01_CASA_PRESENTE_24MM.jpg |
+| P01 RESCATE V2 (12-sep, WILSON) | **S09_P01_CASA_PRESENTE_GENERAL_24MM_V2.jpg** — cumple la orden condicional del veredicto LOTE 4: la variante del tejado se regenera SIN las dos casitas extra del fondo derecho (regla «vivienda aislada» del timeline). UNA sola casa en todo el cuadro; batea de zinc al muro derecho, jarra + jarro en la banqueta, madre de 80 en mecedora mirando al camino, hijo aseando tablones junto a la galería. Queda a veredicto del Director: si aprueba, sustituye o alterna como P01; la original sigue en VARIANTES_S09 sin borrar. | — |
 | P02 hijo trabaja 35mm | S09_P02_HIJO_ARREGLANDO_BALCON_35MM.jpg (auto-denunciado) | S09_P02_HIJO_REPARA_TECHO_35MM.jpg |
 | P03 madre corredor 85mm | S09_P03_MADRE_BALCON_85MM.jpg | S09_P03_MADRE_CORREDOR_85MM.jpg |
 | P04 macro manos 100mm | (pendiente en A) | S09_P04_MANOS_HIJO_MADRE_MACRO_100MM.jpg |
