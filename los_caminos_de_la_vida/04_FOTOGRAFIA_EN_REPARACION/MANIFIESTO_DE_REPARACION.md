@@ -15,9 +15,7 @@
 | S04_P04 macro sandalias | RAMÓN | Short → debe ser PANTALÓN LARGO marrón |
 | S05_P05 plano de dos | MARIO | Falta la lonchera de lata del niño |
 | S05_P06 calle colmado | MARIO | Mesa de dominó fuera de posición vs P01 y sin jugadores |
-| S06_P01 general mesa | JUANA | Pared del fondo: clonar la de P02 (puerta de tablas + vano + puerta azul) |
-| S06_P04 hermano | JUANA | Farol del estante dorado → VERDE |
-| S06_P05 macro manos | YUDERKA | Manos de mayor → manos de madre joven trabajadora + manga azul flores |
+| S06_P06 plano de tres (V2) | JUANA | Hermano 15-16 con sandalias + ponchera central en la mesa + luz de NOCHE |
 | S06_P06 plano de tres | JUANA | Sala ENCALADA → tablas de madera master 07; afú → moño; olla de barro → metal |
 | S08_P05 hijo se aleja (V3) | WILSON | La madre sale de ~70; debe ser la de P01/P03 (47, canas incipientes) |
 
@@ -29,10 +27,10 @@
 | S03 CONUCO | 6 | 5 | 1 (P05) | 0 |
 | S04 ESCUELA | 6 | 4 | 2 (P03, P04) | 0 |
 | S05 COLMADO | 6 | 4 | 2 (P05, P06) | 0 |
-| S06 COMIDA | 6 | 2 | 4 (P01,P04,P05,P06) | 0 |
+| S06 COMIDA | 6 | 5 | 1 (P06, último retoque) | 0 |
 | S07 COSTURA | 5 | 0 | 0 | 5 (RAMÓN) |
-| S08 PARTIDA | 6 | 5 | 1 (P05 madre) | 0 |
+| S08 PARTIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S09 PRESENTE | 6 | 0 | 0 | 6 (WILSON) |
 | S10 PERFORMANCE | 6 | 0 | 0 | 6 (YUDERKA) |
-| S11 CIERRE | 5 | 0 | 0 | 5 (JUANA) |
-| **TOTAL** | **68** | **41** | **14** | **10 por crear + 3 en revisión** |
+| S11 CIERRE | 5 | 0 | 0 | 3 (P02-P04; P01/P05 publicadas, en veredicto) |
+| **TOTAL** | **68** | **45** | **10** | **8 por crear + 3 en revisión** |

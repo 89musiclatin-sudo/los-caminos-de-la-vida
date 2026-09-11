@@ -178,3 +178,15 @@ Verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje (derecha 
 **Las 6 variantes V2 quedan como SET OFICIAL de la S10** (responden a la corrección del Jefe: look de película + físico clonado del CHARTER V2 — la barba con canas de la foto real ya se ve). Ya están en FOTOGRAFIA_FINAL con nombre oficial y en el disco del Jefe.
 **Las 6 V1 no se borran:** se mudaron a `05_FOTOGRAFIA_FORMATO_LIBRE/` como material alternativo del Jefe (reels, redes, promoción).
 AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu próxima tarea cuando quieras: fotos EXTRA de Luis con el CHARTER V2 en el conuco y en la puerta de la casa vieja (cola B de YUDERKA puede compartirla).
+
+---
+
+## VEREDICTO LOTE 9 — REPARACIONES DE LA CENA + CIERRE DE S08
+| Plano | Veredicto | Nota |
+|---|---|---|
+| S06_P01 general (reparada) | ✅ APROBADA | Pared del fondo clonada de P02, farol verde, radio y fotos en el estante. La cena ya NO salta de habitación. En FOTOGRAFIA_FINAL. |
+| S06_P04 hermano (reparada) | ✅ APROBADA | Farol VERDE ✓, sin marca ✓, beige+caqui ✓, edad adolescente ✓. En FOTOGRAFIA_FINAL. |
+| S06_P05 macro manos (reparada) | ✅ APROBADA | Manos de madre trabajadora con manga azul flores ✓, la manita del niño en la mesa ✓. En FOTOGRAFIA_FINAL. |
+| S06_P06 plano de tres (2ª versión) | 🔍 REVISAR | Mucho mejor (sala de tablas, moño, olla de metal ✓) pero faltan 3 detalles: (1) el hermano se ve de ~12 y lleva zapatillas claras — debe verse 15-16 y con sandalias; (2) falta la PONCHERA central de la mesa (la olla está en un pie de madera raro — llevarla a la mesa); (3) la luz parece de día — es NOCHE, solo queroseno. Última pasada y cierra. |
+| S08_P05 V4 | ✅ APROBADA | Madre de 47 idéntica a P01/P03 ✓, hijo adolescente con fardo y lonchera ✓. **SECUENCIA_08 LA PARTIDA: CERRADA 6/6.** En FOTOGRAFIA_FINAL. |
+**En revisión por el Director (próximo ciclo): S11 P01/P05 (2 versiones de cada) y los 2 extras del conuco de S09.**
