@@ -23,11 +23,11 @@
 | S02 EL RÍO | 6 | 6 | 2 (reparación menor) | 0 |
 | S03 CONUCO | 6 | 5 | 1 (P05) | 0 |
 | S04 ESCUELA | 6 | 4 | 2 (P03, P04) | 0 |
-| S05 COLMADO | 6 | 4 | 2 (P05, P06) | 0 |
+| S05 COLMADO | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S06 COMIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S07 COSTURA | 5 | 0 | 0 | 5 (RAMÓN) |
 | S08 PARTIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S09 PRESENTE | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S10 PERFORMANCE | 6 | 0 | 0 | 6 (YUDERKA) |
-| S11 CIERRE | 5 | 0 | 0 | 3 (P02-P04; P01/P05 publicadas, en veredicto) |
-| **TOTAL** | **68** | **63** | **2** | **3 por crear (S11 P02-P04) + veredictos S11 pendientes** |
+| S11 CIERRE | 5 | 2 | 1 (P03 pared) | P01/P05 en veredicto |
+| **TOTAL** | **68** | **65** | **2** | **1 (S11_P03) + veredictos S11_P01/P05 y extras pendientes** |

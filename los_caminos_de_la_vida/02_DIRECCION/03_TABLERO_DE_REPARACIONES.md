@@ -218,3 +218,15 @@ Una foto por momento NO sirve para el montaje. Cada escena = bloque de 5+ planos
 | S06_P06 V2 FINAL | ✅ APROBADA | Noche ✓, queroseno verde en la mesa ✓, sala de tablas ✓, hermano 15-16 con sandalias ✓, olla central humeante ✓. **SECUENCIA_06 LA COMIDA: CERRADA 6/6.** En FINAL y disco. |
 | S03_P05 V3 WILSON | ✅ APROBADA | Sin delantal ✓, blusa rosa flores ✓, manos perfectas. **S03 CONUCO: CERRADA 6/6.** En FINAL y disco. |
 | S09_P03/P04/P05/P06 | ✅ APROBADAS (WILSON) | Madre de 80 en el balcón ✓, macro de las manos ✓, hijo trae agua ✓, plano de dos ✓. **S09 PRESENTE: CERRADA 6/6.** En FINAL y disco. |
+
+---
+
+## VEREDICTO LOTE 11 — S05 CERRADA + S11 CASI CERRADA
+| Plano | Veredicto | Nota |
+|---|---|---|
+| S05_P05 OFICIAL = V2_RAFA | ✅ APROBADA | Lonchera ✓, pan ✓, mano de la madre en el hombro ✓. La V2_WILSON queda como ALTERNATIVA en la escena. |
+| S05_P06 OFICIAL = V2_RAFA | ✅ APROBADA | Mesa de dominó ADOSADA al portal con jugadores ✓ (idéntica geometría a P01), dos figuras alejándose. **SECUENCIA_05 COLMADO: CERRADA 6/6.** La V2_WILSON = ALTERNATIVA. |
+| S11_P02 el llega 35mm (RAFA) | ✅ APROBADA | Hijo adulto charter ✓, camino rojo ✓. Nota menor: la casa del fondo difiere un poco del master — se acepta por distancia. |
+| S11_P04 abrazo 50mm (RAFA) | ✅ APROBADA | **EL CLÍMAX DE LA PELÍCULA.** Madre de 80 con delantal, hijo adulto con marca, postigos azules, amanecer. En FINAL. |
+| S11_P03 ella espera 85mm | 🔍 REVISAR | La madre y su rostro están perfectos, PERO la pared es ENCALADA — la casa es de TABLAS DE MADERA envejecidas (master 09/S09). Regenerar con pared de tablas. |
+Pendiente de veredicto (próximo ciclo): S11_P01 y P05 (2 versiones cada una). El resto de la ola (extras S02/S09/S10) en revisión.
