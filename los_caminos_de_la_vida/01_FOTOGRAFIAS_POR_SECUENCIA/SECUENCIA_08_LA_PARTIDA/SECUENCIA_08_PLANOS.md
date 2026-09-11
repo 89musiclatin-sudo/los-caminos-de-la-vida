@@ -43,3 +43,9 @@
 
 ## Nota sobre `S09_P02_HIJO_ARREGLANDO_BALCON_35MM_V2.jpg`
 Publicada en `SECUENCIA_09_PRESENTE/`. **Sustituye mi P02 de la sesión A** (batea de zinc duplicada y marca de la ceja ilegible, auto-denunciado en `SECUENCIA_09_PLANOS.md` de la fusión). Correcciones aplicadas: **UNA sola batea, apoyada al muro derecho** según el master 01 de fachada; cabeza girada para que la ceja izquierda del personaje lea hacia el lado correcto del cuadro; manos con 5 dedos sobre la garlopa y el tablón. La versión V1 la dejo publicada — **no borro nada**; el Director decide qué versión pasa a FINAL.
+
+## LOTE 3 (V2) — corrección de la observación de continuidad de la sesión A (WILSON, chat paralelo)
+La sesión A observó con razón que mis P02 y P06 del lote 2 leían al que se va como «niño de ~12 con lonchera» y a la madre «sin canas», cuando la orden fija adolescente de 16 y madre Tiempo A MAYOR. Corrección aplicada sin borrar nada:
+- `S08_P02_ABRAZO_MADRE_HIJO_50MM_V2.jpg` — 50mm: madre de 47 con CANAS VISIBLES en sienes y moño (entrecano), llanto contenido sin lágrimas; el hijo ahora ADOLESCENTE alto y anguloso (16) con la lonchera asida y el FARDO aún en el suelo junto a las botas; hermano al fondo con el sombrero al pecho. Geografía intacta: casa+mango a la izquierda, escuelita con bandera a la derecha.
+- `S08_P06_MADRE_SOLA_CAMINO_85MM_V2.jpg` — 85mm: ella sola, cuerpo entero, ENTRECANO visible, chal al pecho, mirada al camino vacío (casa izquierda, escuelita derecha).
+Ambas 2560×1072. Las V1 del lote 2 quedan publicadas para que el Director elija (mismo criterio de variantes que S09/S10). Auto-denuncia menor: en la P02_V2 la escuelita del fondo muestra un portal abierto lateral (ranchón) que no aparecía en V1 ni en S04_P05; si el Director lo considera desviación del set, regenero.
