@@ -49,3 +49,19 @@ En un corte de sesión se perdió el clon local del workspace. Se generaron y **
 Este entorno **no me devuelve visión**: no puedo abrir mis propias fotos para contar dedos ni confirmar con zoom la marca de la ceja, el pañuelo, el delantal o la posición de un objeto. Verifico formato y contenido por especificación de prompt; **el control visual queda en el radar del Director**. Si algún plano falla ese control, lo rehago sin discusión.
 
 `[14-seb] RAFA | ENTREGA COMPLETA: 12 fotos (S11 ×7, S05 ×2, MESA ×3) | Todo publicado y a disposición del Director | Pendiente: veredicto y siguientes órdenes`
+
+---
+
+## 4. 🎬 BLOQUE COMPLETO S01 INTRO — "LA MAÑANA COMPLETA" (6 planos) · 14-seb
+**El Director pide BLOQUES DE 5-6 PLANOS POR ESCENA. Este es mi primer bloque entregado de una sola vez.**
+
+| # | Foto | Lente | Qué es |
+|---|---|---|---|
+| P11 | `SECUENCIA_01_INTRO/S01_P11_COLADOR_CAFE_MACRO_100MM_RAFA.jpg` | 100 mm macro | Colador de café vertiendo, vapor, amanecer |
+| P12 | `SECUENCIA_01_INTRO/S01_P12_PATIO_GALLINAS_AMANECER_35MM_RAFA.jpg` | 35 mm | Patio con gallinas, ropa tendida moviéndose |
+| P13 | `SECUENCIA_01_INTRO/S01_P13_MADRE_CIERRA_POSTIGO_50MM_RAFA.jpg` | 50 mm | La madre cerrando el postigo AZUL al salir |
+| P14 | `SECUENCIA_01_INTRO/S01_P14_HUMO_TECHO_AMANECER_24MM_RAFA.jpg` | 24 mm | General: la casa con el humo del fogón al amanecer |
+| P15 | `SECUENCIA_01_INTRO/S01_P15_ROSTRO_MADRE_PATIO_85MM_RAFA.jpg` | 85 mm | Contraplano: su rostro en el patio mirando el día |
+| P16 | `SECUENCIA_01_INTRO/S01_P16_MANOS_ROPA_TENDIDA_MACRO_100MM_RAFA.jpg` | 100 mm macro | Manos recogiendo la ropa seca de la cuerda, contraluz |
+
+**Total acumulado entregado por RAFA: 16 fotos** (S11 ×7 · S05 ×2 · MESA ×3 · BLOQUE S01 ×6, con P11-P16 contando en el bloque).
