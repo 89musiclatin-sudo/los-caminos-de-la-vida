@@ -1,5 +1,12 @@
 # PROTOCOLO PARA CUALQUIER AGENTE QUE CONTINÚE EL PROYECTO
 
+> **PROYECTO MULTI-AGENTE:** este repositorio funciona con DIRECTOR y agentes colaboradores.
+> Lee primero `DIRECTOR.md` (jerarquía y flujo), luego `TRABAJO/REGLAS_DE_ORO.md` (producción)
+> y firma tu tarea en `TRABAJO/ASIGNACIONES.md`. Calidad auditada en `INFORME_QA.md`.
+
+## Paso 0.5 — Credenciales
+- Token NUNCA dentro del repo (GitHub lo destruye). Está en `/home/user/GITHUB_TOKEN.txt` del workspace del dueño. Para push: `git push https://TOKEN@github.com/89musiclatin-sudo/los-caminos-de-la-vida.git main`
+
 ## Paso 0 — Fuente original de respaldo
 Si algún archivo de continuidad faltara o estuviera corrupto, el ZIP original del dueño está en:
 `https://files.catbox.moe/hwjosm.zip` (contiene los charters originales, la casa y la SECUENCIA_01).
