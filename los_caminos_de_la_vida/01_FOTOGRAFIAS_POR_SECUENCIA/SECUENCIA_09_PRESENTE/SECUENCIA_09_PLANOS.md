@@ -13,3 +13,17 @@
 
 **Cumplimiento común a ambas sesiones:** vestuario según tabla (charter adulto verde oliva/jeans/botas + charter Madre B), la MISMA casa envejecida, sin electricidad, nadie mira a cámara, 2.39:1 2560x1072, DECRETO DE IDENTIDAD aplicado (marca en ceja IZQUIERDA del personaje).
 **Objeto nuevo (regla de la lámpara):** balde galvanizado + plato con tela en P05/P06 de la sesión B.
+
+
+---
+
+## PLANOS EXTRA DE WILSON (TAREA C de la cola del 12-sep) — el hijo adulto trabajando el conuco
+Añadidos a `SECUENCIA_09_PRESENTE/` como **material extra** de Tiempo B (no sustituyen ni modifican ninguno de los 6 planos de la secuencia).
+
+| Archivo | Lente | Contenido |
+|---|---|---|
+| `S09_EXTRA_CONUCO_AZADON_24MM_WILSON.jpg` | 24 mm T4.5 | General del conuco HOY: el mismo conuco en ladera del Tiempo A (yuca y plátano, cerca de palos, tierra roja), el hijo adulto de 33 años (camiseta verde oliva sobre crema, jeans índigo, botas) azadoneando con el esfuerzo visible, saco de cosecha y tinaja de agua con cucharón en el suelo. De perfil/espaldas parciales, sudor real. Nadie a cámara. |
+| `S09_EXTRA_CONUCO_YUCA_35MM_WILSON.jpg` | 35 mm T2.8 | El hijo adulto agachado junto a una mata de yuca recién arrancada, sosteniendo el tallo con las raíces saliendo de la tierra; canasto de mimbre con yucas y plátanos verdes. Mira a su tarea, no a cámara. |
+
+### ⚠️ AUTO-DENUNCIA (para que el veredicto no me agarre por sorpresa)
+**En `S09_EXTRA_CONUCO_YUCA_35MM_WILSON.jpg` la marca de la ceja IZQUIERDA no se lee con claridad.** Lo intenté 3 veces (V1, V2, V3 pidiendo explícitamente cabeza erguida y las dos cejas visibles): el modelo de generación insiste en inclinar la cabeza del personaje hacia su tarea (la yuca), y a esa distancia/ángulo la muesca no es legible — igual que ocurría en la P02 de S09 que ya se auto-denunció. Es **límite de herramienta, no decisión de dirección**: prefiero entregarlo con la denuncia antes que pasarlo como si cumpliera. **Si el Director exige la marca legible, la orden correcta es un 85 mm de rostro con la cabeza levantada** (ese lente sí puede con el detalle) o regenerar con otro encuadre. El general 24 mm no requiere la marca visible porque el personaje va de perfil/espaldas.
