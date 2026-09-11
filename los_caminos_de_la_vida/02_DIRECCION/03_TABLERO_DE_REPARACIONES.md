@@ -171,3 +171,10 @@ Verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje (derecha 
 | P02 OFICIAL = V4 | ✅ APROBADA | Abrazo con emoción verdadera, madre con chal y blusa lila, hermano con sombrero al pecho, fardo y lonchera en el suelo. En FOTOGRAFIA_FINAL. (Nota de montaje: el rostro del hijo lee un poco joven — alternativa en VARIANTES_S08 si hace falta.) |
 | P05 (V3) | 🔍 REVISAR | El hijo ya está bien (15-16, lonchera + fardo en las manos ✓) PERO la madre salió de ~70 años con todo blanco: en P01/P03 de esta MISMA escena tiene 47 con canas incipientes. Regenerar P05 con la madre idéntica a P01/P03. |
 | Variantes no oficiales (V2/V3/V4 descartes) | 📦 | Guardadas en 04_FOTOGRAFIA_EN_REPARACION/VARIANTES_S08/ (no se borra nada). |
+
+---
+
+## VEREDICTO LOTE 8 — S10 V2 (AGENTE_H_S10): EL SET OFICIAL DEL CANTANTE
+**Las 6 variantes V2 quedan como SET OFICIAL de la S10** (responden a la corrección del Jefe: look de película + físico clonado del CHARTER V2 — la barba con canas de la foto real ya se ve). Ya están en FOTOGRAFIA_FINAL con nombre oficial y en el disco del Jefe.
+**Las 6 V1 no se borran:** se mudaron a `05_FOTOGRAFIA_FORMATO_LIBRE/` como material alternativo del Jefe (reels, redes, promoción).
+AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu próxima tarea cuando quieras: fotos EXTRA de Luis con el CHARTER V2 en el conuco y en la puerta de la casa vieja (cola B de YUDERKA puede compartirla).
