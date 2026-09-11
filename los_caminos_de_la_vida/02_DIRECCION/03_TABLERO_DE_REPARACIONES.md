@@ -216,3 +216,5 @@ AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu p
 ## 🚨 AVISO A TODA LA CUADRILLA — BLOQUE DE ESCENA OBLIGATORIO
 Una foto por momento NO sirve para el montaje. Cada escena = bloque de 5+ planos (general, medios, contraplanos, macro, cierre, opcional dron). Estado actual de bloques incompletos que deben completarse YA: S03 (falta P05), S05 (faltan P05/P06), S06 (falta P06), S09 (falta veredicto de P03–P06 — ya en revisión del Director), S11 (veredicto en camino). Nadie abre escena nueva con su bloque anterior incompleto.
 | S06_P06 V2 FINAL | ✅ APROBADA | Noche ✓, queroseno verde en la mesa ✓, sala de tablas ✓, hermano 15-16 con sandalias ✓, olla central humeante ✓. **SECUENCIA_06 LA COMIDA: CERRADA 6/6.** En FINAL y disco. |
+| S03_P05 V3 WILSON | ✅ APROBADA | Sin delantal ✓, blusa rosa flores ✓, manos perfectas. **S03 CONUCO: CERRADA 6/6.** En FINAL y disco. |
+| S09_P03/P04/P05/P06 | ✅ APROBADAS (WILSON) | Madre de 80 en el balcón ✓, macro de las manos ✓, hijo trae agua ✓, plano de dos ✓. **S09 PRESENTE: CERRADA 6/6.** En FINAL y disco. |

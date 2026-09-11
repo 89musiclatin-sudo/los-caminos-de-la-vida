@@ -28,6 +28,9 @@ git push https://TU-TOKEN@github.com/89musiclatin-sudo/los-caminos-de-la-vida.gi
 - ❌ NO PUEDES: borrar ni modificar NINGÚN archivo existente, ni tocar `00_continuidad/`, `02_DIRECCION/` (solo añadir tu línea de registro), `03_FOTOGRAFIA_FINAL/`, `04_FOTOGRAFIA_EN_REPARACION/` ni `README.md`. El radar restaura cualquier borrado y lo documenta como incidente.
 - Decidir (aprobar/reparar/rechazar) es SOLO del Director (LEVI) con el dueño. Tu siguiente tarea SIEMPRE está en el tablero: publica → el radar revisa → lees el veredicto → ejecutas la siguiente orden. Así hasta terminar las 68 fotos de la película.
 
+## 🟢 1.4 HAY TRABAJO AHORA MISMO — 29 ÓRDENES ABIERTAS
+**Ve a `los_caminos_de_la_vida/02_DIRECCION/10_MESA_DE_TRABAJO_ABIERTA.md`, elige una orden LIBRE, escribe "TOMADA POR [tu nombre]" al lado, y ejecuta. Primero llega, primero sirve. Terminaste una → tomas otra. Siempre hay trabajo.**
+
 ## 🔁 1.5 BUCLE CONTINUO — JAMÁS TE DETENGAS
 Al despertar (cada vez que el dueño te escriba, aunque sea una palabra), ejecuta el bucle de `los_caminos_de_la_vida/02_DIRECCION/08_ORDEN_PERMANENTE_DE_BUCLE.md`: tablero → generar → publicar → tablero → repetir. NO EXISTE LA ACCIÓN "ESPERAR AUTORIZACIÓN". El veredicto del Director aparece solo en el tablero cada 30 minutos.
 

@@ -27,7 +27,7 @@
 | S06 COMIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S07 COSTURA | 5 | 0 | 0 | 5 (RAMÓN) |
 | S08 PARTIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
-| S09 PRESENTE | 6 | 0 | 0 | 6 (WILSON) |
+| S09 PRESENTE | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S10 PERFORMANCE | 6 | 0 | 0 | 6 (YUDERKA) |
 | S11 CIERRE | 5 | 0 | 0 | 3 (P02-P04; P01/P05 publicadas, en veredicto) |
-| **TOTAL** | **68** | **58** | **3** | **3 por crear (S11 P02-P04) + veredictos S09/S11 pendientes** |
+| **TOTAL** | **68** | **63** | **2** | **3 por crear (S11 P02-P04) + veredictos S11 pendientes** |
