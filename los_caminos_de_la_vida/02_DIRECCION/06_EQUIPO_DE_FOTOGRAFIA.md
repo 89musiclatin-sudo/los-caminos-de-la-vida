@@ -22,3 +22,12 @@
 5. YUDERKA — P05: macro manos con cuchara y arroz, 100 mm.
 6. MARIO — P06: plano de tres en la mesa, 50 mm, calor de lámpara.
 **Después de S06:** RAMÓN cierra reparaciones → WILSON+JUANA+YUDERKA+MARIO pasan a S07 COSTURA DE NOCHE (guion en `02_ORDENES_NUEVAS_SECUENCIAS.md`) y así por orden: S08 → S09 → S10 → S11.
+
+## ⚡ REASIGNACIÓN DEL DIRECTOR (12-sep) — ADELANTAR TODA LA HISTORIA EN PARALELO
+El Jefe ordenó que la película NO puede quedarse en la época del niño. Nueva asignación inmediata (cada fotógrafo una secuencia completa, su guion en `02_ORDENES_NUEVAS_SECUENCIAS.md`):
+- **RAMÓN** → termina sus 5 reparaciones de S01–S05 y pasa a **S07 COSTURA DE NOCHE** (5 planos).
+- **JUANA** → repara los 4 planos marcados de S06 (P01, P04, P05, P06) y pasa a **S11 CIERRE** (5 planos, Tiempo B).
+- **WILSON** → **S09 PRESENTE / TIEMPO B YA** (6 planos: hijo adulto + madre de 80, charters Tiempo B, casa envejecida).
+- **YUDERKA** → **S10 PERFORMANCE LUIS YA** (6 planos, traje negro total).
+- **MARIO** → cierra S05 (P05 con lonchera, P06 con mesa en posición de P01) y pasa a **S08 LA PARTIDA** (6 planos).
+Regla: todas las épocas avanzan A LA VEZ. Prohibido estancarse en Tiempo A.

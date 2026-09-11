@@ -37,8 +37,8 @@
 - DERECHA: cama sencilla de madera con colcha floreada desteñida y almohada; mosquitero (tela blanca) recogido amarrado arriba.
 - Ventana con POSTIGOS AZULES abiertos a la derecha. Foto familiar pequeña enmarcada en la pared del fondo.
 
-## DORMITORIO DE LOS HIJOS
-- NO tiene master fotográfico aún. Referencia: planta maestra (2 camas). **El primer agente que genere un plano allí debe crear primero UN master de este dormitorio (estilo de los otros 3) y entregarlo para aprobación. Ese master, una vez aprobado, se vuelve bloqueado como los demás.**
+## DORMITORIO DE LOS HIJOS (master 10 — APROBADO Y BLOQUEADO 12-sep)
+- `10_INTERIOR_DORMITORIO_HIJOS_MASTER_4K.jpg`: dos camas de madera con colchas floreadas desteñidas y mosquiteros blancos recogidos, baúl de madera entre ambas, ventana central con postigos AZULES, camisetas colgadas en la pared izquierda, toalla derecha, foto familiar enmarcada, sandalias en el piso. BLOQUEADO como los otros 3 masters.
 
 ## REGLAS DEL SET
 1. Los 4 elementos fijos por habitación NO se mueven, NO cambian de material ni de color entre planos.

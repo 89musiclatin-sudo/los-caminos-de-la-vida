@@ -93,3 +93,16 @@ Leyenda: ✅ APROBADA (ya está en FOTOGRAFIA_FINAL) · 🔍 REVISAR (defecto me
 **Verificado con zoom sobre el charter oficial: la cicatriz corta la CEJA IZQUIERDA del protagonista (niño y adulto), que en vista FRONTAL aparece a la DERECHA del espectador.**
 Los textos antiguos que decían "ceja derecha" se referían al lado derecho de la imagen — fuente de errores en espejo. Desde hoy rige: **marca en ceja izquierda del personaje = derecha del espectador en frontal**. El hermano NUNCA la tiene.
 Consecuencias: S04_P03 y S02_P03/P06 (pendientes de revisión) deben mostrar la marca EN ESE lado exacto. Toda foto del niño o del adulto con la marca al lado opuesto = ❌ REHACER.
+
+---
+
+## VEREDICTO LOTE 3 — SECUENCIA_06 LA COMIDA (WILSON, JUANA, YUDERKA, MARIO) + master 10
+| Plano | Veredicto | Orden del Director |
+|---|---|---|
+| P01 general mesa 24mm | 🔍 REVISAR | La sala está bien (lámpara verde en la mesa, radio y fotos en el estante), PERO la pared del fondo no coincide con P02: en P01 hay dos puertas azules y en P02 puerta de tablas + vano oscuro + puerta azul. Rehacer P01 clonando EXACTAMENTE la pared del fondo de P02. |
+| P02 madre sirviendo 50mm | ✅ APROBADA | Set correcto, rostro charter, vestuario azul flores + delantal, nadie mira a cámara. Ya en FOTOGRAFIA_FINAL. |
+| P03 niño comiendo 85mm | ✅ APROBADA | Camiseta blanca + pantalón largo, cabeza agachada, sin marca visible por el ángulo (correcto: su ceja derecha está limpia). Ya en FOTOGRAFIA_FINAL. |
+| P04 hermano comiendo 85mm | 🔍 REVISAR | Correcto en todo (sin marca ✓, beige+caqui ✓) PERO el farol del estante es DORADO — en toda la escena es VERDE. Regenerar con farol verde. |
+| P05 macro manos cuchara | 🔍 REVISAR | Las manos son de persona MAYOR. La madre del Tiempo A tiene ~35-40 años: manos fuertes de trabajadora pero jóvenes (ver charter). Regenerar con manos correctas + manga azul de flores. |
+| P06 plano de tres 50mm | ❌ REHACER | ESTE es el salto de habitación que detectó el Jefe: paredes ENCALADAS lisas (la sala es de TABLAS de madera oscura, master 07), madre con AFÚ suelto (debe llevar MOÑO bajo), olla de BARRO (es de METAL), faroles de pared que no existen. Rehacer clonando la sala de P02 con sus mismos objetos. |
+| Master 10 dormitorio hijos | ✅ APROBADO Y BLOQUEADO | Dos camas con mosquiteros, postigos azules, baúl, ropa colgada, foto familiar. Añadido a los masters oficiales de la casa. Bien hecho. |
