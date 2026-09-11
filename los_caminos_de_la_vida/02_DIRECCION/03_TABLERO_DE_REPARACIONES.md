@@ -161,3 +161,13 @@ El Jefe subió la foto real del rostro de Luis: `uploads/LUIS_ROSTRO_REAL_FUENTE
 ## ✅ CHARTER 03B — PROTAGONISTA ADOLESCENTE: APROBADO Y BLOQUEADO (12-seb, noche)
 Verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje (derecha del espectador en frontal) ✓. Edad 15-16, rostro puente niño→adulto, camisa azul + pantalón marrón ✓. **Es ahora REFERENCIA OBLIGATORIA del protagonista adolescente.**
 **ORDEN INMEDIATA a WILSON:** regenerar S08_P01 (general despedida), S08_P02 (abrazo) y S08_P05 (hijo se aleja) usando este charter como rostro del muchacho. Mismo set, misma madre, misma emoción. Las versiones viejas quedan en reparación hasta que estas entren.
+
+---
+
+## VEREDICTO LOTE 7 — S08 LA PARTIDA REGENERADA CON EL ADOLESCENTE (WILSON)
+| Plano | Veredicto | Nota |
+|---|---|---|
+| P01 OFICIAL = V3 | ✅ APROBADA | Muchacho de 15-16 ✓ (charter 03B), lonchera ✓, madre con chal, hermano con sombrero, escuelita y casa en su sitio. En FOTOGRAFIA_FINAL. |
+| P02 OFICIAL = V4 | ✅ APROBADA | Abrazo con emoción verdadera, madre con chal y blusa lila, hermano con sombrero al pecho, fardo y lonchera en el suelo. En FOTOGRAFIA_FINAL. (Nota de montaje: el rostro del hijo lee un poco joven — alternativa en VARIANTES_S08 si hace falta.) |
+| P05 (V3) | 🔍 REVISAR | El hijo ya está bien (15-16, lonchera + fardo en las manos ✓) PERO la madre salió de ~70 años con todo blanco: en P01/P03 de esta MISMA escena tiene 47 con canas incipientes. Regenerar P05 con la madre idéntica a P01/P03. |
+| Variantes no oficiales (V2/V3/V4 descartes) | 📦 | Guardadas en 04_FOTOGRAFIA_EN_REPARACION/VARIANTES_S08/ (no se borra nada). |
