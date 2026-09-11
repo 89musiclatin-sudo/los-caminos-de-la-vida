@@ -190,3 +190,22 @@ AGENTE_H_S10: tu cola sigue — la S10 está CERRADA al 100% con el set V2. Tu p
 | S06_P06 plano de tres (2ª versión) | 🔍 REVISAR | Mucho mejor (sala de tablas, moño, olla de metal ✓) pero faltan 3 detalles: (1) el hermano se ve de ~12 y lleva zapatillas claras — debe verse 15-16 y con sandalias; (2) falta la PONCHERA central de la mesa (la olla está en un pie de madera raro — llevarla a la mesa); (3) la luz parece de día — es NOCHE, solo queroseno. Última pasada y cierra. |
 | S08_P05 V4 | ✅ APROBADA | Madre de 47 idéntica a P01/P03 ✓, hijo adolescente con fardo y lonchera ✓. **SECUENCIA_08 LA PARTIDA: CERRADA 6/6.** En FOTOGRAFIA_FINAL. |
 **En revisión por el Director (próximo ciclo): S11 P01/P05 (2 versiones de cada) y los 2 extras del conuco de S09.**
+
+---
+
+## VEREDICTO LOTE 10 — REPARACIONES DE RAMÓN + S07 COMPLETA DE TOÑO
+| Plano | Veredicto | Nota |
+|---|---|---|
+| S01_P01 V2 | ✅ APROBADA | La casa ya coincide con la secuencia. Humo, batea, gallinas, ropa tendida ✓. En FINAL. |
+| S01_P05 V2 | ✅ APROBADA | Delantal ✓, rostro charter ✓, moño ✓. En FINAL. |
+| S02_P03 V2 | ✅ APROBADA | La marca del niño por fin visible y en la CEJA IZQUIERDA ✓. En FINAL. |
+| S02_P06 V2 | ✅ APROBADA | Marca ✓, vestuario ✓, la complicidad madre-hijo perfecta. En FINAL. |
+| S04_P03 V2 | ✅ APROBADA | Marca verificada en ceja izquierda ✓, mirada al camino ✓. En FINAL. |
+| S04_P04 V2 | ✅ APROBADA | PANTALÓN LARGO ✓, lonchera ✓, polvo ✓. En FINAL. |
+| S03_P05 V2 | ❌ REHACER (2ª vez) | Todavía lleva DELANTAL. En el conuco: blusa rosa con flores SIN delantal (el pecho que sale en el macro debe mostrar la blusa). Manos y yuca: perfectas — solo cambia el torso. RAMÓN o WILSON (cola). |
+| S07_P01 | ✅ APROBADA | Dormitorio de los hijos tal cual master 10, mosquiteros, dos niños dormidos, solo queroseno. En FINAL. |
+| S07_P02 | 🔍 REVISAR | Todo bien PERO en P01 la madre lleva PAÑUELO en la cabeza y aquí no. Regenerar con pañuelo (como P01/P04/P05). |
+| S07_P03 | ✅ APROBADA | Dedal, aguja, canasta, luz de queroseno. En FINAL. |
+| S07_P04 | ✅ APROBADA | Rostro charter bajo el queroseno, pañuelo ✓. En FINAL. |
+| S07_P05 | ✅ APROBADA | Cierre emocional precioso. Nota menor: los dos niños duermen en la misma cama (el master 10 los tiene separados) — aceptable, alternativa de montaje. En FINAL. |
+**SECUENCIA_07 COSTURA DE NOCHE: 5/5 con 1 retoque (P02 pañuelo).**
