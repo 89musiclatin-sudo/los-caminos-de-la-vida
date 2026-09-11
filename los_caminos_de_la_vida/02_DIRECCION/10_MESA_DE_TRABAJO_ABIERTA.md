@@ -31,9 +31,9 @@
 ## COBERTURA EXTRA — S03 CONUCO
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-009 | El machete clavado en el tronco del mango, luz de mediodía (macro) | LIBRE |
-| ORDEN-010 | Primerísimo primer plano del sudor en la frente de la madre (85mm) | LIBRE |
-| ORDEN-011 | El conuco desde la ladera de arriba (24mm, los tres diminutos) | LIBRE |
+| ORDEN-009 | El machete clavado en el tronco del mango, luz de mediodía (macro) | TOMADA POR ELÍAS 2026-09-11 (bloque S03 extras) |
+| ORDEN-010 | Primerísimo primer plano del sudor en la frente de la madre (85mm) | TOMADA POR ELÍAS 2026-09-11 (bloque S03 extras) |
+| ORDEN-011 | El conuco desde la ladera de arriba (24mm, los tres diminutos) | TOMADA POR ELÍAS 2026-09-11 (bloque S03 extras) |
 
 ## COBERTURA EXTRA — S04 CAMINO ESCUELA
 | Orden | Tarea | Estado |
