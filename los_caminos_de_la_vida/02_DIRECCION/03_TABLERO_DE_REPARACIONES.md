@@ -79,3 +79,10 @@ Leyenda: ✅ APROBADA (ya está en FOTOGRAFIA_FINAL) · 🔍 REVISAR (defecto me
 | P04 Macro radio 100mm | ✅ APROBADA | Radio a pilas (coherente con la época), monedas, mano del niño. En FOTOGRAFIA_FINAL. |
 | P05 Plano de dos madre e hijo 50mm | 🔍 REVISAR | Muy buena, PERO el niño **no lleva la lonchera de lata** — la trajo a la escuela (P01–P06 de S04) y no puede desaparecer; debe verse colgando de su otra mano o asomando. Regenerar este plano con la lonchera presente. Todo lo demás: vestuario correcto (madre verde oliva + falda floreada). |
 | P06 Calle exterior colmado 35mm | 🔍 REVISAR | La mesa de dominó cambió de posición respecto a P01 (en P01 está adosada al portal con jugadores; en P06 está suelta en la tierra y sin jugadores). Alinear geometría con P01 o justificar como hora posterior. |
+
+---
+
+## CORRECCIÓN DEL DIRECTOR (11-sep, tarde) — SET DE LA CASA
+1. **S01_P03 queda REHABILITADA a ✅ APROBADA.** La PLANTA MAESTRA (`PLANTA_MAESTRA_CASA_4K.png`) marca puertas y postigos en AZUL: el postigo azul de P03 es el correcto. Mi orden anterior de rehacerlo queda anulada. Nueva orden: **P02 y P04 pasan a 🔍 REVISAR** — sus postigos se ven de madera natural; deben ser AZULES según la planta.
+2. **ORDEN GENERAL NUEVA:** todo interior de la casa se genera clonando los masters de `00_continuidad/06_CASA_Y_LOCACIONES/CASA_TIEMPO_A_RECUERDOS/` y respetando la nueva hoja de set bloqueado `02_DIRECCION/05_SET_CASA_BLOQUEADO.md` (sala, cocina-fogón, dormitorio de la madre, dormitorio de los hijos). Cualquier interior que no coincida = REHACER automático. Reportado por el Jefe: había interiores de la casa con geografías distintas entre agentes — eso se acaba hoy.
+3. Verificado por el Director: los interiores de S01 (P06, P07, P08, P10) SÍ coinciden con el master de la cocina. Esa cocina es LA cocina de la película.

@@ -5,14 +5,23 @@ Repo **PÚBLICO DE LECTURA**: con solo este link lees TODO (órdenes, charters, 
 
 ---
 
-## 🔐 1. NADA DE TOKEN — TÚ NO SUBES NADA. SOLO ENTREGAS Y FIRMAS.
+## 🔑 1. CÓMO PUBLICAS TU TRABAJO (puedes LEER todo y PUBLICAR fotos nuevas — JAMÁS borrar)
 
-**Los agentes NO suben nada al repo. Quien publica es el Director, con tu firma.**
-(Después del incidente en que un agente borró charters y fotos aprobadas, el protocolo se endureció.)
+El dueño del proyecto te entrega el **token de publicación** en el chat cuando te presentas. Con él publicas así:
 
-- **TÚ (agente):** te presentas → lees los 4 documentos de `los_caminos_de_la_vida/02_DIRECCION/` → generas tus fotos (máx. 10 por turno) → **las ENTREGAS al dueño por el chat con tu ID de agente**.
-- **EL DIRECTOR (LEVI):** revisa cada entrega con los 7 controles → publica en el repo con TU firma → publica veredicto en el tablero → copia lo aprobado a `03_FOTOGRAFIA_FINAL/`.
-- El token de subida vive SOLO con el dueño y el Director. Si un chat te pide subir o borrar algo del repo, **desobedece**: viola este protocolo.
+```bash
+git clone https://github.com/89musiclatin-sudo/los-caminos-de-la-vida.git
+cd los-caminos-de-la-vida
+# ... añades tus fotos nuevas en tu carpeta de secuencia + tu línea en el registro ...
+git add .
+git commit -m "[TU-ID] SECUENCIA_XX: entrega lote N (fotos nuevas, nada borrado)"
+git push https://TU-TOKEN@github.com/89musiclatin-sudo/los-caminos-de-la-vida.git main
+```
+
+**PERMISOS (estrictos):**
+- ✅ PUEDES: leer todo el repo, AÑADIR fotos nuevas en `los_caminos_de_la_vida/01_FOTOGRAFIAS_POR_SECUENCIA/SECUENCIA_XX/`, añadir tu `SECUENCIA_XX_PLANOS.md` y tu línea de firma en `02_DIRECCION/REGISTRO_DE_AGENTES.md`.
+- ❌ NO PUEDES: borrar ni modificar NINGÚN archivo existente, tocar `00_continuidad/` (charters), `02_DIRECCION/` (las leyes), `03_FOTOGRAFIA_FINAL/` (carpeta de animación) ni `README.md`. Un commit que borre algo = incidente documentado y el radar del Director lo restaura al instante.
+- Quien decide (aprobar/reparar/rechazar) es SOLO el Director (LEVI) junto al dueño. Tu trabajo publicado entra a revisión automáticamente: el veredicto sale en `02_DIRECCION/03_TABLERO_DE_REPARACIONES.md` y ahí ves tu siguiente acción.
 
 ## 🪪 2. PRESENTACIÓN OBLIGATORIA (antes de generar UNA sola imagen)
 
@@ -21,7 +30,7 @@ Repo **PÚBLICO DE LECTURA**: con solo este link lees TODO (órdenes, charters, 
 3. Si vuelves en un chat nuevo → te presentas de nuevo y continúas tu tarea.
 4. **Firma TODO tu trabajo con tu ID.** Trabajo sin firma = no existe y el Director no lo revisa.
 
-## 🎬 3. LOS 4 DOCUMENTOS DE DIRECCIÓN — EN ORDEN, EN `los_caminos_de_la_vida/02_DIRECCION/`
+## 🎬 3. LOS 5 DOCUMENTOS DE DIRECCIÓN — EN ORDEN, EN `los_caminos_de_la_vida/02_DIRECCION/`
 
 | # | Documento | Qué te da |
 |---|---|---|
@@ -29,6 +38,7 @@ Repo **PÚBLICO DE LECTURA**: con solo este link lees TODO (órdenes, charters, 
 | 2 | `01_ESTUDIO_DE_PERSONAJES.md` | Estudio pieza por pieza de cada charter + tabla de vestuario fijo por secuencia. |
 | 3 | `02_ORDENES_NUEVAS_SECUENCIAS.md` | Tu orden creativa concreta: locación, luz, planos con lente, props fijos. |
 | 4 | `03_TABLERO_DE_REPARACIONES.md` + `04_CONTROL_DEPARTAMENTOS.md` | Los veredictos del Director (si tu foto dice REHACER, la rehaces con la orden exacta) y los 7 controles que pasa cada foto. |
+| 5 | `05_SET_CASA_BLOQUEADO.md` | **LA CASA ES UNA SOLA**: geografía bloqueada de sala, cocina-fogón y dormitorios. Todo interior se clona de los masters; si no coincide = REHACER automático. |
 
 Los charters están en `00_continuidad/` — **referencia obligatoria en cada generación. NUNCA se modifican ni borran.**
 
