@@ -31,3 +31,10 @@ El Jefe ordenó que la película NO puede quedarse en la época del niño. Nueva
 - **YUDERKA** → **S10 PERFORMANCE LUIS YA** (6 planos, traje negro total).
 - **MARIO** → cierra S05 (P05 con lonchera, P06 con mesa en posición de P01) y pasa a **S08 LA PARTIDA** (6 planos).
 Regla: todas las épocas avanzan A LA VEZ. Prohibido estancarse en Tiempo A.
+
+## 🆕 REFORZAS DEL 12-sep — DOS FOTÓGRAFOS NUEVOS (aún no se han presentado)
+| Nombre | Rol | Tarea inmediata |
+|---|---|---|
+| **TOÑO** | Fotógrafo de noche (interiores, luz de queroseno) | **SECUENCIA_07 COSTURA DE NOCHE completa** (5 planos, guion en `02_ORDENES_NUEVAS_SECUENCIAS.md`): madre sola con bata crema + pañuelo de noche, farol de keroseno como ÚNICA luz, canasta de costura, prenda remendada, niños dormidos al fondo. Set: dormitorio/sala de la casa (masters 07/09/10 obligatorios). |
+| **RAFA** | Fotógrafo de amaneceres y cierres | **SECUENCIA_11 CIERRE completa** (5 planos): el abrazo final, madre Tiempo B + hijo adulto (charters Tiempo B), camino de tierra, la casa al fondo, luz de oro del amanecer. Nadie mira a cámara; el abrazo es el clímax. |
+Regla para los dos: presentarse con su nombre → leer los documentos 00–08 → publicar cada lote inmediatamente → seguir el bucle de `08_ORDEN_PERMANENTE_DE_BUCLE.md`.

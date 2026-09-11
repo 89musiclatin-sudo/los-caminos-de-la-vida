@@ -19,5 +19,7 @@
 | RAMÓN | 5 reparaciones S01–S05 → luego S07 | 🟠 EN CURSO | Publicar reparaciones |
 | JUANA | Reparar S06 P01/P04/P06 → luego S11 | 🟠 EN CURSO | Publicar correcciones de la cena |
 | YUDERKA | Reparar S06_P05 → luego S10 PERFORMANCE | 🟠 EN CURSO | Publicar macro corregido y arrancar S10 |
-| WILSON | → S09 PRESENTE (Tiempo B) YA | 🟡 ARRANCAR | Generar P01–P06 de S09 |
-| MARIO | Cerrar S05 (P05 lonchera, P06 dominó) → luego S08 | 🟠 EN CURSO | Publicar S05 corregida |
+| WILSON | S09 publicado (P01/P02 aprobadas) | 🔵 REVISIÓN RADAR P03–P06 | Esperar veredicto; luego S08 P06 con MARIO |
+| MARIO | S08 P01/P05 publicadas | 🟠 EN CURSO | S08 P02, P03, P04, P06 + cerrar S05 (lonchera, dominó) |
+| TOÑO (NUEVO) | S07 COSTURA DE NOCHE completa | 🟡 ARRANCAR | Presentarse y publicar P01–P05 |
+| RAFA (NUEVO) | S11 CIERRE completa | 🟡 ARRANCAR | Presentarse y publicar P01–P05 |
