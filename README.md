@@ -5,23 +5,28 @@ Repo **PÚBLICO DE LECTURA**: con solo este link lees TODO (órdenes, charters, 
 
 ---
 
-## 🔑 1. CÓMO PUBLICAS TU TRABAJO (puedes LEER todo y PUBLICAR fotos nuevas — JAMÁS borrar)
+## 🔑 1. PUBLICA INMEDIATAMENTE — SIN ESPERAR PERMISO NI VEREDICTO
 
-El dueño del proyecto te entrega el **token de publicación** en el chat cuando te presentas. Con él publicas así:
+**ESTA ES LA ORDEN PARA TODA LA CUADRILLA (WILSON, RAMÓN, JUANA, YUDERKA, MARIO y los que vengan):**
+
+1. Genera tus fotos (máx. 10 por lote).
+2. **PUBLICA EL LOTE DE INMEDIATO** en este repo — no esperes autorización del dueño, no esperes veredicto del Director, no preguntes "¿puedo publicar?". PUBLICA Y SIGUE TRABAJANDO.
+3. El Director tiene un radar que revisa el repo cada 30 minutos: tu veredicto aparecerá solo en `02_DIRECCION/03_TABLERO_DE_REPARACIONES.md` con tu próxima acción. Vuelve al repo, lees tu veredicto, corriges o pasas al siguiente plano de tu guion (`06_EQUIPO_DE_FOTOGRAFIA.md` / `02_ORDENES_NUEVAS_SECUENCIAS.md`).
+4. El token de publicación te lo entrega el dueño UNA VEZ en el chat al presentarte. Con él:
 
 ```bash
 git clone https://github.com/89musiclatin-sudo/los-caminos-de-la-vida.git
 cd los-caminos-de-la-vida
-# ... añades tus fotos nuevas en tu carpeta de secuencia + tu línea en el registro ...
+# añades tus fotos nuevas en tu carpeta de secuencia + tu línea en REGISTRO_DE_AGENTES.md
 git add .
-git commit -m "[TU-ID] SECUENCIA_XX: entrega lote N (fotos nuevas, nada borrado)"
+git commit -m "[TU-NOMBRE] SECUENCIA_XX: entrega lote N (fotos nuevas, nada borrado)"
 git push https://TU-TOKEN@github.com/89musiclatin-sudo/los-caminos-de-la-vida.git main
 ```
 
 **PERMISOS (estrictos):**
-- ✅ PUEDES: leer todo el repo, AÑADIR fotos nuevas en `los_caminos_de_la_vida/01_FOTOGRAFIAS_POR_SECUENCIA/SECUENCIA_XX/`, añadir tu `SECUENCIA_XX_PLANOS.md` y tu línea de firma en `02_DIRECCION/REGISTRO_DE_AGENTES.md`.
-- ❌ NO PUEDES: borrar ni modificar NINGÚN archivo existente, tocar `00_continuidad/` (charters), `02_DIRECCION/` (las leyes), `03_FOTOGRAFIA_FINAL/` (carpeta de animación) ni `README.md`. Un commit que borre algo = incidente documentado y el radar del Director lo restaura al instante.
-- Quien decide (aprobar/reparar/rechazar) es SOLO el Director (LEVI) junto al dueño. Tu trabajo publicado entra a revisión automáticamente: el veredicto sale en `02_DIRECCION/03_TABLERO_DE_REPARACIONES.md` y ahí ves tu siguiente acción.
+- ✅ PUEDES: leer todo, AÑADIR fotos nuevas en `los_caminos_de_la_vida/01_FOTOGRAFIAS_POR_SECUENCIA/SECUENCIA_XX/`, añadir tu `SECUENCIA_XX_PLANOS.md` y tu línea en `02_DIRECCION/REGISTRO_DE_AGENTES.md`.
+- ❌ NO PUEDES: borrar ni modificar NINGÚN archivo existente, ni tocar `00_continuidad/`, `02_DIRECCION/` (solo añadir tu línea de registro), `03_FOTOGRAFIA_FINAL/`, `04_FOTOGRAFIA_EN_REPARACION/` ni `README.md`. El radar restaura cualquier borrado y lo documenta como incidente.
+- Decidir (aprobar/reparar/rechazar) es SOLO del Director (LEVI) con el dueño. Tu siguiente tarea SIEMPRE está en el tablero: publica → el radar revisa → lees el veredicto → ejecutas la siguiente orden. Así hasta terminar las 68 fotos de la película.
 
 ## 🪪 2. PRESENTACIÓN OBLIGATORIA (antes de generar UNA sola imagen)
 
