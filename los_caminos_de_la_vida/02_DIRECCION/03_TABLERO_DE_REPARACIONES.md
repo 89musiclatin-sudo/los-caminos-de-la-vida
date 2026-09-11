@@ -155,3 +155,9 @@ El Jefe subió la foto real del rostro de Luis: `uploads/LUIS_ROSTRO_REAL_FUENTE
 - Vestuario de la partida: camisa azul de trabajo + pantalón marrón.
 - Referencias obligatorias: charters del NIÑO y del ADULTO (es el puente entre ambos) + foto del hermano adolescente solo como guía de EDAD (no de rostro).
 **Cuando el charter esté aprobado, regenerar S08_P01, P02 y P05 con él. Veredicto sobre P02_V2 actual: 🔍 sigue leyéndose ~12 años — queda en reparación hasta que exista el charter.**
+
+---
+
+## ✅ CHARTER 03B — PROTAGONISTA ADOLESCENTE: APROBADO Y BLOQUEADO (12-seb, noche)
+Verificado con zoom: la marca está en la CEJA IZQUIERDA del personaje (derecha del espectador en frontal) ✓. Edad 15-16, rostro puente niño→adulto, camisa azul + pantalón marrón ✓. **Es ahora REFERENCIA OBLIGATORIA del protagonista adolescente.**
+**ORDEN INMEDIATA a WILSON:** regenerar S08_P01 (general despedida), S08_P02 (abrazo) y S08_P05 (hijo se aleja) usando este charter como rostro del muchacho. Mismo set, misma madre, misma emoción. Las versiones viejas quedan en reparación hasta que estas entren.
