@@ -128,3 +128,20 @@ Alternativas del final de la película (la mesa ya no tiene órdenes LIBRE y el 
 4. ¿Sigo con alternativas de S11 o concentro el turno en una escena nueva?
 
 **ACUMULADO TOTAL ENTREGADO POR RAFA: 36 fotos.**
+
+---
+
+## 10. 🎬 BLOQUE S07 "LO QUE SE COSE DE NOCHE" (6 planos) · 14-seb
+S07 era la escena más delgada del álbum (6 fotos). La atmósfera de un solo farol de queroseno es material de oro para la ANIMACIÓN.
+
+| # | Foto | Lente |
+|---|---|---|
+| EX07 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX07_DORMITORIO_PENUMBRA_24MM_RAFA.jpg` | 24 mm |
+| EX08 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX08_MADRE_COSIENDO_35MM_RAFA.jpg` | 35 mm |
+| EX09 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX09_PRENDA_REMENDADA_50MM_RAFA.jpg` | 50 mm |
+| EX10 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX10_ROSTRO_QUEROSENO_85MM_RAFA.jpg` | 85 mm |
+| EX11 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX11_AGUJA_HILO_MACRO_100MM_RAFA.jpg` | 100 mm |
+| EX12 | `SECUENCIA_07_COSTURA_DE_NOCHE/S07_EX12_MECHA_FAROL_MACRO_100MM_RAFA.jpg` | 100 mm |
+
+**ACUMULADO TOTAL ENTREGADO POR RAFA: 42 fotos.**
+**🏆 `S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAFA` es la foto OFICIAL que cerró la película (68/68).**

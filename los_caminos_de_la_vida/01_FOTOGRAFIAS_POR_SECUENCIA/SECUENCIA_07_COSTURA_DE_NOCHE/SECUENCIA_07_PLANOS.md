@@ -40,3 +40,27 @@
 ## Firma
 [2026-09-13] TOÑO | S07 COSTURA DE NOCHE 5/5 COMPLETA | Misma noche S06 más tarde, SOLO queroseno verde, bata crema + pañuelo noche, niños dormidos, masters 07/09/10, 2.39:1 2560x1072 | Pendiente veredicto Director
 [2026-09-14] WILSON | S07 P02 FINAL LOTE 10: pañuelo noche beige corregido | 3 detalles LOTE 10 corregidos, charters clonados, 2560x1072 | CIERRE S07 5/5 FINAL pendiente veredicto
+
+
+---
+
+## 🎬 BLOQUE RAFA — "LO QUE SE COSE DE NOCHE" (6 planos de S07) · 14-seb
+**Por qué esta escena:** con las 11 escenas cerradas 68/68, elegí la más DELGADA del álbum — S07 tenía solo 6 fotos — y la atmósfera de una sola lámpara de queroseno es el material más útil para la fase de ANIMACIÓN.
+
+| # | Archivo | Lente | Acción |
+|---|---|---|---|
+| EX07 | `S07_EX07_DORMITORIO_PENUMBRA_24MM_RAFA.jpg` | 24 mm | General nocturno: los niños dormidos bajo el mosquitero al fondo, ella de espaldas cosiendo junto al farol |
+| EX08 | `S07_EX08_MADRE_COSIENDO_35MM_RAFA.jpg` | 35 mm | Medio de la madre cosiendo con la canasta de costura al lado |
+| EX09 | `S07_EX09_PRENDA_REMENDADA_50MM_RAFA.jpg` | 50 mm | La camisa del niño con el remiendo cosido a mano, en sus manos |
+| EX10 | `S07_EX10_ROSTRO_QUEROSENO_85MM_RAFA.jpg` | 85 mm | El rostro con pañuelo de noche, luz del queroseno desde abajo |
+| EX11 | `S07_EX11_AGUJA_HILO_MACRO_100MM_RAFA.jpg` | 100 mm | Macro: la aguja atravesando la tela, el hilo tenso y el dedal |
+| EX12 | `S07_EX12_MECHA_FAROL_MACRO_100MM_RAFA.jpg` | 100 mm | Macro: la mecha del farol de queroseno encendida, el vidrio verde — inserto de atmósfera |
+
+**Continuidad (ley de la escena):** la MISMA noche en los 6 planos, más tarde que S06 · **ÚNICA fuente de luz: un farol de queroseno de vidrio VERDE** · penumbra profunda, cero electricidad, cero luz de día · madre con **bata crema + PAÑUELO DE NOCHE** (obligatorio según el veredicto del LOTE 10) · dos niños dormidos · dormitorio clonado del master 10 (dos camas con mosquiteros, baúl, ropa colgada) · nadie mira a cámara · 2560×1072 (2.39:1) · ARRI Alexa 35 + Cooke S4/i.
+
+### DECRETO 12 — nota obligatoria de referencias
+- **Charter pasado como imagen de referencia en las 6 generaciones:** `00_continuidad/04_MADRE/TIEMPO_A_RECUERDOS/MADRE_TIEMPO_A_RECUERDOS_CHARTER_OFICIAL_6K.jpg`.
+- **Foto madre (última aprobada del personaje en la escena):** `S07_P02_MADRE_REMENDANDO_50MM.jpg` (✅) y `S07_P04_ROSTRO_MADRE_LAMPARA_85MM.jpg` (✅) + `S07_P01_DORMITORIO_PENUMBRA_GENERAL_24MM.jpg` (✅) y `00_continuidad/06_CASA_Y_LOCACIONES/CASA_TIEMPO_A_RECUERDOS/10_INTERIOR_DORMITORIO_HIJOS_MASTER_4K.jpg`.
+- **Auto-chequeo de 10 puntos:** ojos ✓ · cejas ✓ (la madre no lleva marca) · nariz ✓ · labios ✓ · pómulos/mandíbula ✓ · orejas ✓ · tono de piel ✓ · cabello cubierto por el PAÑUELO DE NOCHE con rizos sueltos ✓ · manos grandes y venosas de trabajadora con 5 dedos ✓ · edad y ropa de la tabla (35-40, bata crema + pañuelo) ✓.
+**⚠️ AUTO-DENUNCIA:** sin visión en este entorno el chequeo es contra la especificación y las referencias, no contra mis píxeles. El control visual es del radar.
+`[14-seb] RAFA | BLOQUE S07 "LO QUE SE COSE DE NOCHE" = 6/6 | Pendiente: veredicto`
