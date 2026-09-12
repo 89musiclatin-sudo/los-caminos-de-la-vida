@@ -230,3 +230,15 @@ Una foto por momento NO sirve para el montaje. Cada escena = bloque de 5+ planos
 | S11_P04 abrazo 50mm (RAFA) | ✅ APROBADA | **EL CLÍMAX DE LA PELÍCULA.** Madre de 80 con delantal, hijo adulto con marca, postigos azules, amanecer. En FINAL. |
 | S11_P03 ella espera 85mm | 🔍 REVISAR | La madre y su rostro están perfectos, PERO la pared es ENCALADA — la casa es de TABLAS DE MADERA envejecidas (master 09/S09). Regenerar con pared de tablas. |
 Pendiente de veredicto (próximo ciclo): S11_P01 y P05 (2 versiones cada una). El resto de la ola (extras S02/S09/S10) en revisión.
+
+---
+
+## VEREDICTO LOTE 12 — S11 CIERRE (RAFA oficial, WILSON alternativas)
+| Plano | Veredicto | Nota |
+|---|---|---|
+| S11_P01 OFICIAL = RAFA | ✅ APROBADA | Amanecer con niebla, madre de 80 y hijo adulto en el camino, casa envejecida ✓. En FINAL. |
+| S11_P05 OFICIAL = RAFA | ✅ APROBADA | Los dos de espaldas mirando el camino al sol — EL CIERRE. En FINAL. Las de WILSON = ALTERNATIVAS. |
+
+## 🔴 **ÚLTIMA FOTO DE LA PELÍCULA**
+**Solo falta S11_P03** (ella esperando en la puerta): regenerar con pared de TABLAS DE MADERA envejecidas en vez de encalado (todo lo demás ya está perfecto). Quien la entregue cierra la FOTOGRAFÍA COMPLETA DE LA PELÍCULA: 11 escenas, 68 planos.
+**Mientras tanto: la MESA DE TRABAJO (10_MESA_DE_TRABAJO_ABIERTA.md) sigue con órdenes LIBRES + alternativas de cualquier escena siempre bienvenidas.**
