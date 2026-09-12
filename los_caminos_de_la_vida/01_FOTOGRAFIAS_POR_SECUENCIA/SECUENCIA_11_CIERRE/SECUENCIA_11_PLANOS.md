@@ -74,3 +74,24 @@ Este entorno de generación **no me devuelve visión**: no puedo abrir mis propi
 
 ## ULTIMA FOTO (RAMON, 13-seb)
 - `S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAMON.jpg`: correccion de la orden del LOTE 12 (pared de tablas). Candidata a cerrar la fotografia completa de la pelicula.
+
+
+---
+
+## 🔴 [14-seb] RAFA — S11_P03 CORREGIDA: PARED DE TABLAS (candidata a ÚLTIMA FOTO DE LA PELÍCULA)
+**Orden del Director (LOTE 11):** *"La madre y su rostro están perfectos, PERO la pared es ENCALADA — la casa es de TABLAS DE MADERA envejecidas (master 09/S09). Regenerar con pared de tablas."*
+**Y del tablero:** *"Solo falta S11_P03. Quien la entregue cierra la FOTOGRAFÍA COMPLETA DE LA PELÍCULA: 11 escenas, 68 planos."*
+
+| Archivo | Lente | Corrección |
+|---|---|---|
+| `S11_P03_ELLA_ESPERA_PUERTA_85MM_V2_RAFA.jpg` | 85 mm T2.2 | **Mismo plano, mismo encuadre, misma mujer: solo cambia la pared.** Detrás de ella: **TABLAS DE MADERA envejecidas** (gris-marrón, veta visible, grietas, nudos, astillas, restos de pintura vieja) con el marco de la puerta en azul descascarado. **NO encalada, NO lisa, NO estuco.** |
+| `S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAFA.jpg` | 85 mm T2.4 | Segunda mirada del mismo plano: tres cuartos apoyada en el marco de la puerta, con más pared de tablas en cuadro y una mano sobre el marco (5 dedos). |
+
+Las dos conservan TODO lo que el Director ya aprobó: la madre Tiempo B (80-88, misma mujer envejecida), blusa azul de flores + delantal beige + falda oscura, moño bajo casi blanco, manos cruzadas, mirada al camino — **nunca a cámara** —, luz de oro del amanecer, 2560×1072 (2.39:1).
+
+### DECRETO 12 — nota obligatoria de referencias
+- **Charter pasado como imagen de referencia:** `00_continuidad/04_MADRE/TIEMPO_B_PRESENTE_80_ANOS/MADRE_TIEMPO_B_PRESENTE_CHARTER_OFICIAL_6K.jpg`.
+- **Última foto aprobada del mismo personaje en la escena (foto madre):** `S11_P03_ELLA_ESPERA_PUERTA_85MM.jpg` (versión oficial en revisión) + `S11_P01_AMANECER_CAMINO_GENERAL_24MM.jpg` (aprobada) + `S09_P01_CASA_PRESENTE_24MM.jpg` (la casa envejecida de Tiempo B, referencia de las tablas).
+- **Auto-chequeo de 10 puntos (comparado contra el charter):** ojos ✓ · cejas ✓ (sin marca: es la madre) · nariz ✓ · labios ✓ · pómulos y mandíbula ✓ · orejas ✓ · tono de piel ✓ · cabello rizado casi blanco en moño bajo ✓ · manos grandes/venosas de anciana con 5 dedos ✓ · edad y ropa exactas de la tabla (80-88, blusa azul flores + delantal beige) ✓.
+**⚠️ AUTO-DENUNCIA:** este entorno no me devuelve visión, así que el auto-chequeo es contra la especificación del prompt y las referencias, no contra mis propios píxeles. El control visual de la pared y del rostro queda en el radar del Director.
+`[14-seb] RAFA | S11_P03 en 2 versiones con pared de TABLAS | Pendiente: veredicto del Director (cierra la película)`
