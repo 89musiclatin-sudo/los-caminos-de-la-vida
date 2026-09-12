@@ -11,7 +11,7 @@
 ## REGENERACIONES (defecto conocido)
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-001 | S07_P02: regenerar con PAÑUELO EN LA CABEZA (como P01/P04/P05 de la misma secuencia) | LIBRE |
+| ORDEN-001 | S07_P02: regenerar con PAÑUELO EN LA CABEZA (como P01/P04/P05 de la misma secuencia) | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-002 | S08_P05 V5: madre de 47 idéntica a P01/P03 (la última salió de 70), hijo adolescente 03B | LIBRE |
 
 ## COBERTURA EXTRA — S01 INTRO
@@ -52,9 +52,9 @@
 ## COBERTURA EXTRA — S06 LA COMIDA
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-018 | Macro de la ponchera/olla humeando con la lámpara de fondo (100mm) | LIBRE |
-| ORDEN-019 | Las manos de la madre sirviendo el arroz (macro, manga azul flores) | LIBRE |
-| ORDEN-020 | Contraplano alterno del hermano sonriendo (85mm, sin marca, farol verde) | LIBRE |
+| ORDEN-018 | Macro de la ponchera/olla humeando con la lámpara de fondo (100mm) | TOMADA POR ELÍAS 2026-09-11 (bloque noche S06) |
+| ORDEN-019 | Las manos de la madre sirviendo el arroz (macro, manga azul flores) | TOMADA POR ELÍAS 2026-09-11 (bloque noche S06) |
+| ORDEN-020 | Contraplano alterno del hermano sonriendo (85mm, sin marca, farol verde) | TOMADA POR ELÍAS 2026-09-11 (bloque noche S06) |
 
 ## COBERTURA EXTRA — S08 LA PARTIDA
 | Orden | Tarea | Estado |
@@ -77,7 +77,7 @@
 | ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | **TOMADA POR RAFA 14-seb (cierre S11, macro sol saliendo)** |
 | ORDEN-027 | Luis con el CHARTER V2 tocando la puerta de la casa vieja (50mm) | ✅ CUMPLIDA POR AGENTE_H_S10 2026-09-14 — EX13 general 24mm + EX14 medio 50mm en SECUENCIA_10 (ver PARTE_TOTAL_AGENTE_H_S10) |
 | ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | LIBRE |
-| ORDEN-029 | TRANSICIÓN DE ÉPOCAS: el muchacho de S08 caminando el mismo camino que el niño de S04 (puente niño→adolescente) | LIBRE |
+| ORDEN-029 | TRANSICIÓN DE ÉPOCAS: el muchacho de S08 caminando el mismo camino que el niño de S04 (puente niño→adolescente) | TOMADA POR ELÍAS 2026-09-11 |
 
 ---
 **REGLA DE ORO: una foto por momento NO existe. Todo lo que generes entra a la película como alternativa. El Jefe elige.**
@@ -87,6 +87,7 @@
 ## 🚁 NUEVAS ÓRDENES — GRANDES PLANOS GENERALES (análisis de cobertura del Director, 13-seb)
 | Orden | Tarea | Estado |
 |---|---|---|
+<<<<<<< HEAD
 | ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
@@ -95,3 +96,13 @@
 | ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
+=======
+| ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | TOMADA POR ELÍAS 2026-09-11 (bloque noche S06) |
+| ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | LIBRE |
+| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | LIBRE |
+| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | LIBRE |
+>>>>>>> f8c4381 ([ELÍAS] Ciclo 3: bloque noche S06 5/5 + ORDEN-001 (panuelo) + aéreos 030/034 + transición 029; nada borrado)

@@ -16,3 +16,6 @@
 
 ## AÑADIDO — ORDEN-030→037 del Director (hueco de aéreos)
 | P12 (ORDEN-031) | `S04_P12_DRON_CAMINO_NINO_24MM_ELIAS.jpg` | 24 mm aéreo | Dron del camino: el niño diminuto entre la casa (izq, mango + ropa tendida + gallinas) y la escuelita con bandera (der), niebla de mañana, vivienda aislada | HECHO |
+
+## AÑADIDO — ORDEN-029 (TRANSICIÓN DE ÉPOCAS)
+| P13 (ORDEN-029) | `S04_P13_TRANSICION_MUCHACHO_CAMINO_35MM_ELIAS.jpg` | 35 mm | El protagonista de 15-16 (charter 03B, marca en ceja izquierda) camina el MISMO camino rojo entre la casa y la escuelita con bandera: fardo al hombro y la lonchera de lata de su niñez en la otra mano; puente niño→adolescente; mirada al camino, no al lente | HECHO |
