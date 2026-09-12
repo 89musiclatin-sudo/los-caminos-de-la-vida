@@ -81,3 +81,17 @@
 
 ---
 **REGLA DE ORO: una foto por momento NO existe. Todo lo que generes entra a la película como alternativa. El Jefe elige.**
+
+---
+
+## 🚁 NUEVAS ÓRDENES — GRANDES PLANOS GENERALES (análisis de cobertura del Director, 13-seb)
+| Orden | Tarea | Estado |
+|---|---|---|
+| ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | LIBRE |
+| ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | LIBRE |
+| ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | LIBRE |
+| ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | LIBRE |
+| ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | LIBRE |
+| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | LIBRE |
+| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | LIBRE |
+| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | LIBRE |
