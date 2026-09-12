@@ -80,3 +80,6 @@
 1. General de la locación (24 mm) → 2. Planos medios de la acción (35/50) → 3. Contraplanos de CADA personaje (85) → 4. Macros de detalle (100) → 5. Plano de dos/grupal de cierre → 6. Opcionales: dron/aéreo del lugar, primerísimo primer plano de la emoción.
 **MÍNIMO 5 PLANOS POR ESCENA, TODOS EN EL MISMO LUGAR, MISMA HORA, MISMA ROPA, MISMOS OBJETOS.** La escena no está "entregada" hasta que su bloque esté completo (ver `02_ORDENES_NUEVAS_SECUENCIAS.md` que ya trae el listado de planos de cada una).
 **El radar del Director rechaza cualquier foto nueva que abra una escena nueva si la escena anterior del mismo fotógrafo tiene su bloque incompleto.**
+
+## 🚨 DECRETO 12 — CONTINUIDAD DE PERSONAJES (ver 12_CONTINUIDAD_DE_PERSONAJES_OBLIGATORIA.md)
+Charter como imagen de referencia en CADA generación + auto-chequeo de 10 puntos + nota de referencia en el plan de planos. El rostro de un personaje NUNCA cambia entre planos ni escenas.
