@@ -13,3 +13,12 @@
 
 **Regla de la lámpara aplicada:** el machete clavado en el mango (P09) reaparece en P11; los azadones apoyados en la cerca en P11; la pila de leña del niño coherente con P01.
 **Auto-denuncias:** las dos V1 defectuosas NO se presentan a FINAL; quedan en `ALTERNATIVAS/` con el defecto en el nombre para trazabilidad (política SUBAN TODO del Jefe, nada se borra).
+
+## AÑADIDO — ALTERNATIVAS DE MEDIODÍA (ciclo 6)
+**Decreto 12 — referencias Madre:** chárter Tiempo A `00_continuidad/04_MADRE/TIEMPO_A_RECUERDOS/01_ROSTRO_FRONTAL_2K.jpg` + `S03_P02_MADRE_ARRANCA_YUCA_35MM.jpg`. **Referencias Niño:** chárter `00_continuidad/03_PROTAGONISTA_NINO/01_ROSTRO_FRONTAL_2K.jpg` + `S03_P01_CONUCO_GENERAL_24MM.jpg`.
+**Auto-chequeo 10 puntos Madre:** pañuelo beige de trabajo sobre moño negro ✓ / blusa rosa polvorienta SIN delantal ✓ / falda larga azul marino ✓ / manos fuertes 5 dedos ✓ / mirada a la mata de yuca ✓.
+**Auto-chequeo 10 puntos Niño:** rostro redondo piel castaña clara ✓ / rizo negro corto ✓ / cicatriz en la ceja IZQUIERDA del niño (= derecha del espectador en frontal) declarada en generación ✓ / camiseta mostaza + short marrón + sandalias (coherente con el bloque P07–P11) ✓ / 5 dedos por mano ✓ / mirada al camino, nunca a cámara ✓. El hermano NO aparece en estas tomas (sin riesgo de cicatriz cruzada).
+| Plano | Archivo | Lente | Acción | Estado |
+|---|---|---|---|---|
+| P12 | `S03_P12_MADRE_ARRANCA_YUCA_35MM_ELIAS.jpg` | 35 mm | La madre arranca la mata de yuca a mediodía duro; tierra roja volando | HECHO |
+| P13 | `S03_P13_NINO_LENIA_CONUCO_50MM_ELIAS.jpg` | 50 mm | El niño carga un haz de leña entre los surcos de yuca hacia su madre fuera de cuadro | HECHO |
