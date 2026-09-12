@@ -38,9 +38,9 @@
 ## COBERTURA EXTRA — S04 CAMINO ESCUELA
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-012 | El desayuno: el niño en la cocina de la madre antes de salir (50mm, misma cocina master) | LIBRE |
-| ORDEN-013 | La madre despidiendo al niño en la puerta de la casa (50mm) | LIBRE |
-| ORDEN-014 | El niño ve la escuelita por primera vez (su rostro 85mm con la escuelita desenfocada al fondo) | LIBRE |
+| ORDEN-012 | El desayuno: el niño en la cocina de la madre antes de salir (50mm, misma cocina master) | TOMADA POR ELÍAS 2026-09-11 (bloque S04 mañana) |
+| ORDEN-013 | La madre despidiendo al niño en la puerta de la casa (50mm) | TOMADA POR ELÍAS 2026-09-11 (bloque S04 mañana) |
+| ORDEN-014 | El niño ve la escuelita por primera vez (su rostro 85mm con la escuelita desenfocada al fondo) | TOMADA POR ELÍAS 2026-09-11 (bloque S04 mañana) |
 
 ## COBERTURA EXTRA — S05 COLMADO
 | Orden | Tarea | Estado |
