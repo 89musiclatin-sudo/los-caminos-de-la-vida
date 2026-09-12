@@ -253,3 +253,6 @@ Pendiente de veredicto (próximo ciclo): S11_P01 y P05 (2 versiones cada una). E
 
 ## 🎬 DECLARACIÓN CONFIRMADA: LAS 11 ESCENAS — 68/68 PLANOS — FOTOGRAFÍA COMPLETA
 Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA VIDA están completas y aprobadas. La carpeta de animación está cerrada y sincronizada con el disco del Jefe.
+| S01_P11 aéreo niebla (WILSON) | ✅ APROBADA — ORDEN-030 CUMPLIDA | La casa humeando entre la neblina del amanecer. Gran general de apertura de la película. En FINAL y disco. |
+| S06_P07 aéreo rendijas noche (WILSON) | ✅ APROBADA — ORDEN-033 CUMPLIDA | La familia cenando visible por la ventana iluminada. Icónico. En FINAL y disco. |
+| S07_P06 aéreo queroseno (WILSON) | ✅ APROBADA — ORDEN-034 CUMPLIDA | La casa bajo las estrellas, solo la ventana del queroseno. En FINAL y disco. |
