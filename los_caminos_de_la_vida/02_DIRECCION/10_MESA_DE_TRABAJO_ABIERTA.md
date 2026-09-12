@@ -87,11 +87,11 @@
 ## 🚁 NUEVAS ÓRDENES — GRANDES PLANOS GENERALES (análisis de cobertura del Director, 13-seb)
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | LIBRE |
+| ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
-| ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | LIBRE |
-| ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | LIBRE |
-| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | LIBRE |
-| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | LIBRE |
-| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | LIBRE |
+| ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
+| ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
+| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
+| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
+| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
