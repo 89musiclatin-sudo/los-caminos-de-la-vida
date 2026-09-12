@@ -81,3 +81,23 @@ Misma limitación que en S11: **este entorno no me devuelve visión**, no puedo 
 
 ### Firma
 [2026-09-14] WILSON | S05 COLMADO: P05_V2_WILSON 984K lonchera + P06_V2_WILSON 1.2M dominó adosado | Apoyo MARIO/RAFA/RAMON | SUBAN TODO | Nada borrado | Pendiente veredicto Director | Bucle continuo
+
+
+---
+
+## 🎬 BLOQUE DE COBERTURA RAFA — "LA TARDE EN EL COLMADO" (6 planos) · 14-seb
+**Orden del Director: CADA ESCENA = BLOQUE DE 5+ PLANOS. Segundo bloque entregado de una sola vez.**
+Estructura de bloque: general (24) → medios (35/50) → contraplano (85) → macros (100) → cierre.
+
+| # | Archivo | Lente | Acción | Orden de la mesa |
+|---|---|---|---|---|
+| P07 | `S05_P07_CAMINO_LLEGADA_GENERAL_24MM_RAFA.jpg` | 24 mm | General del camino rojo: el niño llega al colmado con su lonchera de lata | cobertura de bloque |
+| P08 | `S05_P08_MADRE_ESPERA_PUERTA_50MM_RAFA.jpg` | 50 mm | La madre esperando en la puerta del colmado (verde oliva + falda floreada) | cobertura de bloque |
+| P09 | `S05_P09_DUENO_ENTREGA_PAN_85MM_RAFA.jpg` | 85 mm | El dueño entrega el pan al niño sobre el mostrador — **rostro NO identificable** (secundario sin chárter) | ORDEN-015 |
+| P10 | `S05_P10_RADIO_TRAS_MOSTRADOR_35MM_RAFA.jpg` | 35 mm | La radio desde atrás del mostrador, el niño desenfocado al fondo | ORDEN-017 |
+| P11 | `S05_P11_MANOS_DOMINO_MACRO_100MM_RAFA.jpg` | 100 mm macro | Manos jugando dominós en la mesa del portal | ORDEN-016 |
+| P12 | `S05_P12_MONEDAS_MOSTRADOR_MACRO_100MM_RAFA.jpg` | 100 mm macro | Las monedas viejas junto a la radio sobre el mostrador (cierre del bloque) | cobertura de bloque |
+
+**Continuidad (ley de la escena):** MISMA tarde dorada en los 6 planos · niño con camiseta mostaza + **pantalón LARGO marrón** + sandalias + **lonchera de lata** (marca en la CEJA IZQUIERDA = derecha del espectador en frontal) · madre con blusa verde oliva + falda floreada, sin delantal ni pañuelo · dueño con camisa clara arremangada + gorra y **sin rostro identificable** · props fijos: radio grande en el mostrador, estantes llenos, nevera de gas, botellas de vidrio, mesa de dominó adosada al portal con jugadores · figuras de fondo sin rostros reconocibles · **cero electricidad** (la radio es a pilas) · nadie mira a cámara · 2560×1072 (2.39:1 exacto) · ARRI Alexa 35 + Cooke S4/i.
+**⚠️ AUTO-DENUNCIA:** este entorno no me devuelve visión: no puedo contar dedos ni verificar con zoom rostros del fondo, la lonchera o la posición de la mesa de dominó en mis propias fotos. Verifico formato y contenido por especificación de prompt; el control visual queda en el radar del Director.
+`[14-seb] RAFA | BLOQUE S05 COLMADO = 6/6 planos de cobertura | Pendiente: veredicto del Director`
