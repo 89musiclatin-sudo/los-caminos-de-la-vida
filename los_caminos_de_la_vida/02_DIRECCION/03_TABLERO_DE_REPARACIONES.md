@@ -260,3 +260,5 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S11_P11 abrazo frente besada + P13 sol entre dos (ELÍAS) | ✅ APROBADAS → ALTERNATIVAS de S11 | Dos miradas más del clímax. El Jefe elige. |
 | S01_P18 taza café macro + P19 madre contraluz (ELÍAS) | ✅ APROBADAS → FINALES (P18/P19 de S01) | Postigo azul ✓, charter ✓, delantal ✓. S01 ahora con 12 planos oficiales. |
 | S10_P13/P14/P15 Luis puerta (ELÍAS V1) | 🔍 CONFIRMADO el auto-denuncio | Rostro fuera de charter V2 — regenerar con charter V2 o quedan como ensayos. |
+| S11 aéreo OFICIAL = WILSON V2 | ✅ APROBADA — ORDEN-037 CUMPLIDA | Los dos de pie en el camino, la casa de la infancia a un lado y la escuelita al otro: LOS DOS CAMINOS DE LA VIDA EN UN SOLO CUADRO. Cierre oficial. En FINAL y disco. |
+| S11 aéreos RAFA (EX12) y ELÍAS (P07) | ✅ APROBADAS → ALTERNATIVAS | El valle con niebla (RAFA) y la tierra agrietada con las gallinas (ELÍAS). El Jefe elige. |
