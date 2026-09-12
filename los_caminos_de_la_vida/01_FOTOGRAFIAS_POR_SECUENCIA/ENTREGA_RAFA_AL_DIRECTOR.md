@@ -65,3 +65,17 @@ Este entorno **no me devuelve visión**: no puedo abrir mis propias fotos para c
 | P16 | `SECUENCIA_01_INTRO/S01_P16_MANOS_ROPA_TENDIDA_MACRO_100MM_RAFA.jpg` | 100 mm macro | Manos recogiendo la ropa seca de la cuerda, contraluz |
 
 **Total acumulado entregado por RAFA: 16 fotos** (S11 ×7 · S05 ×2 · MESA ×3 · BLOQUE S01 ×6, con P11-P16 contando en el bloque).
+
+---
+
+## 5. 🎬 BLOQUE COMPLETO S05 EL COLMADO — "LA TARDE EN EL COLMADO" (6 planos) · 14-seb
+| # | Foto | Lente | Qué es |
+|---|---|---|---|
+| P07 | `SECUENCIA_05_COLMADO/S05_P07_CAMINO_LLEGADA_GENERAL_24MM_RAFA.jpg` | 24 mm | General: el niño llega por el camino rojo con su lonchera |
+| P08 | `SECUENCIA_05_COLMADO/S05_P08_MADRE_ESPERA_PUERTA_50MM_RAFA.jpg` | 50 mm | La madre esperando en la puerta del colmado |
+| P09 | `SECUENCIA_05_COLMADO/S05_P09_DUENO_ENTREGA_PAN_85MM_RAFA.jpg` | 85 mm | ORDEN-015: el dueño entrega el pan (sin rostro identificable) |
+| P10 | `SECUENCIA_05_COLMADO/S05_P10_RADIO_TRAS_MOSTRADOR_35MM_RAFA.jpg` | 35 mm | ORDEN-017: la radio desde atrás del mostrador |
+| P11 | `SECUENCIA_05_COLMADO/S05_P11_MANOS_DOMINO_MACRO_100MM_RAFA.jpg` | 100 mm | ORDEN-016: manos jugando dominós |
+| P12 | `SECUENCIA_05_COLMADO/S05_P12_MONEDAS_MOSTRADOR_MACRO_100MM_RAFA.jpg` | 100 mm | Las monedas viejas junto a la radio |
+
+**ACUMULADO TOTAL ENTREGADO POR RAFA: 22 fotos** — bloque S01 (6) + S05 (6) + S11 (7) + MESA sueltas (3).
