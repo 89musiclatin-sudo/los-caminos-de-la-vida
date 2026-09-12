@@ -29,5 +29,5 @@
 | S08 PARTIDA | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S09 PRESENTE | 6 | 6 ✅ COMPLETA | 0 | 0 |
 | S10 PERFORMANCE | 6 | 0 | 0 | 6 (YUDERKA) |
-| S11 CIERRE | 5 | 2 | 1 (P03 pared) | P01/P05 en veredicto |
-| **TOTAL** | **68** | **65** | **2** | **1 (S11_P03) + veredictos S11_P01/P05 y extras pendientes** |
+| S11 CIERRE | 6 | 6 ✅ COMPLETA | 0 | 0 |
+| **TOTAL** | **68** | **68 🎬 COMPLETA** | **0** | **0 — FOTOGRAFÍA CERRADA 13-sep** |
