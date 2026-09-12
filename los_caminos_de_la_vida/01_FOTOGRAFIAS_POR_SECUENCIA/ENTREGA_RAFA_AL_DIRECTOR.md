@@ -79,3 +79,17 @@ Este entorno **no me devuelve visión**: no puedo abrir mis propias fotos para c
 | P12 | `SECUENCIA_05_COLMADO/S05_P12_MONEDAS_MOSTRADOR_MACRO_100MM_RAFA.jpg` | 100 mm | Las monedas viejas junto a la radio |
 
 **ACUMULADO TOTAL ENTREGADO POR RAFA: 22 fotos** — bloque S01 (6) + S05 (6) + S11 (7) + MESA sueltas (3).
+
+---
+
+## 6. 🎬 BLOQUE S02 EL RÍO — "LA MAÑANA EN EL RÍO" (4/6 publicados) · 14-seb
+| # | Foto | Lente | Qué es | Estado |
+|---|---|---|---|---|
+| P07 | `SECUENCIA_02_EL_RIO/S02_P07_PIES_AGUA_MACRO_100MM_RAFA.jpg` | 100 mm | ORDEN-006: pies descalzos del niño en el agua clara | ✅ |
+| P08 | `SECUENCIA_02_EL_RIO/S02_P08_MADRE_TIENDE_ROPA_50MM_RAFA.jpg` | 50 mm | ORDEN-007: la madre tendiendo la ropa | ✅ |
+| P09 | `SECUENCIA_02_EL_RIO/S02_P09_AEREO_RIO_24MM_RAFA.jpg` | 24 mm | ORDEN-008: aéreo del río con los dos lavando | ✅ |
+| P10 | `SECUENCIA_02_EL_RIO/S02_P10_LAVANDO_PIEDRA_35MM_RAFA.jpg` | 35 mm | Plano de dos lavando en la piedra | ✅ |
+| P11 | `S02_P11_CONTRAPLANO_NINO_MOJADO_85MM_RAFA.jpg` | 85 mm | Contraplano del niño, marca en ceja izquierda | ⏳ tope de turno |
+| P12 | `S02_P12_JABON_ESPUMA_MACRO_100MM_RAFA.jpg` | 100 mm | Macro del jabón y la espuma | ⏳ tope de turno |
+
+**ACUMULADO TOTAL ENTREGADO POR RAFA: 26 fotos** — S01 (6) + S05 (6) + S11 (7) + MESA sueltas (3) + S02 (4).
