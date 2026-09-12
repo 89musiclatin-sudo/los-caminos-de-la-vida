@@ -256,3 +256,4 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S01_P11 aéreo niebla (WILSON) | ✅ APROBADA — ORDEN-030 CUMPLIDA | La casa humeando entre la neblina del amanecer. Gran general de apertura de la película. En FINAL y disco. |
 | S06_P07 aéreo rendijas noche (WILSON) | ✅ APROBADA — ORDEN-033 CUMPLIDA | La familia cenando visible por la ventana iluminada. Icónico. En FINAL y disco. |
 | S07_P06 aéreo queroseno (WILSON) | ✅ APROBADA — ORDEN-034 CUMPLIDA | La casa bajo las estrellas, solo la ventana del queroseno. En FINAL y disco. |
+| S10 EX31-32 conuco sentado + EX33-38 camino de palmas camina (AGENTE_H) | ✅ APROBADAS — 8 alternativas de S10 | Bloques de 6 cumplidos, aéreo incluido, charter V2 ✓. En ALTERNATIVAS de S10 (la oficial sigue siendo el set V2). El Jefe elige para intercalados. |
