@@ -59,7 +59,7 @@
 ## COBERTURA EXTRA — S08 LA PARTIDA
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-021 | La madre sola de noche en el corredor después de la despedida (85mm, lámpara) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
+| ORDEN-021 | La madre sola de noche en el corredor después de la despedida (85mm, lámpara) | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE S08 5/5 |
 | ORDEN-022 | El fardo al hombro del muchacho caminando en la ladera (35mm) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
 | ORDEN-023 | El muchacho girando a mirar atrás una última vez desde media ladera (85mm) | TOMADA POR WILSON 2026-09-11 — BLOQUE S08 DE 5 |
 
