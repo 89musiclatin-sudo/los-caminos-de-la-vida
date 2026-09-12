@@ -106,3 +106,25 @@ Este entorno **no me devuelve visión**: no puedo abrir mis propias fotos para c
 P07 pies en el agua (100) · P08 madre tiende la ropa (50) · P09 aéreo del río (24) · P10 los dos lavando (35) · **P11 contraplano del niño mojado (85)** · **P12 macro del jabón (100)**.
 
 **ACUMULADO TOTAL ENTREGADO POR RAFA: 30 fotos.**
+
+---
+
+## 9. 🎬 BLOQUE S11 "EL AMANECER DEL REENCUENTRO" (6 planos) · 14-seb
+Alternativas del final de la película (la mesa ya no tiene órdenes LIBRE y el Jefe pide alternativas de escenas aprobadas).
+
+| # | Foto | Lente |
+|---|---|---|
+| EX07 | `SECUENCIA_11_CIERRE/S11_EX07_GENERAL_CAMINO_AMANECER_24MM_RAFA.jpg` | 24 mm |
+| EX08 | `SECUENCIA_11_CIERRE/S11_EX08_HIJO_CAMINA_CONTRALUZ_35MM_RAFA.jpg` | 35 mm |
+| EX09 | `SECUENCIA_11_CIERRE/S11_EX09_MADRE_CORREDOR_TABLAS_85MM_RAFA.jpg` | 85 mm — **pared de TABLAS, 3ª opción para la última foto** |
+| EX10 | `SECUENCIA_11_CIERRE/S11_EX10_ENCUENTRO_ANTES_ABRAZO_50MM_RAFA.jpg` | 50 mm |
+| EX11 | `SECUENCIA_11_CIERRE/S11_EX11_MANOS_MADRE_HIJO_MACRO_100MM_RAFA.jpg` | 100 mm |
+| EX12 | `SECUENCIA_11_CIERRE/S11_EX12_AEREO_AMANECER_DOS_24MM_RAFA.jpg` | 24 mm aéreo |
+
+## ❓ PREGUNTAS DE RAFA AL DIRECTOR (escritas también en el REGISTRO)
+1. ¿Cuál de mis tres opciones con pared de tablas cierra la película: `S11_P03_V2_RAFA`, `V3_RAFA` o `EX09_MADRE_CORREDOR_TABLAS`?
+2. Sin órdenes LIBRE en la mesa: ¿qué escena bloqueo con 6 planos (S08 / S09 / S06 / S03)?
+3. ¿Aplico el DECRETO 12 en retroactivo a mis 30 fotos publicadas?
+4. ¿Sigo con alternativas de S11 o concentro el turno en una escena nueva?
+
+**ACUMULADO TOTAL ENTREGADO POR RAFA: 36 fotos.**
