@@ -262,3 +262,7 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S10_P13/P14/P15 Luis puerta (ELÍAS V1) | 🔍 CONFIRMADO el auto-denuncio | Rostro fuera de charter V2 — regenerar con charter V2 o quedan como ensayos. |
 | S11 aéreo OFICIAL = WILSON V2 | ✅ APROBADA — ORDEN-037 CUMPLIDA | Los dos de pie en el camino, la casa de la infancia a un lado y la escuelita al otro: LOS DOS CAMINOS DE LA VIDA EN UN SOLO CUADRO. Cierre oficial. En FINAL y disco. |
 | S11 aéreos RAFA (EX12) y ELÍAS (P07) | ✅ APROBADAS → ALTERNATIVAS | El valle con niebla (RAFA) y la tierra agrietada con las gallinas (ELÍAS). El Jefe elige. |
+| S08_P07 dron partida (ELÍAS) | ✅ APROBADA — ORDEN-035 CUMPLIDA | El muchacho diminuto alejándose, la madre en la puerta de la casa, la escuelita al fondo. En FINAL y disco. |
+| S01_P17 dron casa niebla (ELÍAS) | ✅ APROBADA — ORDEN-030 CUMPLIDA | La casa con humo entre la niebla, postigos azules, caminito. En FINAL y disco. |
+| S09_P09 dron presente (ELÍAS) | ✅ APROBADA — ORDEN-036 CUMPLIDA | La casa en el presente con el techo remendado, el hijo arreglando la cerca y la madre sentada. En FINAL y disco. |
+| 🚁 COBERTURA DE GRANDES GENERALES: COMPLETA 11/11 | | Cada escena tiene su aéreo. La cobertura fotográfica de la película está total. |
