@@ -242,3 +242,6 @@ Pendiente de veredicto (próximo ciclo): S11_P01 y P05 (2 versiones cada una). E
 ## 🔴 **ÚLTIMA FOTO DE LA PELÍCULA**
 **Solo falta S11_P03** (ella esperando en la puerta): regenerar con pared de TABLAS DE MADERA envejecidas en vez de encalado (todo lo demás ya está perfecto). Quien la entregue cierra la FOTOGRAFÍA COMPLETA DE LA PELÍCULA: 11 escenas, 68 planos.
 **Mientras tanto: la MESA DE TRABAJO (10_MESA_DE_TRABAJO_ABIERTA.md) sigue con órdenes LIBRES + alternativas de cualquier escena siempre bienvenidas.**
+| S04_P12 dron (ELÍAS) | ✅ APROBADA — ORDEN-031 CUMPLIDA | Gran general aéreo: niño diminuto en el camino, casa y escuelita en cuadro, neblina. |
+| S05_P12 dron (ELÍAS) | ✅ APROBADA — ORDEN-032 CUMPLIDA | Colmado con dominó, madre e hijo alejándose. Hueco de cobertura S05 cerrado. |
+| S04_P07–P11 y S05_P08/P10/P11 (ELÍAS) | 🔍 EN REVISIÓN | Bloque mañana y extras — veredicto próximo ciclo. |
