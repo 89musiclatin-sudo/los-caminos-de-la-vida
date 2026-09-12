@@ -95,3 +95,27 @@ Las dos conservan TODO lo que el Director ya aprobó: la madre Tiempo B (80-88, 
 - **Auto-chequeo de 10 puntos (comparado contra el charter):** ojos ✓ · cejas ✓ (sin marca: es la madre) · nariz ✓ · labios ✓ · pómulos y mandíbula ✓ · orejas ✓ · tono de piel ✓ · cabello rizado casi blanco en moño bajo ✓ · manos grandes/venosas de anciana con 5 dedos ✓ · edad y ropa exactas de la tabla (80-88, blusa azul flores + delantal beige) ✓.
 **⚠️ AUTO-DENUNCIA:** este entorno no me devuelve visión, así que el auto-chequeo es contra la especificación del prompt y las referencias, no contra mis propios píxeles. El control visual de la pared y del rostro queda en el radar del Director.
 `[14-seb] RAFA | S11_P03 en 2 versiones con pared de TABLAS | Pendiente: veredicto del Director (cierra la película)`
+
+
+---
+
+## 🎬 BLOQUE RAFA — "EL AMANECER DEL REENCUENTRO" (6 planos de S11) · 14-seb
+**Contexto:** la mesa ya no tiene órdenes LIBRE (todo está CUMPLIDO), así que aplico la regla del Jefe: *"si no hay LIBRES, genera alternativas de cualquier escena aprobada — siempre son bienvenidas y el Jefe elige."* Elijo **S11 CIERRE**, el final de la película, que solo tiene 5 planos oficiales.
+
+| # | Archivo | Lente | Acción |
+|---|---|---|---|
+| EX07 | `S11_EX07_GENERAL_CAMINO_AMANECER_24MM_RAFA.jpg` | 24 mm | General del camino: ella en el corredor esperando, él diminuto bajando por la rodadura |
+| EX08 | `S11_EX08_HIJO_CAMINA_CONTRALUZ_35MM_RAFA.jpg` | 35 mm | Medio del hijo caminando hacia la casa, polvo en las botas, contraluz |
+| EX09 | `S11_EX09_MADRE_CORREDOR_TABLAS_85MM_RAFA.jpg` | 85 mm | **La madre en el corredor contra la PARED DE TABLAS envejecidas** (tercera opción para la foto que falta) |
+| EX10 | `S11_EX10_ENCUENTRO_ANTES_ABRAZO_50MM_RAFA.jpg` | 50 mm | El segundo ANTES del abrazo: frente a frente, un paso aparte |
+| EX11 | `S11_EX11_MANOS_MADRE_HIJO_MACRO_100MM_RAFA.jpg` | 100 mm | Macro: las manos ancianas de ella dentro de las manos de él |
+| EX12 | `S11_EX12_AEREO_AMANECER_DOS_24MM_RAFA.jpg` | 24 mm | Aéreo del amanecer: los dos diminutos en el camino, sombras largas |
+
+**Continuidad (ley de la escena):** mismo amanecer en los 6 planos · madre Tiempo B (80-88, blusa azul flores + delantal beige + falda oscura + moño bajo casi blanco) · hijo adulto (31-34, verde oliva sobre crema + jeans gastados + botas, marca en la CEJA IZQUIERDA) · **pared de TABLAS DE MADERA envejecidas, nunca encalada** · puerta y postigos azules · vivienda aislada · cero electricidad · nadie mira a cámara · 2560×1072 (2.39:1) · ARRI Alexa 35 + Cooke S4/i.
+
+### DECRETO 12 — nota obligatoria de referencias
+- **Charters pasados como imagen de referencia en las 6 generaciones:** `00_continuidad/04_MADRE/TIEMPO_B_PRESENTE_80_ANOS/MADRE_TIEMPO_B_PRESENTE_CHARTER_OFICIAL_6K.jpg` y `00_continuidad/02_PROTAGONISTA_ADULTO/PROTAGONISTA_ADULTO_CHARTER_OFICIAL_6K.jpg`.
+- **Foto madre (última aprobada del personaje en la escena):** `S11_P04_ABRAZO_50MM.jpg` (el clímax, ✅ APROBADA) y `S11_P01_AMANECER_CAMINO_GENERAL_24MM.jpg` (✅ APROBADA) + `S09_P01_CASA_PRESENTE_24MM.jpg` (la casa de tablas de Tiempo B).
+- **Auto-chequeo de 10 puntos:** ojos ✓ · cejas (marca en la izquierda del hijo) ✓ · nariz ✓ · labios ✓ · pómulos/mandíbula ✓ · orejas ✓ · tono de piel ✓ · cabello (moño casi blanco / rizo corto negro) ✓ · manos (ancianas venosas / grandes callosas, 5 dedos) ✓ · edad y ropa de la tabla ✓.
+**⚠️ AUTO-DENUNCIA:** sin visión en este entorno el chequeo es contra especificación y referencias, no contra mis píxeles. El control visual es del radar.
+`[14-seb] RAFA | BLOQUE S11 "EL AMANECER DEL REENCUENTRO" = 6/6 | Pendiente: veredicto`
