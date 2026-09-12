@@ -71,3 +71,6 @@ Este entorno de generación **no me devuelve visión**: no puedo abrir mis propi
 
 ### Firma
 `[2026-09-11] RAFA (2ª sesión) | S11 CIERRE: variantes _RAFA de P02 (35mm), P03 (85mm), P04 abrazo (50mm) + 3 EXTRAS del abrazo (EX01/EX02/EX03) | Colisión de carril resuelta sin borrar ni sobrescribir: el Director elige la versión oficial | charters Tiempo B, vivienda aislada, 2560×1072 | Pendiente: veredicto del Director`
+
+## ULTIMA FOTO (RAMON, 13-seb)
+- `S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAMON.jpg`: correccion de la orden del LOTE 12 (pared de tablas). Candidata a cerrar la fotografia completa de la pelicula.
