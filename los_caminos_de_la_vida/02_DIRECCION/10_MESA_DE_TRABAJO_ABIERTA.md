@@ -88,8 +88,8 @@
 | Orden | Tarea | Estado |
 |---|---|---|
 | ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | LIBRE |
-| ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | LIBRE |
-| ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | LIBRE |
+| ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | LIBRE |
 | ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | LIBRE |
 | ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | LIBRE |

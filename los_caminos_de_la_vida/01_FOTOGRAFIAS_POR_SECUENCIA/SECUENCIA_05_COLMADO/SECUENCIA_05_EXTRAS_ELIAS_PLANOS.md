@@ -14,3 +14,6 @@
 
 **Regla de la lámpara aplicada:** radio portátil negra en el mostrador en P07 y P09 (misma posición que P02/P04 aprobados); monedas y pan coherentes con P02; sacos y estantes idénticos.
 **Transparencia:** bloque CERRADO 5/5 en el segundo ciclo (2026-09-11): P08-V2 sin marcas, P10 y P11 publicados. La V1 defectuosa de P08 permanece en `ALTERNATIVAS/`. Nada borrado.
+
+## AÑADIDO — ORDEN-030→037 del Director (hueco de aéreos)
+| P12 (ORDEN-032) | `S05_P12_DRON_COLMADO_24MM_ELIAS.jpg` | 24 mm aéreo | Dron del colmado: dominó adosado al portal con jugadores, madre verde oliva + niño mostaza llegando, sacos y cajas, tierra roja, tarde dorada | HECHO |

@@ -13,3 +13,6 @@
 
 **Regla de la lámpara aplicada:** lonchera de lata presente en P07, P08, P10 y P11 (viaja a S04_P01–P06 y a S05/S08); cocina idéntica al master 08; fachada idéntica al master 01 (postigos azules, batea, ropa tendida).
 **Auto-denuncias:** ninguna en este bloque; QA de anatomía (5 dedos/pie), vestuario y mirada verificado plano por plano antes de publicar.
+
+## AÑADIDO — ORDEN-030→037 del Director (hueco de aéreos)
+| P12 (ORDEN-031) | `S04_P12_DRON_CAMINO_NINO_24MM_ELIAS.jpg` | 24 mm aéreo | Dron del camino: el niño diminuto entre la casa (izq, mango + ropa tendida + gallinas) y la escuelita con bandera (der), niebla de mañana, vivienda aislada | HECHO |
