@@ -6,3 +6,7 @@
 **Referencias:** chárter Madre A `04_MADRE/TIEMPO_A.../MADRE_TIEMPO_A_RECUERDOS_CHARTER_OFICIAL_6K.jpg` + fotos madre `S01_P05/S01_P07`. Auto-chequeo 10 puntos ✓ (manos grandes venosas 5 dedos en P18; moño bajo con canas sien y blusa rosa + delantal en P19).
 | P18 | `S01_P18_TAZA_CAFE_HUMO_MACRO_100MM_ELIAS.jpg` | 100 mm | Manos de la madre con la taza esmaltada humeante al amanecer | HECHO |
 | P19 | `S01_P19_MADRE_VENTANA_CONTRALUZ_85MM_ELIAS.jpg` | 85 mm | La madre en la ventana con postigo AZUL a contraluz de amanecer | HECHO |
+
+## AÑADIDO — DRON AMANECER V2 (ORDEN-030 LIBRE, ciclo 6)
+**Referencias:** `S01_P17_DRON_CASA_HUMO_NIEBLA_24MM_ELIAS.jpg` (propia previa) + masters S01. Sin personajes: no aplica chequeo facial. Vivienda aislada ✓, humo del fogón ✓, neblina baja ✓, postigos azules ✓.
+| P20 | `S01_P20_DRON_AMANECER_HUMO_V2_24MM_ELIAS.jpg` | 24 mm aéreo | V2 del gran general aéreo del amanecer (responde a «dron LIBRES S01» de LEVI) | HECHO |
