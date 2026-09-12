@@ -93,3 +93,16 @@ Este entorno **no me devuelve visión**: no puedo abrir mis propias fotos para c
 | P12 | `S02_P12_JABON_ESPUMA_MACRO_100MM_RAFA.jpg` | 100 mm | Macro del jabón y la espuma | ⏳ tope de turno |
 
 **ACUMULADO TOTAL ENTREGADO POR RAFA: 26 fotos** — S01 (6) + S05 (6) + S11 (7) + MESA sueltas (3) + S02 (4).
+
+---
+
+## 7. 🔴 LO ÚLTIMO — S11_P03 CORREGIDA (candidata a cerrar la película) · 14-seb
+| Foto | Lente | Qué corrige |
+|---|---|---|
+| `SECUENCIA_11_CIERRE/S11_P03_ELLA_ESPERA_PUERTA_85MM_V2_RAFA.jpg` | 85 mm | **Pared ENCALADA → TABLAS DE MADERA envejecidas.** Mismo plano aprobado, solo cambia la pared |
+| `SECUENCIA_11_CIERRE/S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAFA.jpg` | 85 mm | Segunda mirada: tres cuartos, mano en el marco, más tablas en cuadro |
+
+## 8. ✅ BLOQUE S02 EL RÍO — CERRADO 6/6
+P07 pies en el agua (100) · P08 madre tiende la ropa (50) · P09 aéreo del río (24) · P10 los dos lavando (35) · **P11 contraplano del niño mojado (85)** · **P12 macro del jabón (100)**.
+
+**ACUMULADO TOTAL ENTREGADO POR RAFA: 30 fotos.**
