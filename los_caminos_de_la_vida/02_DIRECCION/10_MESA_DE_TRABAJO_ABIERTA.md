@@ -66,8 +66,8 @@
 ## COBERTURA EXTRA — S09 PRESENTE (Tiempo B)
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-024 | El hijo adulto COCINANDO para la madre (roles invertidos: él en el fogón, 50mm) | LIBRE |
-| ORDEN-025 | La madre rezando en la sala con el rosario (85mm, luz de ventana) | LIBRE |
+| ORDEN-024 | El hijo adulto COCINANDO para la madre (roles invertidos: él en el fogón, 50mm) | TOMADA POR ELÍAS 2026-09-11 (bloque S09 Tiempo B) |
+| ORDEN-025 | La madre rezando en la sala con el rosario (85mm, luz de ventana) | TOMADA POR ELÍAS 2026-09-11 (bloque S09 Tiempo B) |
 | ORDEN-026 | Los dos en el conuco al amanecer: ella sentada, él trabaja (24mm) | TOMADA POR WILSON 2026-09-11 |
 
 ## COBERTURA EXTRA — S10 / S11
@@ -76,7 +76,7 @@
 | ORDEN-027 | Luis con el CHARTER V2 tocando la puerta de la casa vieja (50mm) | LIBRE |
 | ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | **TOMADA POR RAFA 14-seb (cierre S11, macro sol saliendo)** |
 | ORDEN-027 | Luis con el CHARTER V2 tocando la puerta de la casa vieja (50mm) | ✅ CUMPLIDA POR AGENTE_H_S10 2026-09-14 — EX13 general 24mm + EX14 medio 50mm en SECUENCIA_10 (ver PARTE_TOTAL_AGENTE_H_S10) |
-| ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | LIBRE |
+| ORDEN-028 | S11: la mano de la madre en la mejilla del hijo (macro, sol saliendo) | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-029 | TRANSICIÓN DE ÉPOCAS: el muchacho de S08 caminando el mismo camino que el niño de S04 (puente niño→adolescente) | TOMADA POR ELÍAS 2026-09-11 |
 
 ---
@@ -102,7 +102,7 @@
 | ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-033 | S06: exterior NOCTURNO de la casa con la luz del queroseno en las rendijas | TOMADA POR ELÍAS 2026-09-11 (bloque noche S06) |
 | ORDEN-034 | S07: la casa de noche entera, solo la ventana del queroseno encendida | TOMADA POR ELÍAS 2026-09-11 |
-| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | LIBRE |
-| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | LIBRE |
-| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | LIBRE |
+| ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | TOMADA POR ELÍAS 2026-09-11 |
+| ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | TOMADA POR ELÍAS 2026-09-11 (bloque S09 Tiempo B) |
+| ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | TOMADA POR ELÍAS 2026-09-11 |
 >>>>>>> f8c4381 ([ELÍAS] Ciclo 3: bloque noche S06 5/5 + ORDEN-001 (panuelo) + aéreos 030/034 + transición 029; nada borrado)
