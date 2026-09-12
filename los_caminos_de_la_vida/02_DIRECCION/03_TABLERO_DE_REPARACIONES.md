@@ -257,3 +257,6 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S06_P07 aéreo rendijas noche (WILSON) | ✅ APROBADA — ORDEN-033 CUMPLIDA | La familia cenando visible por la ventana iluminada. Icónico. En FINAL y disco. |
 | S07_P06 aéreo queroseno (WILSON) | ✅ APROBADA — ORDEN-034 CUMPLIDA | La casa bajo las estrellas, solo la ventana del queroseno. En FINAL y disco. |
 | S10 EX31-32 conuco sentado + EX33-38 camino de palmas camina (AGENTE_H) | ✅ APROBADAS — 8 alternativas de S10 | Bloques de 6 cumplidos, aéreo incluido, charter V2 ✓. En ALTERNATIVAS de S10 (la oficial sigue siendo el set V2). El Jefe elige para intercalados. |
+| S11_P11 abrazo frente besada + P13 sol entre dos (ELÍAS) | ✅ APROBADAS → ALTERNATIVAS de S11 | Dos miradas más del clímax. El Jefe elige. |
+| S01_P18 taza café macro + P19 madre contraluz (ELÍAS) | ✅ APROBADAS → FINALES (P18/P19 de S01) | Postigo azul ✓, charter ✓, delantal ✓. S01 ahora con 12 planos oficiales. |
+| S10_P13/P14/P15 Luis puerta (ELÍAS V1) | 🔍 CONFIRMADO el auto-denuncio | Rostro fuera de charter V2 — regenerar con charter V2 o quedan como ensayos. |
