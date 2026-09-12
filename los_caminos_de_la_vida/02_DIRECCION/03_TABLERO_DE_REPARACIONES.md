@@ -245,3 +245,11 @@ Pendiente de veredicto (próximo ciclo): S11_P01 y P05 (2 versiones cada una). E
 | S04_P12 dron (ELÍAS) | ✅ APROBADA — ORDEN-031 CUMPLIDA | Gran general aéreo: niño diminuto en el camino, casa y escuelita en cuadro, neblina. |
 | S05_P12 dron (ELÍAS) | ✅ APROBADA — ORDEN-032 CUMPLIDA | Colmado con dominó, madre e hijo alejándose. Hueco de cobertura S05 cerrado. |
 | S04_P07–P11 y S05_P08/P10/P11 (ELÍAS) | 🔍 EN REVISIÓN | Bloque mañana y extras — veredicto próximo ciclo. |
+
+---
+
+## 🎬 VEREDICTO FINAL — S11_P03 (4 versiones revisadas)
+**OFICIAL: `S11_P03_ELLA_ESPERA_PUERTA_85MM_V3_RAFA`** ✅ — pared de tablas envejecidas ✓, rostro charter ✓, la espera perfecta. Ya está en FOTOGRAFIA_FINAL y en el disco del Jefe. Las demás versiones (V1 encalada con defecto, V2_RAFA, V2_WILSON, V3_RAMON) → `ALTERNATIVAS/`.
+
+## 🎬 DECLARACIÓN CONFIRMADA: LAS 11 ESCENAS — 68/68 PLANOS — FOTOGRAFÍA COMPLETA
+Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA VIDA están completas y aprobadas. La carpeta de animación está cerrada y sincronizada con el disco del Jefe.
