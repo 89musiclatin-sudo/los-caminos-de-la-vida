@@ -273,3 +273,4 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S04_P11 madre desde la puerta (ELÍAS) | ✅ APROBADA | La madre viéndolo partir por la puerta — plano emocional de cierre de la mañana. En FINAL y disco. **BLOQUE MAÑANA DE ELÍAS: 5/5 ✅ COMPLETO.** |
 | S05 P07/P08/P09/P10/P11 cobertura extra (ELÍAS) | ✅ APROBADAS → ALTERNATIVAS de S05 | Entrega del pan, macro dominó sin marcas, radio en silueta, manos con monedas, madre llegando. Nivel poster. |
 | S10 EX01-12 (AGENTE_H, vía hojas de contacto) | ✅ APROBADAS → ALTERNATIVAS de S10 | Conuco+casa y río: rostro charter V2 clavado, traje negro, locaciones clonadas. 33 alternativas de S10 acumuladas. |
+| S10 EX13-18 puerta + conuco sentado (AGENTE_H) | ✅ APROBADAS → ALTERNATIVAS de S10 | 6 alternativas más: tocando la puerta de la casa madre y sentado en el conuco al atardecer. Charter V2 ✓. |
