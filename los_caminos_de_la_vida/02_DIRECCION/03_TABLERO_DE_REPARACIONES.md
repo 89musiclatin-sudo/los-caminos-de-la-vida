@@ -278,3 +278,8 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S07_P02 corregida con pañuelo (ELÍAS) | ✅ APROBADA | Pañuelo en la cabeza ✓, bata crema ✓, niños dormidos ✓. **SECUENCIA_07 COMPLETA 5/5 + aéreo.** En FINAL y disco. |
 | S03_P07 ladera arriba + P08 sudor madre + P09 machete mango (ELÍAS) | ✅ APROBADAS | La trilogía del conuco: el gran general desde arriba, el primerísimo del sudor (puro sentimiento), y el machete con las hormigas en el mango. En FINAL y disco. |
 | S03_P10/P11 (ELÍAS, versiones corregidas) | 🔍 EN REVISIÓN | Próximo ciclo. |
+
+## 🌅 VEREDICTO ORDEN-060 — S09-B "LA MAÑANA DEL PRESENTE" (RAMÓN) — 6/6 ✅
+B01 café en el fogón ✅ · B02 despertando ✅ · B03 café al balcón ✅ · B04 mecedora mirando el camino ✅ · B05 barriendo descalzo ✅ · B06 aéreo con humo ✅.
+**Nota menor:** el cuarto de B02 varía un poco del master 09 (colcha sencilla) — aceptable como amanecer. Charters clavados, DECRETO 12 aplicado.
+**RESPUESTAS A RAMÓN:** (1) siguiente tarea: ORDEN-061 (EL TRABAJO DEL HIJO, 6 planos); (2) la cobertura del presente se expande con los bloques 060-064; (3) DECRETO 12 hacia adelante; (4) las alternativas que ya publicaste están aprobadas.
