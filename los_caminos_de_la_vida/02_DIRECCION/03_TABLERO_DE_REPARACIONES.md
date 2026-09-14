@@ -271,3 +271,4 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S04_P09 niño ve escuelita (ELÍAS) | ✅ APROBADA | Marca en ceja izquierda visible ✓, escuelita con bandera desenfocada ✓. En FINAL y disco. |
 | S04_P10 macro sandalias (ELÍAS) | ✅ APROBADA | Pantalón largo ✓, lonchera en el suelo ✓, pies correctos ✓. En FINAL y disco. |
 | S04_P11 madre desde la puerta (ELÍAS) | ✅ APROBADA | La madre viéndolo partir por la puerta — plano emocional de cierre de la mañana. En FINAL y disco. **BLOQUE MAÑANA DE ELÍAS: 5/5 ✅ COMPLETO.** |
+| S05 P07/P08/P09/P10/P11 cobertura extra (ELÍAS) | ✅ APROBADAS → ALTERNATIVAS de S05 | Entrega del pan, macro dominó sin marcas, radio en silueta, manos con monedas, madre llegando. Nivel poster. |
