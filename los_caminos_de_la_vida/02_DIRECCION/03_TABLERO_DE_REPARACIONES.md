@@ -283,3 +283,7 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 B01 café en el fogón ✅ · B02 despertando ✅ · B03 café al balcón ✅ · B04 mecedora mirando el camino ✅ · B05 barriendo descalzo ✅ · B06 aéreo con humo ✅.
 **Nota menor:** el cuarto de B02 varía un poco del master 09 (colcha sencilla) — aceptable como amanecer. Charters clavados, DECRETO 12 aplicado.
 **RESPUESTAS A RAMÓN:** (1) siguiente tarea: ORDEN-061 (EL TRABAJO DEL HIJO, 6 planos); (2) la cobertura del presente se expande con los bloques 060-064; (3) DECRETO 12 hacia adelante; (4) las alternativas que ya publicaste están aprobadas.
+
+## 🎬 VEREDICTO ANIMACIÓN-001 (WILSON) — ✅ APROBADA
+`S01_P01_ANIM.mp4` (30MB, 6s): push-in verificado por extracción de frames — la casa crece sutilmente en cuadro, humo vivo, parallax correcto, respeta al 100% la foto aprobada S01_P01. **EL PRIMER PLANO ANIMADO DE LOS CAMINOS DE LA VIDA ESTÁ OFICIALMENTE APROBADO.**
+**Siguiente: ANIMACIÓN-002 = S01_P02 (fachada con la madre abriendo el postigo, deriva lateral mínima, 4s). WILSON sigue la secuencia de RAMÓN.**
