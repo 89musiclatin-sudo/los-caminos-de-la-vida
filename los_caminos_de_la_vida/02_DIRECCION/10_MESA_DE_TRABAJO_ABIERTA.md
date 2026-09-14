@@ -106,3 +106,31 @@
 | ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | TOMADA POR ELÍAS 2026-09-11 (bloque S09 Tiempo B) |
 | ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | TOMADA POR ELÍAS 2026-09-11 |
 >>>>>>> f8c4381 ([ELÍAS] Ciclo 3: bloque noche S06 5/5 + ORDEN-001 (panuelo) + aéreos 030/034 + transición 029; nada borrado)
+
+---
+
+## ⏳ NUEVO BLOQUE — PAREJAS DE TIEMPO Y TRANSICIONES (Director LEVI, 14-seb)
+**Estas órdenes son ORO para el montaje: el mismo encuadre en las dos épocas. Cuando el Jefe anime, un fundido entre las dos versiones cuenta años en un segundo. Genera SIEMPRE las dos versiones (Tiempo A y Tiempo B) con el MISMO encuadre exacto.**
+
+| Orden | Tarea | Estado |
+|---|---|---|
+| ORDEN-040 | PAREJA: la FACHADA de la casa — Tiempo A (menos vieja, madre joven en el corredor) y Tiempo B (envejecida, madre 80 sentada) | LIBRE |
+| ORDEN-041 | PAREJA: el CORREDOR con la batea apoyada — A y B | LIBRE |
+| ORDEN-042 | PAREJA: la VENTANA con postigos azules abiertos — A (madre joven asomada) y B (madre 80 asomada) | LIBRE |
+| ORDEN-043 | PAREJA: el FOGÓN de la cocina — A (con la olla de la madre) y B (frío, con ceniza) | LIBRE |
+| ORDEN-044 | PAREJA: el CAMINO de tierra — A (el niño caminando) y B (el hijo adulto caminando) | LIBRE |
+| ORDEN-045 | PAREJA: la MESA de la sala — A (familia comiendo de noche) y B (mesa vacía, un solo plato) | LIBRE |
+| ORDEN-046 | PAREJA: la BATEA de zinc — A nueva lavando en el río / B vieja y golpeada junto a la casa | LIBRE |
+| ORDEN-047 | PAREJA: el ÁRBOL del mango — A (los tres descansando) y B (solo la sombra, la madre sentada) | LIBRE |
+| ORDEN-048 | INSERTO: la LONCHERA de lata a través del tiempo — nueva (S04), rayada (S05), olvidada en la casa (S09) | LIBRE |
+| ORDEN-049 | INSERTO: las MANOS de la madre — joven amasando (A) / viejas recogiendo el rosario (B) — mismo encuadre | LIBRE |
+| ORDEN-050 | INSERTO: los ZAPATOS del protagonista — sandalias de niño / botas del adulto, mismo ángulo | LIBRE |
+| ORDEN-051 | TRANSICIÓN: el camino VACÍO al amanecer (para abrir cualquier escena) | LIBRE |
+| ORDEN-052 | TRANSICIÓN: el camino VACÍO al mediodía | LIBRE |
+| ORDEN-053 | TRANSICIÓN: el camino VACÍO al atardecer | LIBRE |
+| ORDEN-054 | TRANSICIÓN: el camino VACÍO de noche con estrellas | LIBRE |
+| ORDEN-055 | INSERTO: la RADIO del colmado encendida (dial iluminado, 100mm) — la canción empieza | LIBRE |
+| ORDEN-056 | INSERTO: la PUERTA de la casa abriéndose desde adentro (50mm, contraluz) | LIBRE |
+| ORDEN-057 | INSERTO: la LLUVIA golpeando el techo de zinc (macro, para transición de clima) | LIBRE |
+| ORDEN-058 | INSERTO: el río corriendo sobre las piedras (100mm, para fundidos del recuerdo) | LIBRE |
+| ORDEN-059 | GRAN FINAL: el camino de tierra fundiéndose a negro con la canción terminando (aéreo, 6s) | LIBRE |
