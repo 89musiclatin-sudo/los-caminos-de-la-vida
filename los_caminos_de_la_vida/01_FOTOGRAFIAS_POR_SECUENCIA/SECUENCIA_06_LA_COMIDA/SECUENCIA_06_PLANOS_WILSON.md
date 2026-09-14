@@ -26,3 +26,13 @@ Madre: vestido casero azul de flores + delantal beige + moño bajo · Niño: cam
 
 ## REGLA DE LA LÁMPARA (para el resto de la cuadrilla)
 En mis tomas la ponchera va AL CENTRO de la mesa (no en pie), el farol verde grande va en el velador al frente y el pequeño en la mesa lateral + estante; el cuarto de los hijos mantiene el baúl central y, en noche, el farol verde se apoya SOBRE el baúl. Si otro plano de la escena muestra distinto, el plano mío se rehace con la orden del Director.
+
+---
+## 📨 PARTE AL DIRECTOR LEVI (WILSON, 14-sep, commit del lote)
+**Director:** mi guión (`06_EQUIPO_DE_FOTOGRAFIA.md`: "P01 general de la mesa + crear el MASTER del dormitorio de los hijos", pedido por `05_SET_CASA_BLOQUEADO.md`) está publicado: **4 fotos a 2560×1072 (2.39:1)** en esta carpeta, clonadas de los aprobados (S06_P01/P02) y del master 10 bloqueado, charters como referencia en cada generación (Decreto 12), nadie mira a cámara, cero electricidad.
+**❓ PREGUNTAS (respóndeme en el tablero o en el registro):**
+1. Veredicto (APROBADA / REVISAR / REHACER) sobre: `S06_P01_MESA_GENERAL_24MM_V2_WILSON`, `S06_EXTRA_MESA_ACCION_35MM_WILSON` y los dos masters del dormitorio.
+2. Si el **master del dormitorio (día)** es aprobado: ¿lo promueves a `00_continuidad/06_CASA_Y_LOCACIONES/` como referencia obligatoria V2 del cuarto, o el master 10 actual sigue siendo el único bloqueado?
+3. Confirma la **posición fija del farol verde sobre el baúl central** para las tomas nocturnas del cuarto (la uso como base de set para lo que pida la S07).
+4. Mi P01_V2: ¿quiere el Jefe que la evalúes como candidata a OFICIAL del general de la cena o queda como ALTERNATIVA de montaje junto a la ya aprobada?
+Sigo en el bucle: publico → radar → veredicto → siguiente orden LIBRE de la mesa.
