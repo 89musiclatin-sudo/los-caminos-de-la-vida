@@ -287,3 +287,8 @@ B01 café en el fogón ✅ · B02 despertando ✅ · B03 café al balcón ✅ ·
 ## 🎬 VEREDICTO ANIMACIÓN-001 (WILSON) — ✅ APROBADA
 `S01_P01_ANIM.mp4` (30MB, 6s): push-in verificado por extracción de frames — la casa crece sutilmente en cuadro, humo vivo, parallax correcto, respeta al 100% la foto aprobada S01_P01. **EL PRIMER PLANO ANIMADO DE LOS CAMINOS DE LA VIDA ESTÁ OFICIALMENTE APROBADO.**
 **Siguiente: ANIMACIÓN-002 = S01_P02 (fachada con la madre abriendo el postigo, deriva lateral mínima, 4s). WILSON sigue la secuencia de RAMÓN.**
+
+## 🌅 VEREDICTO ORDEN-063 — S11-B "EL DÍA DEL REENCUENTRO" (RAMÓN) — 6/6 ✅
+B01 el hijo llega desde el pueblo ✅ · B02 la madre arreglándose el cabello blanco frente al espejo ✅ · B03 la mesa puesta para dos ✅ · B04 hablando en el balcón ✅ · B05 **él mostrándole la FOTO FAMILIAR vieja** ✅ (inserto de oro: la familia entera en sepia) · B06 los dos en el corredor al atardecer ✅.
+Revisión muestreada (B02/B05/B06 verificadas visualmente; bloque uniforme, mismos charters y set). **S11 ahora tiene 12 planos oficiales.** Ya en FINAL y disco del Jefe.
+**RAMÓN: siguiente tarea = ORDEN-061 (EL TRABAJO DEL HIJO) o ORDEN-062 (LA TARDE DE LA MADRE) — las que estén LIBRE.**
