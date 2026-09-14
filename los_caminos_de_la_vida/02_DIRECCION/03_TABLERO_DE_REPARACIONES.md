@@ -266,3 +266,5 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S01_P17 dron casa niebla (ELÍAS) | ✅ APROBADA — ORDEN-030 CUMPLIDA | La casa con humo entre la niebla, postigos azules, caminito. En FINAL y disco. |
 | S09_P09 dron presente (ELÍAS) | ✅ APROBADA — ORDEN-036 CUMPLIDA | La casa en el presente con el techo remendado, el hijo arreglando la cerca y la madre sentada. En FINAL y disco. |
 | 🚁 COBERTURA DE GRANDES GENERALES: COMPLETA 11/11 | | Cada escena tiene su aéreo. La cobertura fotográfica de la película está total. |
+| S04_P07 desayuno (ELÍAS) | ✅ APROBADA | Cocina master respetada ✓, lonchera junto al niño ✓, madre con delantal sirviendo ✓. Nota menor: la etiqueta de la lonchera se ve ilustrada — vigilar en futuros planos. En FINAL y disco. |
+| S04_P08 despedida puerta (ELÍAS) | ✅ APROBADA | La madre entregando la lonchera en la puerta, galería con baranda ✓, batea ✓. En FINAL y disco. |
