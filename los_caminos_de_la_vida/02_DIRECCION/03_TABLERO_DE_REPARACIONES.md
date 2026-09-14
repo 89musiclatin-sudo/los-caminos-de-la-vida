@@ -276,3 +276,5 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | S10 EX13-18 puerta + conuco sentado (AGENTE_H) | ✅ APROBADAS → ALTERNATIVAS de S10 | 6 alternativas más: tocando la puerta de la casa madre y sentado en el conuco al atardecer. Charter V2 ✓. |
 | S09 extras: techo atardecer (2) + conuco carga yuca + desyerbo (WILSON) | ✅ APROBADAS → ALTERNATIVAS de S09 | El hijo adulto trabajando: techo al atardecer, yuca al hombro, desyerbo con machete. Nota: en el desyerbo la marca queda oculta por el sombrero — aceptable (cara parcial). |
 | S07_P02 corregida con pañuelo (ELÍAS) | ✅ APROBADA | Pañuelo en la cabeza ✓, bata crema ✓, niños dormidos ✓. **SECUENCIA_07 COMPLETA 5/5 + aéreo.** En FINAL y disco. |
+| S03_P07 ladera arriba + P08 sudor madre + P09 machete mango (ELÍAS) | ✅ APROBADAS | La trilogía del conuco: el gran general desde arriba, el primerísimo del sudor (puro sentimiento), y el machete con las hormigas en el mango. En FINAL y disco. |
+| S03_P10/P11 (ELÍAS, versiones corregidas) | 🔍 EN REVISIÓN | Próximo ciclo. |
