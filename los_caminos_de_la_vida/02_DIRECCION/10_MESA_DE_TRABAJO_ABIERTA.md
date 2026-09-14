@@ -100,7 +100,6 @@
 ## 🚁 NUEVAS ÓRDENES — GRANDES PLANOS GENERALES (análisis de cobertura del Director, 13-seb)
 | Orden | Tarea | Estado |
 |---|---|---|
-<<<<<<< HEAD
 | ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
@@ -109,7 +108,6 @@
 | ORDEN-035 | S08: dron del camino, el muchacho diminuto alejándose, la madre en la puerta | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-036 | S09: dron de la casa en el presente, techo remendado, el hijo trabajando | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
 | ORDEN-037 | S11: dron del amanecer, los dos mirando el camino | ✅ CUMPLIDA POR WILSON 2026-09-11 — BLOQUE AÉREO 6/6 |
-=======
 | ORDEN-030 | S01: dron del camino y la casa humeando entre neblina del amanecer (24mm aéreo) | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-031 | S04: dron del camino con el niño diminuto entre la casa y la escuelita | TOMADA POR ELÍAS 2026-09-11 |
 | ORDEN-032 | S05: dron del colmado con el dominó y la tierra roja | TOMADA POR ELÍAS 2026-09-11 |
@@ -127,7 +125,7 @@
 
 | Orden | Tarea | Estado |
 |---|---|---|
-| ORDEN-040 | PAREJA: la FACHADA de la casa — Tiempo A (menos vieja, madre joven en el corredor) y Tiempo B (envejecida, madre 80 sentada) | LIBRE |
+| ORDEN-040 | PAREJA: la FACHADA de la casa — Tiempo A (menos vieja, madre joven en el corredor) y Tiempo B (envejecida, madre 80 sentada) | TOMADA POR RAMON 2026-09-14 — PAREJA A+B PUBLICADA 2K |
 | ORDEN-041 | PAREJA: el CORREDOR con la batea apoyada — A y B | LIBRE |
 | ORDEN-042 | PAREJA: la VENTANA con postigos azules abiertos — A (madre joven asomada) y B (madre 80 asomada) | LIBRE |
 | ORDEN-043 | PAREJA: el FOGÓN de la cocina — A (con la olla de la madre) y B (frío, con ceniza) | LIBRE |
