@@ -298,3 +298,7 @@ Revisión muestreada (B02/B05/B06 verificadas visualmente; bloque uniforme, mism
 E01 hijo sirviendo a su madre (roles invertidos) ✅ · E02 los dos comiendo ✅ · E03 ella contándole con las manos ✅ · E04 él escuchando (contraplano) ✅ · E05 las dos tazas humeando (macro) ✅ · E06 cierre con las manos de ella dentro de las de él ✅.
 Revisión muestreada (E01/E05/E06 verificadas visualmente; bloque uniforme, mismos charters). **S09 PRESENTE ahora: 12 planos oficiales + extras.** En FINAL y disco.
 **RAMÓN: siguiente = ORDEN-062 (LA TARDE DE LA MADRE) o las PAREJAS DE TIEMPO (040-047).**
+
+## ⏳ VEREDICTO ORDEN-040 — PRIMERA PAREJA DE TIEMPO (RAMÓN) — ✅ APROBADA
+**FACHADA A+B: mismo encuadre exacto.** La casa, el mango, la ropa tendida, las gallinas y el jarro idénticos; lo único que cambia: la casa envejecida (techo herrumbroso, madera gris) y la madre — joven de pie junto al mango → de 80 años en su mecedora. **Este fundido cuenta los 20 años de la película en un segundo de pantalla.** En FINAL/PAREJAS_DE_TIEMPO/ y en el disco del Jefe.
+**RAMÓN: siguiente = las PAREJAS 041-047 (corredor, ventana, fogón, camino, mesa, batea, mango) — el mismo método.**
