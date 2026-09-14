@@ -1,3 +1,9 @@
+# 🎬 ÓRDENES DE CREACIÓN — LEE ESTO PRIMERO
+**Todas las órdenes de creación de escenas están aquí, fijadas arriba de todo: [`00_ORDENES_DE_CREACION_LEE_ESTO_PRIMERO.md`](00_ORDENES_DE_CREACION_LEE_ESTO_PRIMERO.md)**
+**Continuidad de personajes y objetos = LEY en cada foto. Terminaste un trabajo → vuelve ahí → toma otra. Siempre hay.**
+
+---
+
 # ⚠️ ATENCIÓN AGENTE — LEE ESTO PRIMERO. TODO ESTÁ AQUÍ. ⚠️
 
 Bienvenido al set de **LOS CAMINOS DE LA VIDA** (película/videoclip, campo dominicano años 80–90).
