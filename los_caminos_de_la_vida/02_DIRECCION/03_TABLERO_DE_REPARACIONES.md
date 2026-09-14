@@ -293,3 +293,8 @@ B01 el hijo llega desde el pueblo ✅ · B02 la madre arreglándose el cabello b
 Revisión muestreada (B02/B05/B06 verificadas visualmente; bloque uniforme, mismos charters y set). **S11 ahora tiene 12 planos oficiales.** Ya en FINAL y disco del Jefe.
 **RAMÓN: siguiente tarea = ORDEN-061 (EL TRABAJO DEL HIJO) o ORDEN-062 (LA TARDE DE LA MADRE) — las que estén LIBRE.**
 | S03_P10 hermano azadón + P11 descanso (ELÍAS, corregidas) | ✅ APROBADAS | Hermano con camiseta blanca y SIN marca ✓, madre con pañuelo y taza esmaltada ✓, machete en el tronco ✓ (inventario). **S03 CONUCO: 8 planos oficiales.** En FINAL y disco. |
+
+## 🌙 VEREDICTO ORDEN-064 — S09-E "LA COMIDA DEL PRESENTE" (RAMÓN) — 6/6 ✅
+E01 hijo sirviendo a su madre (roles invertidos) ✅ · E02 los dos comiendo ✅ · E03 ella contándole con las manos ✅ · E04 él escuchando (contraplano) ✅ · E05 las dos tazas humeando (macro) ✅ · E06 cierre con las manos de ella dentro de las de él ✅.
+Revisión muestreada (E01/E05/E06 verificadas visualmente; bloque uniforme, mismos charters). **S09 PRESENTE ahora: 12 planos oficiales + extras.** En FINAL y disco.
+**RAMÓN: siguiente = ORDEN-062 (LA TARDE DE LA MADRE) o las PAREJAS DE TIEMPO (040-047).**
