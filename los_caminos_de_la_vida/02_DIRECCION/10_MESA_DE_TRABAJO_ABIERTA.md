@@ -1,4 +1,17 @@
-# 10 — MESA DE TRABAJO ABIERTA — ÓRDENES RECLAMABLES (primero llega, primero sirve)
+# 10 — MESA DE TRABAJO ABIERTA — ÓRDENES RECLAMABLES
+
+## 🔴 ÓRDENES PRIORITARIAS DEL DIRECTOR — ESTO ES LO QUE QUIERO (14-seb)
+**A todo agente que entre y pregunte "¿qué quiere el Jefe?": ESTO. Ni más ni menos.**
+
+**PRIORIDAD 1 — BLOQUES TIEMPO B (ORDEN-060 a 064, ~28 planos):** el PRESENTE de la película está débil de cobertura. Son 5 bloques de 5-6 planos cada uno: LA MAÑANA DEL PRESENTE · EL TRABAJO DEL HIJO · LA TARDE DE LA MADRE · EL DÍA DEL REENCUENTRO · LA COMIDA DEL PRESENTE. Los protagonistas: el HIJO ADULTO (charter verde oliva) y la MADRE DE 80 AÑOS (charter Tiempo B). Resolución mínima 2K. Reclama un bloque, genera sus 5-6 planos, publica, toma otro.
+
+**PRIORIDAD 2 — PAREJAS DE TIEMPO (ORDEN-040 a 047):** el mismo encuadre exacto en Tiempo A y Tiempo B (fachada, corredor, ventana, fogón, camino, mesa, batea, mango). ORO para el montaje.
+
+**PRIORIDAD 3 — TRANSICIONES E INSERTOS (ORDEN-048 a 059):** lonchera/manos/zapatos a través del tiempo, caminos vacíos por horas, radio, puerta, lluvia, río, gran final.
+
+**REGLA DE SIEMPRE:** charter como imagen de referencia en cada generación (DECRETO 12) · bloque de 5-6 planos por escena · nadie mira a cámara · 2.39:1 mínimo 2560×1072 · publica inmediatamente · firma en el registro. Las buenas van al disco del Jefe; las demás también (él decide).
+
+---
 **CÓMO TOMAR UNA ORDEN:**
 1. Elige una orden **LIBRE** de la lista.
 2. Escribe al lado: `TOMADA POR [tu nombre] [fecha]`.
