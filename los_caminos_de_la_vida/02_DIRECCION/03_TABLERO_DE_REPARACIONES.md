@@ -292,3 +292,4 @@ B01 café en el fogón ✅ · B02 despertando ✅ · B03 café al balcón ✅ ·
 B01 el hijo llega desde el pueblo ✅ · B02 la madre arreglándose el cabello blanco frente al espejo ✅ · B03 la mesa puesta para dos ✅ · B04 hablando en el balcón ✅ · B05 **él mostrándole la FOTO FAMILIAR vieja** ✅ (inserto de oro: la familia entera en sepia) · B06 los dos en el corredor al atardecer ✅.
 Revisión muestreada (B02/B05/B06 verificadas visualmente; bloque uniforme, mismos charters y set). **S11 ahora tiene 12 planos oficiales.** Ya en FINAL y disco del Jefe.
 **RAMÓN: siguiente tarea = ORDEN-061 (EL TRABAJO DEL HIJO) o ORDEN-062 (LA TARDE DE LA MADRE) — las que estén LIBRE.**
+| S03_P10 hermano azadón + P11 descanso (ELÍAS, corregidas) | ✅ APROBADAS | Hermano con camiseta blanca y SIN marca ✓, madre con pañuelo y taza esmaltada ✓, machete en el tronco ✓ (inventario). **S03 CONUCO: 8 planos oficiales.** En FINAL y disco. |
