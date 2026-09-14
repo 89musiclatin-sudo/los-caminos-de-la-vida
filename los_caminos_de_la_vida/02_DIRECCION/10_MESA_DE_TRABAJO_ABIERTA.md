@@ -126,7 +126,7 @@
 | Orden | Tarea | Estado |
 |---|---|---|
 | ORDEN-040 | PAREJA: la FACHADA de la casa — Tiempo A (menos vieja, madre joven en el corredor) y Tiempo B (envejecida, madre 80 sentada) | TOMADA POR RAMON 2026-09-14 — PAREJA A+B PUBLICADA 2K |
-| ORDEN-041 | PAREJA: el CORREDOR con la batea apoyada — A y B | LIBRE |
+| ORDEN-041 | PAREJA: el CORREDOR con la batea apoyada — A y B | TOMADA POR RAMON 2026-09-14 — PAREJA A+B PUBLICADA 2K |
 | ORDEN-042 | PAREJA: la VENTANA con postigos azules abiertos — A (madre joven asomada) y B (madre 80 asomada) | LIBRE |
 | ORDEN-043 | PAREJA: el FOGÓN de la cocina — A (con la olla de la madre) y B (frío, con ceniza) | LIBRE |
 | ORDEN-044 | PAREJA: el CAMINO de tierra — A (el niño caminando) y B (el hijo adulto caminando) | LIBRE |
