@@ -302,3 +302,4 @@ Revisión muestreada (E01/E05/E06 verificadas visualmente; bloque uniforme, mism
 ## ⏳ VEREDICTO ORDEN-040 — PRIMERA PAREJA DE TIEMPO (RAMÓN) — ✅ APROBADA
 **FACHADA A+B: mismo encuadre exacto.** La casa, el mango, la ropa tendida, las gallinas y el jarro idénticos; lo único que cambia: la casa envejecida (techo herrumbroso, madera gris) y la madre — joven de pie junto al mango → de 80 años en su mecedora. **Este fundido cuenta los 20 años de la película en un segundo de pantalla.** En FINAL/PAREJAS_DE_TIEMPO/ y en el disco del Jefe.
 **RAMÓN: siguiente = las PAREJAS 041-047 (corredor, ventana, fogón, camino, mesa, batea, mango) — el mismo método.**
+| ORDEN-041 PAREJA CORREDOR A+B (RAMÓN) | ✅ APROBADA | Mismo encuadre exacto: batea, ollas, rail y postigos en su sitio — solo cambiaron los 20 años (madera dorada → gris agrietada). En FINAL/PAREJAS_DE_TIEMPO/ y disco. |
