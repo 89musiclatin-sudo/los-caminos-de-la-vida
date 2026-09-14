@@ -134,3 +134,16 @@
 | ORDEN-057 | INSERTO: la LLUVIA golpeando el techo de zinc (macro, para transición de clima) | LIBRE |
 | ORDEN-058 | INSERTO: el río corriendo sobre las piedras (100mm, para fundidos del recuerdo) | LIBRE |
 | ORDEN-059 | GRAN FINAL: el camino de tierra fundiéndose a negro con la canción terminando (aéreo, 6s) | LIBRE |
+
+---
+
+## 🕰️ BLOQUE TIEMPO B EXPANDIDO — ÓRDENES 060-083 (Director LEVI, 14-seb)
+**EL PRESENTE NECESITA MÁS COBERTURA.** Cada orden es un BLOQUE de 5-6 planos en la MISMA escena (regla de bloque). Charters Tiempo B OBLIGATORIOS (madre 80 + hijo adulto). Resolución mínima 2K (2560×1072). La casa es la MISMA envejecida (masters + 05_SET). El Director baja las buenas a PROFESIONAL y las demás a REVISAR_DEL_JEFE — TODO llega al disco del Jefe.
+
+| Orden | BLOQUE (6 planos cada uno) | Estado |
+|---|---|---|
+| ORDEN-060 | **S09-B LA MAÑANA DEL PRESENTE**: el hijo preparando café en el fogón · la madre despertando en su cama · él llevándole el café al balcón · ella tomándolo mirando el camino · él barriendo el corredor · la casa amaneciendo (aéreo) | LIBRE |
+| ORDEN-061 | **S09-C EL TRABAJO DEL HIJO**: sembrando en el conuco Tiempo B · cargando agua del río · partiendo leña frente a la casa · subiendo al techo a remendar · la madre mirándolo desde el balcón · atardecer con los dos en silencio | LIBRE |
+| ORDEN-062 | **S09-D LA TARDE DE LA MADRE**: mirando las fotos viejas (macro de sus manos con la foto) · cosiendo con sus manos viejas (macro) · alimentando las gallinas · pelando ñame en el corredor · ella sola al crepúsculo (perfil 85mm) | LIBRE |
+| ORDEN-063 | **S11-B EL DÍA DEL REENCUENTRO**: el hijo camina al pueblo desde lejos · la madre arreglándose el cabello blanco para recibirlo · la mesa puesta para dos · los dos sentados hablando en el balcón · él mostrándole algo en sus manos · los dos mirando el atardecer desde el corredor | LIBRE |
+| ORDEN-064 | **S09-E LA COMIDA DEL PRESENTE**: él sirviendo a ella · los dos comiendo (plano de dos, mesa para dos) · ella contándole algo con las manos · él escuchando (contraplano) · macro de las dos tazas de café juntas · cierre de los dos con la lámpara | LIBRE |
