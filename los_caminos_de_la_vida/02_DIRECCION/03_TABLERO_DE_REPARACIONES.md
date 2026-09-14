@@ -268,3 +268,6 @@ Con la P03 oficial, la S11 cierra 6/6 y TODAS las escenas de LOS CAMINOS DE LA V
 | 🚁 COBERTURA DE GRANDES GENERALES: COMPLETA 11/11 | | Cada escena tiene su aéreo. La cobertura fotográfica de la película está total. |
 | S04_P07 desayuno (ELÍAS) | ✅ APROBADA | Cocina master respetada ✓, lonchera junto al niño ✓, madre con delantal sirviendo ✓. Nota menor: la etiqueta de la lonchera se ve ilustrada — vigilar en futuros planos. En FINAL y disco. |
 | S04_P08 despedida puerta (ELÍAS) | ✅ APROBADA | La madre entregando la lonchera en la puerta, galería con baranda ✓, batea ✓. En FINAL y disco. |
+| S04_P09 niño ve escuelita (ELÍAS) | ✅ APROBADA | Marca en ceja izquierda visible ✓, escuelita con bandera desenfocada ✓. En FINAL y disco. |
+| S04_P10 macro sandalias (ELÍAS) | ✅ APROBADA | Pantalón largo ✓, lonchera en el suelo ✓, pies correctos ✓. En FINAL y disco. |
+| S04_P11 madre desde la puerta (ELÍAS) | ✅ APROBADA | La madre viéndolo partir por la puerta — plano emocional de cierre de la mañana. En FINAL y disco. **BLOQUE MAÑANA DE ELÍAS: 5/5 ✅ COMPLETO.** |
